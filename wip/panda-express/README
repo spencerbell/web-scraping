@@ -1,0 +1,7 @@
+Panda Express
+
+ - Walk the location beacon using zipcodes
+
+curl -d 'zipCode=%' "http://www.pandaexpress.com/locations"
+
+returns html and have to parse out the results. reports 1000+ locations

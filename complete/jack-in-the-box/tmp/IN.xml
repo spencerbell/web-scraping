@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<location_resultset>
+<locations count="4">
+<location hrs='7' >
+<address><![CDATA[9769 E. Us Highway 36]]></address>
+<city><![CDATA[Avon]]></city>
+<state><![CDATA[IN]]></state>
+<zip><![CDATA[46123]]></zip>
+<phone><![CDATA[(317) 209-8279]]></phone>
+<location_id><![CDATA[6212]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[11614 Allisonville Road]]></address>
+<city><![CDATA[Fishers]]></city>
+<state><![CDATA[IN]]></state>
+<zip><![CDATA[46037]]></zip>
+<phone><![CDATA[(000) 000-0000]]></phone>
+<location_id><![CDATA[6215]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8950 S Us 31]]></address>
+<city><![CDATA[Indianapolis]]></city>
+<state><![CDATA[IN]]></state>
+<zip><![CDATA[46227]]></zip>
+<phone><![CDATA[(317) 883-3035]]></phone>
+<location_id><![CDATA[6209]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2130 N Post Rd]]></address>
+<city><![CDATA[Indianapolis]]></city>
+<state><![CDATA[IN]]></state>
+<zip><![CDATA[46219]]></zip>
+<phone><![CDATA[(317) 897-8043]]></phone>
+<location_id><![CDATA[6210]]></location_id>
+</location>
+</locations></location_resultset>
+						

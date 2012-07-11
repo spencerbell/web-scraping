@@ -1,0 +1,5 @@
+http://www.kmart.com/shc/s/StoreLocatorSearch?storeId=10151&latitude=30.2729209&longitude=-97.7443863&distance=3500&sourcePage=storeLocator
+
+Get all the stores by changing the search radius
+
+- returns json. make php script to parse out and create csv

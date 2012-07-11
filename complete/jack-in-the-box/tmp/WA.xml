@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<location_resultset>
+<locations count="145">
+<location hrs='7' >
+<address><![CDATA[400 E Heron St]]></address>
+<city><![CDATA[Aberdeen]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98520]]></zip>
+<phone><![CDATA[(360) 532-7243]]></phone>
+<location_id><![CDATA[8421]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2820 Commercial Ave]]></address>
+<city><![CDATA[Anacortes]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98221]]></zip>
+<phone><![CDATA[(360) 299-8602]]></phone>
+<location_id><![CDATA[8373]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3818 172nd St Ne]]></address>
+<city><![CDATA[Arlington]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98223]]></zip>
+<phone><![CDATA[(360) 653-3734]]></phone>
+<location_id><![CDATA[8466]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[524 A St Se]]></address>
+<city><![CDATA[Auburn]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98002]]></zip>
+<phone><![CDATA[(253) 939-3270]]></phone>
+<location_id><![CDATA[8366]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[340 15th St Ne]]></address>
+<city><![CDATA[Auburn]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98002]]></zip>
+<phone><![CDATA[(253) 939-6860]]></phone>
+<location_id><![CDATA[8427]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[19 Nw 12th Ave]]></address>
+<city><![CDATA[Battle Ground]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98604]]></zip>
+<phone><![CDATA[(360) 666-2281]]></phone>
+<location_id><![CDATA[8320]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3179 156th Ave Se]]></address>
+<city><![CDATA[Bellevue]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98007]]></zip>
+<phone><![CDATA[(425) 746-0527]]></phone>
+<location_id><![CDATA[8367]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1900 148th Ave Ne]]></address>
+<city><![CDATA[Bellevue]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98007]]></zip>
+<phone><![CDATA[(425) 643-3388]]></phone>
+<location_id><![CDATA[8422]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[12 Bellevue Way Se]]></address>
+<city><![CDATA[Bellevue]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98004]]></zip>
+<phone><![CDATA[(425) 454-9387]]></phone>
+<location_id><![CDATA[8418]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1020 W Bakerview Rd]]></address>
+<city><![CDATA[Bellingham]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98226]]></zip>
+<phone><![CDATA[(360) 647-6072]]></phone>
+<location_id><![CDATA[8372]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1075 E Sunset Dr]]></address>
+<city><![CDATA[Bellingham]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98226]]></zip>
+<phone><![CDATA[(360) 671-7727]]></phone>
+<location_id><![CDATA[8457]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8140 Birch Bay Square St]]></address>
+<city><![CDATA[Blaine]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98230]]></zip>
+<phone><![CDATA[(360) 366-3869]]></phone>
+<location_id><![CDATA[8380]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[19510 State Route 410 E]]></address>
+<city><![CDATA[Bonney Lake]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98390]]></zip>
+<phone><![CDATA[(253) 862-0999]]></phone>
+<location_id><![CDATA[8460]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[22736 Bothell Everett Hwy]]></address>
+<city><![CDATA[Bothell]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98021]]></zip>
+<phone><![CDATA[(425) 485-7364]]></phone>
+<location_id><![CDATA[8302]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4219 Wheaton Way]]></address>
+<city><![CDATA[Bremerton]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98310]]></zip>
+<phone><![CDATA[(360) 479-3443]]></phone>
+<location_id><![CDATA[8449]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4305 Kitsap Way]]></address>
+<city><![CDATA[Bremerton]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98312]]></zip>
+<phone><![CDATA[(360) 782-0387]]></phone>
+<location_id><![CDATA[8363]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1127 Sw 128th St]]></address>
+<city><![CDATA[Burien]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98146]]></zip>
+<phone><![CDATA[(206) 244-1950]]></phone>
+<location_id><![CDATA[8407]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[14206 1st Ave S]]></address>
+<city><![CDATA[Burien]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98168]]></zip>
+<phone><![CDATA[(206) 242-3364]]></phone>
+<location_id><![CDATA[8405]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[610 S Burlington Blvd]]></address>
+<city><![CDATA[Burlington]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98233]]></zip>
+<phone><![CDATA[(360) 757-7580]]></phone>
+<location_id><![CDATA[8455]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9408 Old Highway 99]]></address>
+<city><![CDATA[Burlington]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98233]]></zip>
+<phone><![CDATA[(360) 757-0938]]></phone>
+<location_id><![CDATA[8379]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1130 Harrison Ave]]></address>
+<city><![CDATA[Centralia]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98531]]></zip>
+<phone><![CDATA[(360) 807-0277]]></phone>
+<location_id><![CDATA[8493]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[113 Interstate Ave]]></address>
+<city><![CDATA[Chehalis]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98532]]></zip>
+<phone><![CDATA[(360) 748-6505]]></phone>
+<location_id><![CDATA[8465]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[22633 Marine View Dr S]]></address>
+<city><![CDATA[Des Moines]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98198]]></zip>
+<phone><![CDATA[(206) 870-0995]]></phone>
+<location_id><![CDATA[8472]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1810 S 272nd St]]></address>
+<city><![CDATA[Des Moines]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98198]]></zip>
+<phone><![CDATA[(253) 941-5958]]></phone>
+<location_id><![CDATA[8478]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1275 Center Dr]]></address>
+<city><![CDATA[Dupont]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98327]]></zip>
+<phone><![CDATA[(253) 964-0759]]></phone>
+<location_id><![CDATA[8370]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[501 Grant Rd]]></address>
+<city><![CDATA[East Wenatchee]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98802]]></zip>
+<phone><![CDATA[(509) 884-1934]]></phone>
+<location_id><![CDATA[8389]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[21130 Highway 99]]></address>
+<city><![CDATA[Edmonds]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98026]]></zip>
+<phone><![CDATA[(425) 771-5212]]></phone>
+<location_id><![CDATA[8434]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[115 W University Way]]></address>
+<city><![CDATA[Ellensburg]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98926]]></zip>
+<phone><![CDATA[(509) 933-2833]]></phone>
+<location_id><![CDATA[8484]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[311 Griffin Ave E]]></address>
+<city><![CDATA[Enumclaw]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98022]]></zip>
+<phone><![CDATA[(360) 802-1087]]></phone>
+<location_id><![CDATA[8454]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1515 132nd St Se]]></address>
+<city><![CDATA[Everett]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98208]]></zip>
+<phone><![CDATA[(425) 337-6666]]></phone>
+<location_id><![CDATA[8314]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4717 Evergreen Way]]></address>
+<city><![CDATA[Everett]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98203]]></zip>
+<phone><![CDATA[(425) 339-0866]]></phone>
+<location_id><![CDATA[8470]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[11820 Evergreen Way]]></address>
+<city><![CDATA[Everett]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98204]]></zip>
+<phone><![CDATA[(425) 356-9920]]></phone>
+<location_id><![CDATA[8307]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2106 Everett Ave]]></address>
+<city><![CDATA[Everett]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98201]]></zip>
+<phone><![CDATA[(425) 259-5283]]></phone>
+<location_id><![CDATA[8423]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1505 Se Everett Mall Way]]></address>
+<city><![CDATA[Everett]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98208]]></zip>
+<phone><![CDATA[(425) 347-7171]]></phone>
+<location_id><![CDATA[8438]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8520 Evergreen Way]]></address>
+<city><![CDATA[Everett]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98208]]></zip>
+<phone><![CDATA[(425) 267-9651]]></phone>
+<location_id><![CDATA[8310]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1610 S 347th Pl]]></address>
+<city><![CDATA[Federal Way]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98003]]></zip>
+<phone><![CDATA[(253) 815-0059]]></phone>
+<location_id><![CDATA[8305]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2400 Sw 336th St]]></address>
+<city><![CDATA[Federal Way]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98023]]></zip>
+<phone><![CDATA[(253) 874-5257]]></phone>
+<location_id><![CDATA[8360]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[31130 Pacific Hwy S]]></address>
+<city><![CDATA[Federal Way]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98003]]></zip>
+<phone><![CDATA[(253) 839-3592]]></phone>
+<location_id><![CDATA[8420]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3402 Pacific Hwy E]]></address>
+<city><![CDATA[Fife]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98424]]></zip>
+<phone><![CDATA[(253) 922-9439]]></phone>
+<location_id><![CDATA[8447]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[740 Nw Gilman Blvd]]></address>
+<city><![CDATA[Issaquah]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98027]]></zip>
+<phone><![CDATA[(425) 837-1618]]></phone>
+<location_id><![CDATA[8303]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6100 Ne Bothell Way]]></address>
+<city><![CDATA[Kenmore]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98028]]></zip>
+<phone><![CDATA[(425) 486-6856]]></phone>
+<location_id><![CDATA[8426]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4800 W Clearwater Ave]]></address>
+<city><![CDATA[Kennewick]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[99336]]></zip>
+<phone><![CDATA[(509) 374-0437]]></phone>
+<location_id><![CDATA[8351]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2722 W 10th Ave]]></address>
+<city><![CDATA[Kennewick]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[99336]]></zip>
+<phone><![CDATA[(509) 585-0406]]></phone>
+<location_id><![CDATA[8301]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[221 Central Ave N]]></address>
+<city><![CDATA[Kent]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98032]]></zip>
+<phone><![CDATA[(253) 854-2689]]></phone>
+<location_id><![CDATA[8404]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8829 S 180th St]]></address>
+<city><![CDATA[Kent]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98032]]></zip>
+<phone><![CDATA[(425) 251-0286]]></phone>
+<location_id><![CDATA[8496]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[23911 104th Ave Se]]></address>
+<city><![CDATA[Kent]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98031]]></zip>
+<phone><![CDATA[(253) 854-3044]]></phone>
+<location_id><![CDATA[8429]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[20746 108th Ave Se]]></address>
+<city><![CDATA[Kent]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98031]]></zip>
+<phone><![CDATA[(253) 852-1529]]></phone>
+<location_id><![CDATA[8474]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[16757 Se 272nd St]]></address>
+<city><![CDATA[Kent]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98042]]></zip>
+<phone><![CDATA[(253) 631-5393]]></phone>
+<location_id><![CDATA[8499]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[12409 Ne 116th St]]></address>
+<city><![CDATA[Kirkland]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98034]]></zip>
+<phone><![CDATA[(425) 822-8442]]></phone>
+<location_id><![CDATA[8448]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8215 Martin Way E]]></address>
+<city><![CDATA[Lacey]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98516]]></zip>
+<phone><![CDATA[(360) 438-8544]]></phone>
+<location_id><![CDATA[8343]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4040 Martin Way]]></address>
+<city><![CDATA[Lacey]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98506]]></zip>
+<phone><![CDATA[(360) 491-4632]]></phone>
+<location_id><![CDATA[8430]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[507 91st Ave Ne]]></address>
+<city><![CDATA[Lake Stevens]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98258]]></zip>
+<phone><![CDATA[(425) 334-6130]]></phone>
+<location_id><![CDATA[8388]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8504 Hipkins Rd Sw]]></address>
+<city><![CDATA[Lakewood]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98498]]></zip>
+<phone><![CDATA[(253) 984-0661]]></phone>
+<location_id><![CDATA[8468]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9815 Gravelly Lake Dr Sw]]></address>
+<city><![CDATA[Lakewood]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98499]]></zip>
+<phone><![CDATA[(253) 584-4155]]></phone>
+<location_id><![CDATA[8415]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8814 S Tacoma Way]]></address>
+<city><![CDATA[Lakewood]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98499]]></zip>
+<phone><![CDATA[(253) 581-7244]]></phone>
+<location_id><![CDATA[8450]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1445 15th Ave]]></address>
+<city><![CDATA[Longview]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98632]]></zip>
+<phone><![CDATA[(360) 636-3500]]></phone>
+<location_id><![CDATA[8431]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[8083 Guide Meridian Rd]]></address>
+<city><![CDATA[Lynden]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98264]]></zip>
+<phone><![CDATA[(360) 354-6679]]></phone>
+<location_id><![CDATA[8359]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1212 164th St Sw]]></address>
+<city><![CDATA[Lynnwood]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98087]]></zip>
+<phone><![CDATA[(425) 742-0652]]></phone>
+<location_id><![CDATA[8464]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4323 196th St Sw]]></address>
+<city><![CDATA[Lynnwood]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98036]]></zip>
+<phone><![CDATA[(425) 673-7895]]></phone>
+<location_id><![CDATA[8483]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[17210 Highway 99]]></address>
+<city><![CDATA[Lynnwood]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98037]]></zip>
+<phone><![CDATA[(425) 745-6505]]></phone>
+<location_id><![CDATA[8381]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9603 State Ave]]></address>
+<city><![CDATA[Marysville]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98270]]></zip>
+<phone><![CDATA[(360) 653-7447]]></phone>
+<location_id><![CDATA[8308]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1125 4th St]]></address>
+<city><![CDATA[Marysville]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98270]]></zip>
+<phone><![CDATA[(360) 653-8344]]></phone>
+<location_id><![CDATA[8437]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[13714 Roosevelt Rd]]></address>
+<city><![CDATA[Monroe]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98272]]></zip>
+<phone><![CDATA[(360) 863-8377]]></phone>
+<location_id><![CDATA[8390]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[19905 State Route 2]]></address>
+<city><![CDATA[Monroe]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98272]]></zip>
+<phone><![CDATA[(360) 794-1896]]></phone>
+<location_id><![CDATA[8475]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[506 E Wheeler Rd]]></address>
+<city><![CDATA[Moses Lake]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98837]]></zip>
+<phone><![CDATA[(509) 764-1581]]></phone>
+<location_id><![CDATA[8335]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[304 E College Way]]></address>
+<city><![CDATA[Mount Vernon]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98273]]></zip>
+<phone><![CDATA[(360) 428-6960]]></phone>
+<location_id><![CDATA[8417]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[11800 Mukilteo Speedway]]></address>
+<city><![CDATA[Mukilteo]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98275]]></zip>
+<phone><![CDATA[(425) 493-8470]]></phone>
+<location_id><![CDATA[8344]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[32205 State Route 20]]></address>
+<city><![CDATA[Oak Harbor]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98277]]></zip>
+<phone><![CDATA[(360) 675-1768]]></phone>
+<location_id><![CDATA[8452]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[520 Plum St Se]]></address>
+<city><![CDATA[Olympia]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98501]]></zip>
+<phone><![CDATA[(360) 754-7296]]></phone>
+<location_id><![CDATA[8424]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[402 Seattle Blvd N]]></address>
+<city><![CDATA[Pacific]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98047]]></zip>
+<phone><![CDATA[(253) 351-9346]]></phone>
+<location_id><![CDATA[8473]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[7214 Burden Blvd]]></address>
+<city><![CDATA[Pasco]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[99301]]></zip>
+<phone><![CDATA[(509) 546-2174]]></phone>
+<location_id><![CDATA[8383]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3109 W Court St]]></address>
+<city><![CDATA[Pasco]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[99301]]></zip>
+<phone><![CDATA[(509) 544-0576]]></phone>
+<location_id><![CDATA[8345]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[902 E Front St]]></address>
+<city><![CDATA[Port Angeles]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98362]]></zip>
+<phone><![CDATA[(360) 417-5187]]></phone>
+<location_id><![CDATA[8358]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1467 Olney St Se]]></address>
+<city><![CDATA[Port Orchard]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98366]]></zip>
+<phone><![CDATA[(360) 876-4236]]></phone>
+<location_id><![CDATA[8451]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[21599 Market Pl Nw]]></address>
+<city><![CDATA[Poulsbo]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98370]]></zip>
+<phone><![CDATA[(360) 394-5225]]></phone>
+<location_id><![CDATA[8391]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[310 Ne Stadium Way]]></address>
+<city><![CDATA[Pullman]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[99163]]></zip>
+<phone><![CDATA[(509) 332-5317]]></phone>
+<location_id><![CDATA[8361]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[705 S Meridian]]></address>
+<city><![CDATA[Puyallup]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98371]]></zip>
+<phone><![CDATA[(253) 435-6071]]></phone>
+<location_id><![CDATA[8462]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[11024 Canyon Rd E]]></address>
+<city><![CDATA[Puyallup]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98373]]></zip>
+<phone><![CDATA[(253) 537-3467]]></phone>
+<location_id><![CDATA[8488]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3750 S Meridian]]></address>
+<city><![CDATA[Puyallup]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98373]]></zip>
+<phone><![CDATA[(253) 840-2411]]></phone>
+<location_id><![CDATA[8463]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[16022 Meridian E]]></address>
+<city><![CDATA[Puyallup]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98375]]></zip>
+<phone><![CDATA[(253) 435-0648]]></phone>
+<location_id><![CDATA[8485]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[16280 Ne 87th St]]></address>
+<city><![CDATA[Redmond]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98052]]></zip>
+<phone><![CDATA[(425) 861-0681]]></phone>
+<location_id><![CDATA[8346]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[479 Rainier Ave S]]></address>
+<city><![CDATA[Renton]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98055]]></zip>
+<phone><![CDATA[(425) 226-1923]]></phone>
+<location_id><![CDATA[8409]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2813 Sunset Blvd Ne]]></address>
+<city><![CDATA[Renton]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98056]]></zip>
+<phone><![CDATA[(425) 228-5207]]></phone>
+<location_id><![CDATA[8413]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4810 Ne 4th St]]></address>
+<city><![CDATA[Renton]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98059]]></zip>
+<phone><![CDATA[(425) 793-5874]]></phone>
+<location_id><![CDATA[8306]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1491 Tapteal Dr]]></address>
+<city><![CDATA[Richland]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[99352]]></zip>
+<phone><![CDATA[(509) 374-0810]]></phone>
+<location_id><![CDATA[8311]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[49 Columbia Point Dr]]></address>
+<city><![CDATA[Richland]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[99352]]></zip>
+<phone><![CDATA[(509) 943-8544]]></phone>
+<location_id><![CDATA[8327]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[620 228th Ave Ne]]></address>
+<city><![CDATA[Sammamish]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98074]]></zip>
+<phone><![CDATA[(425) 868-4131]]></phone>
+<location_id><![CDATA[8333]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2840 S 188th St]]></address>
+<city><![CDATA[Seatac]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98188]]></zip>
+<phone><![CDATA[(206) 244-6293]]></phone>
+<location_id><![CDATA[8428]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[13055 Lake City Way Ne]]></address>
+<city><![CDATA[Seattle]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98125]]></zip>
+<phone><![CDATA[(206) 364-3485]]></phone>
+<location_id><![CDATA[8497]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5903 1st Ave S]]></address>
+<city><![CDATA[Seattle]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98108]]></zip>
+<phone><![CDATA[(206) 764-9564]]></phone>
+<location_id><![CDATA[8490]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9102 Rainier Ave S]]></address>
+<city><![CDATA[Seattle]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98118]]></zip>
+<phone><![CDATA[(206) 725-7143]]></phone>
+<location_id><![CDATA[8406]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4749 University Way Ne]]></address>
+<city><![CDATA[Seattle]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98105]]></zip>
+<phone><![CDATA[(206) 525-5599]]></phone>
+<location_id><![CDATA[8412]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1907 4th Ave S]]></address>
+<city><![CDATA[Seattle]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98134]]></zip>
+<phone><![CDATA[(206) 628-9028]]></phone>
+<location_id><![CDATA[8467]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[999 Nw Leary Way]]></address>
+<city><![CDATA[Seattle]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98107]]></zip>
+<phone><![CDATA[(206) 706-0524]]></phone>
+<location_id><![CDATA[8324]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4203 Sw Admiral Way]]></address>
+<city><![CDATA[Seattle]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98116]]></zip>
+<phone><![CDATA[(206) 932-7315]]></phone>
+<location_id><![CDATA[8476]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8502 Aurora Ave N]]></address>
+<city><![CDATA[Seattle]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98103]]></zip>
+<phone><![CDATA[(206) 524-2296]]></phone>
+<location_id><![CDATA[8425]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[12515 Aurora Ave N]]></address>
+<city><![CDATA[Seattle]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98133]]></zip>
+<phone><![CDATA[(206) 365-2204]]></phone>
+<location_id><![CDATA[8350]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1280 W Washington St]]></address>
+<city><![CDATA[Sequim]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98382]]></zip>
+<phone><![CDATA[(360) 681-4069]]></phone>
+<location_id><![CDATA[8368]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2947 Olympic Hwy N]]></address>
+<city><![CDATA[Shelton]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98584]]></zip>
+<phone><![CDATA[(360) 427-1468]]></phone>
+<location_id><![CDATA[8329]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[18213 Aurora Ave N]]></address>
+<city><![CDATA[Shoreline]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98133]]></zip>
+<phone><![CDATA[(206) 546-1978]]></phone>
+<location_id><![CDATA[8410]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[10735 Silverdale Way Nw]]></address>
+<city><![CDATA[Silverdale]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98383]]></zip>
+<phone><![CDATA[(360) 698-0150]]></phone>
+<location_id><![CDATA[8441]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[827 Avenue D]]></address>
+<city><![CDATA[Snohomish]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98290]]></zip>
+<phone><![CDATA[(360) 568-6644]]></phone>
+<location_id><![CDATA[8321]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[20505 Mountain Hwy E]]></address>
+<city><![CDATA[Spanaway]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98387]]></zip>
+<phone><![CDATA[(253) 847-2891]]></phone>
+<location_id><![CDATA[8386]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[4220 E Sprague Ave]]></address>
+<city><![CDATA[Spokane]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[99202]]></zip>
+<phone><![CDATA[(509) 533-1191]]></phone>
+<location_id><![CDATA[8480]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[505 W 3rd Ave]]></address>
+<city><![CDATA[Spokane]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[99201]]></zip>
+<phone><![CDATA[(509) 456-0540]]></phone>
+<location_id><![CDATA[8461]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[10306 W Highway 2]]></address>
+<city><![CDATA[Spokane]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[99224]]></zip>
+<phone><![CDATA[(509) 455-5155]]></phone>
+<location_id><![CDATA[8385]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[5 W Hawthorne Rd]]></address>
+<city><![CDATA[Spokane]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[99218]]></zip>
+<phone><![CDATA[(509) 465-5865]]></phone>
+<location_id><![CDATA[8432]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1505 N Pines Rd]]></address>
+<city><![CDATA[Spokane]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[99206]]></zip>
+<phone><![CDATA[(509) 891-4145]]></phone>
+<location_id><![CDATA[8435]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[6318 N Division St]]></address>
+<city><![CDATA[Spokane]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[99208]]></zip>
+<phone><![CDATA[(509) 484-5962]]></phone>
+<location_id><![CDATA[8439]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2732 N Division St]]></address>
+<city><![CDATA[Spokane]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[99207]]></zip>
+<phone><![CDATA[(509) 328-1041]]></phone>
+<location_id><![CDATA[8338]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4001 N Market St]]></address>
+<city><![CDATA[Spokane]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[99207]]></zip>
+<phone><![CDATA[(509) 487-2586]]></phone>
+<location_id><![CDATA[8326]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2205 N Argonne Rd]]></address>
+<city><![CDATA[Spokane Valley]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[99212]]></zip>
+<phone><![CDATA[(509) 922-7320]]></phone>
+<location_id><![CDATA[8442]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[26906 92nd Ave Nw]]></address>
+<city><![CDATA[Stanwood]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98282]]></zip>
+<phone><![CDATA[(360) 629-2384]]></phone>
+<location_id><![CDATA[8369]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[827 Valley Ave]]></address>
+<city><![CDATA[Sumner]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98390]]></zip>
+<phone><![CDATA[(253) 863-1698]]></phone>
+<location_id><![CDATA[8376]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[100 W South Hill Rd]]></address>
+<city><![CDATA[Sunnyside]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98944]]></zip>
+<phone><![CDATA[(509) 837-3644]]></phone>
+<location_id><![CDATA[8362]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[10656 Pacific Ave S]]></address>
+<city><![CDATA[Tacoma]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98444]]></zip>
+<phone><![CDATA[(253) 536-1995]]></phone>
+<location_id><![CDATA[8445]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4702 S Center St]]></address>
+<city><![CDATA[Tacoma]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98409]]></zip>
+<phone><![CDATA[(253) 460-3441]]></phone>
+<location_id><![CDATA[8340]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[15114 Pacific Ave S]]></address>
+<city><![CDATA[Tacoma]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98444]]></zip>
+<phone><![CDATA[(253) 536-3280]]></phone>
+<location_id><![CDATA[8477]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2420 Pacific Ave]]></address>
+<city><![CDATA[Tacoma]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98402]]></zip>
+<phone><![CDATA[(253) 627-2907]]></phone>
+<location_id><![CDATA[8469]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5207 Tacoma Mall Blvd]]></address>
+<city><![CDATA[Tacoma]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98409]]></zip>
+<phone><![CDATA[(253) 472-0533]]></phone>
+<location_id><![CDATA[8371]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2054 6th Ave]]></address>
+<city><![CDATA[Tacoma]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98403]]></zip>
+<phone><![CDATA[(253) 597-8974]]></phone>
+<location_id><![CDATA[8304]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7605 S Hosmer St]]></address>
+<city><![CDATA[Tacoma]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98408]]></zip>
+<phone><![CDATA[(253) 475-9465]]></phone>
+<location_id><![CDATA[8440]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6702 6th Ave]]></address>
+<city><![CDATA[Tacoma]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98406]]></zip>
+<phone><![CDATA[(253) 565-2934]]></phone>
+<location_id><![CDATA[8416]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5517 Pacific Ave]]></address>
+<city><![CDATA[Tacoma]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98408]]></zip>
+<phone><![CDATA[(253) 473-3407]]></phone>
+<location_id><![CDATA[8411]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3742 S 144th St]]></address>
+<city><![CDATA[Tukwila]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98168]]></zip>
+<phone><![CDATA[(206) 242-8877]]></phone>
+<location_id><![CDATA[8365]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[16400 W Valley Hwy]]></address>
+<city><![CDATA[Tukwila]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98188]]></zip>
+<phone><![CDATA[(425) 235-5060]]></phone>
+<location_id><![CDATA[8443]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[13050 Interurban Ave S]]></address>
+<city><![CDATA[Tukwila]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98168]]></zip>
+<phone><![CDATA[(206) 242-3525]]></phone>
+<location_id><![CDATA[8481]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1635 Mottman Rd Sw]]></address>
+<city><![CDATA[Tumwater]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98512]]></zip>
+<phone><![CDATA[(360) 357-1068]]></phone>
+<location_id><![CDATA[8319]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[110 Trosper Rd Sw]]></address>
+<city><![CDATA[Tumwater]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98501]]></zip>
+<phone><![CDATA[(360) 705-1506]]></phone>
+<location_id><![CDATA[8471]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3922 Bridgeport Way W]]></address>
+<city><![CDATA[University Place]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98466]]></zip>
+<phone><![CDATA[(253) 565-3513]]></phone>
+<location_id><![CDATA[8482]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7650 Ne Fourth Plain Rd]]></address>
+<city><![CDATA[Vancouver]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98662]]></zip>
+<phone><![CDATA[(360) 891-8806]]></phone>
+<location_id><![CDATA[8318]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[16333 Se 12th St Bldg A]]></address>
+<city><![CDATA[Vancouver]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98683]]></zip>
+<phone><![CDATA[(360) 260-2666]]></phone>
+<location_id><![CDATA[8313]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[7815 Ne 6th Ave]]></address>
+<city><![CDATA[Vancouver]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98665]]></zip>
+<phone><![CDATA[(360) 546-2050]]></phone>
+<location_id><![CDATA[8375]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[13009 Ne Highway 99 Ste 300]]></address>
+<city><![CDATA[Vancouver]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98686]]></zip>
+<phone><![CDATA[(360) 576-7023]]></phone>
+<location_id><![CDATA[8330]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[221 Ne 104th Ave]]></address>
+<city><![CDATA[Vancouver]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98664]]></zip>
+<phone><![CDATA[(360) 885-3898]]></phone>
+<location_id><![CDATA[8487]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7205 Ne 117th Ave]]></address>
+<city><![CDATA[Vancouver]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98662]]></zip>
+<phone><![CDATA[(360) 885-2450]]></phone>
+<location_id><![CDATA[8331]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[711 N Sullivan Rd]]></address>
+<city><![CDATA[Veradale]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[99037]]></zip>
+<phone><![CDATA[(509) 892-0475]]></phone>
+<location_id><![CDATA[8491]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[212 S 9th Ave]]></address>
+<city><![CDATA[Walla Walla]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[99362]]></zip>
+<phone><![CDATA[(509) 529-1832]]></phone>
+<location_id><![CDATA[8322]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3307 Evergreen Way #201]]></address>
+<city><![CDATA[Washougal]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98671]]></zip>
+<phone><![CDATA[(360) 335-8406]]></phone>
+<location_id><![CDATA[8328]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[408 N Chelan Ave]]></address>
+<city><![CDATA[Wenatchee]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98801]]></zip>
+<phone><![CDATA[(509) 667-1627]]></phone>
+<location_id><![CDATA[8378]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[17445 131st Ave Ne]]></address>
+<city><![CDATA[Woodinville]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98072]]></zip>
+<phone><![CDATA[(425) 486-4580]]></phone>
+<location_id><![CDATA[8489]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3907 Tieton Dr]]></address>
+<city><![CDATA[Yakima]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98902]]></zip>
+<phone><![CDATA[(509) 972-4368]]></phone>
+<location_id><![CDATA[8494]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1002 N 1st St]]></address>
+<city><![CDATA[Yakima]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98901]]></zip>
+<phone><![CDATA[(509) 452-5260]]></phone>
+<location_id><![CDATA[8315]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[2317 S First St]]></address>
+<city><![CDATA[Yakima]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98903]]></zip>
+<phone><![CDATA[(509) 248-3796]]></phone>
+<location_id><![CDATA[8300]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1001 E Yelm Ave]]></address>
+<city><![CDATA[Yelm]]></city>
+<state><![CDATA[WA]]></state>
+<zip><![CDATA[98597]]></zip>
+<phone><![CDATA[(360) 400-5225]]></phone>
+<location_id><![CDATA[8336]]></location_id>
+</location>
+</locations></location_resultset>
+						

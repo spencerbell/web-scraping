@@ -1,0 +1,7 @@
+http://sites.target.com/site/en/spot/state_results.jsp?state=TX
+
+Write a spider to walk over all the state links. parse out the information from the table
+
+- php script
+
+- easy

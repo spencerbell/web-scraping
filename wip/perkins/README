@@ -1,0 +1,15 @@
+hosted.where2getit.com
+
+radius hack
+
+http://hosted.where2getit.com/perkins/ajax?&xml_request=%3Crequest%3E%3Cappkey%3E6F9CE10A-2753-11E1-BC8C-0033DEB2B31E%3C%2Fappkey%3E%3Cformdata%20id%3D%22locatorsearch%22%3E%3Cdataview%3Estore_default%3C%2Fdataview%3E%3Cgeolocs%3E%3Cgeoloc%3E%3Caddressline%3Ecleveland%2C%20oh%3C%2Faddressline%3E%3Clongitude%3E%3C%2Flongitude%3E%3Clatitude%3E%3C%2Flatitude%3E%3C%2Fgeoloc%3E%3C%2Fgeolocs%3E%3Csearchradius%3E3000%3C%2Fsearchradius%3E%3C%2Fformdata%3E%3C%2Frequest%3E
+
+
+curl and xsl translate to csv file. done.
+
+
+or from perkins site(preferred)
+
+http://www.perkinsrestaurants.com/locations
+
+straight HTML scrape

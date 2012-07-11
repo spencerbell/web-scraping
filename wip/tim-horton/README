@@ -1,0 +1,6 @@
+http://www.timhortons.com/ca/php/GetSearchResultMarkers.php?noCache=1339662637354&lat=30.3438812&lng=-89.82333249999999&units=mi&radius=3500&q_tc=false&q_csc=false&q_iss=false&q_dt=false&q_24h=false&q_wifi=fals
+
+http://www.timhortons.com/us/php/GetSearchResultMarkers.php?noCache=1339662637354&lat=30.3438812&lng=-89.82333249999999&units=mi&radius=3500&q_tc=false&q_csc=false&q_iss=false&q_dt=false&q_24h=false&q_wifi=fals
+
+
+create some XSL to extract these into a csv/tsv

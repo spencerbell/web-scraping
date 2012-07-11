@@ -1,0 +1,8 @@
+
+radius hack
+
+http://www.jambajuice.com/index.php?option=com_storelocator&format=feed&searchall=0&lat=30.2259488&lng=-97.7145152&radius=10000&categories=&store=0
+
+return xml, so write an xsl treatment and be done
+
+

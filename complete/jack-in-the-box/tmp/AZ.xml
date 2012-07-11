@@ -1,0 +1,1397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<location_resultset>
+<locations count="174">
+<location hrs='0' >
+<address><![CDATA[39526 N Gavilan Peak Pkwy]]></address>
+<city><![CDATA[Anthem]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85086]]></zip>
+<phone><![CDATA[(623) 551-3380]]></phone>
+<location_id><![CDATA[1537]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2600 W Apache Trl]]></address>
+<city><![CDATA[Apache Junction]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85120]]></zip>
+<phone><![CDATA[(480) 671-1061]]></phone>
+<location_id><![CDATA[1538]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[13088 W Rancho Santa Fe Blvd]]></address>
+<city><![CDATA[Avondale]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85392]]></zip>
+<phone><![CDATA[(623) 935-4141]]></phone>
+<location_id><![CDATA[1139]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[250 N Avondale Blvd]]></address>
+<city><![CDATA[Avondale]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85323]]></zip>
+<phone><![CDATA[(623) 932-2058]]></phone>
+<location_id><![CDATA[1564]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[775 N Ocotillo Rd]]></address>
+<city><![CDATA[Benson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85602]]></zip>
+<phone><![CDATA[(520) 586-2235]]></phone>
+<location_id><![CDATA[1511]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1460 S Watson Rd]]></address>
+<city><![CDATA[Buckeye]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85326]]></zip>
+<phone><![CDATA[(623) 691-6042]]></phone>
+<location_id><![CDATA[1547]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2350 Miracle Mile Ste 100]]></address>
+<city><![CDATA[Bullhead City]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[86442]]></zip>
+<phone><![CDATA[(928) 758-5828]]></phone>
+<location_id><![CDATA[1122]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1194 E Florence Blvd]]></address>
+<city><![CDATA[Casa Grande]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85222]]></zip>
+<phone><![CDATA[(520) 836-0304]]></phone>
+<location_id><![CDATA[149]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[29815 N Tatum Blvd]]></address>
+<city><![CDATA[Cave Creek]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85331]]></zip>
+<phone><![CDATA[(480) 473-8291]]></phone>
+<location_id><![CDATA[1148]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[955 E Riggs Rd]]></address>
+<city><![CDATA[Chandler]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85249]]></zip>
+<phone><![CDATA[(480) 802-7807]]></phone>
+<location_id><![CDATA[1526]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[141 N Arizona Ave]]></address>
+<city><![CDATA[Chandler]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85225]]></zip>
+<phone><![CDATA[(480) 963-7187]]></phone>
+<location_id><![CDATA[138]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4900 W Ray Rd]]></address>
+<city><![CDATA[Chandler]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85226]]></zip>
+<phone><![CDATA[(480) 775-4660]]></phone>
+<location_id><![CDATA[1140]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[900 N Cooper Rd]]></address>
+<city><![CDATA[Chandler]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85225]]></zip>
+<phone><![CDATA[(480) 821-5027]]></phone>
+<location_id><![CDATA[1142]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2070 N Dobson Rd]]></address>
+<city><![CDATA[Chandler]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85224]]></zip>
+<phone><![CDATA[(480) 792-0649]]></phone>
+<location_id><![CDATA[1518]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4250 S Arizona Ave]]></address>
+<city><![CDATA[Chandler]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85248]]></zip>
+<phone><![CDATA[(480) 895-1903]]></phone>
+<location_id><![CDATA[1548]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1790 W Chandler Blvd]]></address>
+<city><![CDATA[Chandler]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85224]]></zip>
+<phone><![CDATA[(480) 726-3758]]></phone>
+<location_id><![CDATA[1144]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[2090 N Arizona Ave]]></address>
+<city><![CDATA[Chandler]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85225]]></zip>
+<phone><![CDATA[(480) 821-5671]]></phone>
+<location_id><![CDATA[1195]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1180 S Highway 260]]></address>
+<city><![CDATA[Cottonwood]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[86326]]></zip>
+<phone><![CDATA[(928) 639-1261]]></phone>
+<location_id><![CDATA[1121]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[505 S Milton Rd]]></address>
+<city><![CDATA[Flagstaff]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[86001]]></zip>
+<phone><![CDATA[(928) 774-1723]]></phone>
+<location_id><![CDATA[141]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[3620 E Route 66]]></address>
+<city><![CDATA[Flagstaff]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[86004]]></zip>
+<phone><![CDATA[(928) 526-8775]]></phone>
+<location_id><![CDATA[1198]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4361 E Baseline Rd]]></address>
+<city><![CDATA[Gilbert]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85234]]></zip>
+<phone><![CDATA[(480) 558-0302]]></phone>
+<location_id><![CDATA[1501]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1585 E Warner Rd]]></address>
+<city><![CDATA[Gilbert]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85296]]></zip>
+<phone><![CDATA[(480) 503-2533]]></phone>
+<location_id><![CDATA[1502]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4910 S Val Vista Dr]]></address>
+<city><![CDATA[Gilbert]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85296]]></zip>
+<phone><![CDATA[(480) 782-1845]]></phone>
+<location_id><![CDATA[1549]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9021 N 59th Ave]]></address>
+<city><![CDATA[Glendale]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85302]]></zip>
+<phone><![CDATA[(623) 937-0491]]></phone>
+<location_id><![CDATA[1170]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5104 W Thunderbird Ave]]></address>
+<city><![CDATA[Glendale]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85306]]></zip>
+<phone><![CDATA[(602) 938-2074]]></phone>
+<location_id><![CDATA[1176]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[20209 N 59th Ave]]></address>
+<city><![CDATA[Glendale]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85308]]></zip>
+<phone><![CDATA[(623) 362-3564]]></phone>
+<location_id><![CDATA[1500]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5447 W Glendale Ave]]></address>
+<city><![CDATA[Glendale]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85301]]></zip>
+<phone><![CDATA[(623) 931-9516]]></phone>
+<location_id><![CDATA[125]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5145 N 59th Ave]]></address>
+<city><![CDATA[Glendale]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85301]]></zip>
+<phone><![CDATA[(623) 931-6649]]></phone>
+<location_id><![CDATA[117]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4305 W Bethany Home Rd]]></address>
+<city><![CDATA[Glendale]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85301]]></zip>
+<phone><![CDATA[(623) 931-0026]]></phone>
+<location_id><![CDATA[1184]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[13820 W Glendale Ave]]></address>
+<city><![CDATA[Glendale]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85307]]></zip>
+<phone><![CDATA[(623) 535-8377]]></phone>
+<location_id><![CDATA[1135]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1390 E Ash St]]></address>
+<city><![CDATA[Globe]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85501]]></zip>
+<phone><![CDATA[(928) 425-5522]]></phone>
+<location_id><![CDATA[1160]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[6478 E Us Highway 60]]></address>
+<city><![CDATA[Gold Canyon]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85118]]></zip>
+<phone><![CDATA[(480) 288-5430]]></phone>
+<location_id><![CDATA[1503]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[520 N Estrella Pkwy]]></address>
+<city><![CDATA[Goodyear]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85338]]></zip>
+<phone><![CDATA[(623) 925-5521]]></phone>
+<location_id><![CDATA[1536]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[16900 W Yuma Rd]]></address>
+<city><![CDATA[Goodyear]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85338]]></zip>
+<phone><![CDATA[(623) 925-8263]]></phone>
+<location_id><![CDATA[1578]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[3301 Andy Devine Ave]]></address>
+<city><![CDATA[Kingman]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[86401]]></zip>
+<phone><![CDATA[(928) 757-7374]]></phone>
+<location_id><![CDATA[1129]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[30 S Lake Havasu Ave]]></address>
+<city><![CDATA[Lake Havasu City]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[86403]]></zip>
+<phone><![CDATA[(928) 855-1145]]></phone>
+<location_id><![CDATA[1177]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5115 W Southern Ave]]></address>
+<city><![CDATA[Laveen]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85339]]></zip>
+<phone><![CDATA[(602) 237-0502]]></phone>
+<location_id><![CDATA[1541]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[20975 N John Wayne Pkwy]]></address>
+<city><![CDATA[Maricopa]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85139]]></zip>
+<phone><![CDATA[(520) 568-1943]]></phone>
+<location_id><![CDATA[1544]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1105 S Val Vista Dr]]></address>
+<city><![CDATA[Mesa]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85204]]></zip>
+<phone><![CDATA[(480) 324-1623]]></phone>
+<location_id><![CDATA[1507]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2719 N Power Rd]]></address>
+<city><![CDATA[Mesa]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85215]]></zip>
+<phone><![CDATA[(480) 325-9746]]></phone>
+<location_id><![CDATA[1146]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1403 S Crismon Rd]]></address>
+<city><![CDATA[Mesa]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85209]]></zip>
+<phone><![CDATA[(480) 357-3731]]></phone>
+<location_id><![CDATA[1519]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1911 S Power Rd]]></address>
+<city><![CDATA[Mesa]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85206]]></zip>
+<phone><![CDATA[(480) 654-0232]]></phone>
+<location_id><![CDATA[1133]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2120 E Baseline Rd]]></address>
+<city><![CDATA[Mesa]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85204]]></zip>
+<phone><![CDATA[(480) 497-2795]]></phone>
+<location_id><![CDATA[1186]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2846 E Main St]]></address>
+<city><![CDATA[Mesa]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85213]]></zip>
+<phone><![CDATA[(480) 832-9581]]></phone>
+<location_id><![CDATA[1178]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1232 W Baseline Rd]]></address>
+<city><![CDATA[Mesa]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85202]]></zip>
+<phone><![CDATA[(480) 838-0677]]></phone>
+<location_id><![CDATA[1179]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1860 W Southern Ave]]></address>
+<city><![CDATA[Mesa]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85202]]></zip>
+<phone><![CDATA[(480) 964-9548]]></phone>
+<location_id><![CDATA[1165]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5207 S Power  Rd]]></address>
+<city><![CDATA[Mesa]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85212]]></zip>
+<phone><![CDATA[(480) 279-2536]]></phone>
+<location_id><![CDATA[1555]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1945 W Main St]]></address>
+<city><![CDATA[Mesa]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85201]]></zip>
+<phone><![CDATA[(480) 733-7997]]></phone>
+<location_id><![CDATA[1199]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1145 W University Dr]]></address>
+<city><![CDATA[Mesa]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85201]]></zip>
+<phone><![CDATA[(480) 833-1339]]></phone>
+<location_id><![CDATA[148]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[427 W Mckellips Rd]]></address>
+<city><![CDATA[Mesa]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85201]]></zip>
+<phone><![CDATA[(480) 890-7200]]></phone>
+<location_id><![CDATA[1516]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[440 E Southern Ave]]></address>
+<city><![CDATA[Mesa]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85204]]></zip>
+<phone><![CDATA[(480) 962-1938]]></phone>
+<location_id><![CDATA[1171]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[525 N Stapley Dr]]></address>
+<city><![CDATA[Mesa]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85203]]></zip>
+<phone><![CDATA[(480) 610-5302]]></phone>
+<location_id><![CDATA[1508]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5961 E Main St]]></address>
+<city><![CDATA[Mesa]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85205]]></zip>
+<phone><![CDATA[(480) 832-3481]]></phone>
+<location_id><![CDATA[1156]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[208 N Grand Ave]]></address>
+<city><![CDATA[Nogales]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85621]]></zip>
+<phone><![CDATA[(520) 287-5266]]></phone>
+<location_id><![CDATA[1175]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[383 W Mariposa Rd]]></address>
+<city><![CDATA[Nogales]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85621]]></zip>
+<phone><![CDATA[(520) 377-2974]]></phone>
+<location_id><![CDATA[1539]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[931 Highway 89]]></address>
+<city><![CDATA[Page]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[86046]]></zip>
+<phone><![CDATA[(928) 645-2711]]></phone>
+<location_id><![CDATA[1149]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[301 E State Highway 260]]></address>
+<city><![CDATA[Payson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85541]]></zip>
+<phone><![CDATA[(928) 472-8060]]></phone>
+<location_id><![CDATA[1136]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9066 W Olive Ave]]></address>
+<city><![CDATA[Peoria]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85345]]></zip>
+<phone><![CDATA[(623) 486-3938]]></phone>
+<location_id><![CDATA[1145]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8236 W Deer Valley Rd]]></address>
+<city><![CDATA[Peoria]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85382]]></zip>
+<phone><![CDATA[(623) 566-7988]]></phone>
+<location_id><![CDATA[1513]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8225 W Bell Rd]]></address>
+<city><![CDATA[Peoria]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85382]]></zip>
+<phone><![CDATA[(623) 487-1941]]></phone>
+<location_id><![CDATA[1131]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9831 W  Happy Valley Rd]]></address>
+<city><![CDATA[Peoria]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85383]]></zip>
+<phone><![CDATA[(623) 561-1610]]></phone>
+<location_id><![CDATA[1572]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7425 W Cactus Rd]]></address>
+<city><![CDATA[Peoria]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85381]]></zip>
+<phone><![CDATA[(623) 878-0002]]></phone>
+<location_id><![CDATA[1103]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5814 S Central Ave]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85040]]></zip>
+<phone><![CDATA[(602) 276-2183]]></phone>
+<location_id><![CDATA[1180]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6001 W Thomas Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85033]]></zip>
+<phone><![CDATA[(623) 247-1746]]></phone>
+<location_id><![CDATA[1172]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1833 W Van Buren St]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85007]]></zip>
+<phone><![CDATA[(602) 254-9324]]></phone>
+<location_id><![CDATA[101]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2645 W Carefree Hwy]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85085]]></zip>
+<phone><![CDATA[(623) 587-9515]]></phone>
+<location_id><![CDATA[1576]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8225 W Camelback Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85033]]></zip>
+<phone><![CDATA[(623) 849-0630]]></phone>
+<location_id><![CDATA[1517]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2113 W Happy Valley Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85085]]></zip>
+<phone><![CDATA[(623) 869-5006]]></phone>
+<location_id><![CDATA[1560]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2701 W Camelback Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85017]]></zip>
+<phone><![CDATA[(602) 249-0170]]></phone>
+<location_id><![CDATA[1181]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2420 E Beardsley Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85050]]></zip>
+<phone><![CDATA[(602) 485-4030]]></phone>
+<location_id><![CDATA[1553]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3502 W Buckeye Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85009]]></zip>
+<phone><![CDATA[(602) 353-1660]]></phone>
+<location_id><![CDATA[1520]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9050 W Thomas Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85037]]></zip>
+<phone><![CDATA[(623) 872-1375]]></phone>
+<location_id><![CDATA[1522]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[620 E Buckeye Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85004]]></zip>
+<phone><![CDATA[(602) 258-6305]]></phone>
+<location_id><![CDATA[1524]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2141 W Deer Valley Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85027]]></zip>
+<phone><![CDATA[(623) 582-0894]]></phone>
+<location_id><![CDATA[1525]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1921 W Broadway Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85041]]></zip>
+<phone><![CDATA[(602) 305-9019]]></phone>
+<location_id><![CDATA[1529]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2330 E Baseline Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85042]]></zip>
+<phone><![CDATA[(602) 243-5585]]></phone>
+<location_id><![CDATA[1533]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6351 N 7th St]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85014]]></zip>
+<phone><![CDATA[(602) 241-1433]]></phone>
+<location_id><![CDATA[1193]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3150 E Washington St]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85034]]></zip>
+<phone><![CDATA[(602) 275-5083]]></phone>
+<location_id><![CDATA[1192]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4151 W Bell Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85053]]></zip>
+<phone><![CDATA[(602) 843-5716]]></phone>
+<location_id><![CDATA[1190]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[2711 S 40th St]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85034]]></zip>
+<phone><![CDATA[(602) 437-0706]]></phone>
+<location_id><![CDATA[1535]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4749 E Southern Ave]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85042]]></zip>
+<phone><![CDATA[(602) 438-0578]]></phone>
+<location_id><![CDATA[1183]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7850 N 35th Ave]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85051]]></zip>
+<phone><![CDATA[(602) 841-1350]]></phone>
+<location_id><![CDATA[1182]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6120 S 35th Ave]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85041]]></zip>
+<phone><![CDATA[(602) 276-3653]]></phone>
+<location_id><![CDATA[1552]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9920 W Indian School Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85037]]></zip>
+<phone><![CDATA[(623) 772-1600]]></phone>
+<location_id><![CDATA[1514]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[17017 N Cave Creek Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85032]]></zip>
+<phone><![CDATA[(602) 971-9496]]></phone>
+<location_id><![CDATA[1153]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1001 N 24th St]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85008]]></zip>
+<phone><![CDATA[(602) 244-8860]]></phone>
+<location_id><![CDATA[1116]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[19818 N 27th Ave]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85027]]></zip>
+<phone><![CDATA[(623) 780-3669]]></phone>
+<location_id><![CDATA[1141]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[4343 E Camelback Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85018]]></zip>
+<phone><![CDATA[(602) 952-9906]]></phone>
+<location_id><![CDATA[134]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1935 W Thunderbird Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85023]]></zip>
+<phone><![CDATA[(602) 993-8810]]></phone>
+<location_id><![CDATA[142]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4950 E Ray Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85044]]></zip>
+<phone><![CDATA[(480) 496-9168]]></phone>
+<location_id><![CDATA[1130]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[12223 N 32nd St]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85032]]></zip>
+<phone><![CDATA[(602) 992-1030]]></phone>
+<location_id><![CDATA[143]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3512 W Thunderbird Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85053]]></zip>
+<phone><![CDATA[(602) 938-8340]]></phone>
+<location_id><![CDATA[144]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1802 W Bell Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85023]]></zip>
+<phone><![CDATA[(602) 866-9048]]></phone>
+<location_id><![CDATA[145]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2520 W Glendale Ave]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85051]]></zip>
+<phone><![CDATA[(602) 995-3677]]></phone>
+<location_id><![CDATA[1102]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4741 E Mcdowell Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85008]]></zip>
+<phone><![CDATA[(602) 275-0303]]></phone>
+<location_id><![CDATA[1105]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2440 W Thomas Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85015]]></zip>
+<phone><![CDATA[(602) 256-7223]]></phone>
+<location_id><![CDATA[1110]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1902 W Buckeye Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85009]]></zip>
+<phone><![CDATA[(602) 253-8142]]></phone>
+<location_id><![CDATA[1114]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4020 E Bell Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85032]]></zip>
+<phone><![CDATA[(602) 953-5495]]></phone>
+<location_id><![CDATA[1147]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4313 W Thomas Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85031]]></zip>
+<phone><![CDATA[(602) 278-3971]]></phone>
+<location_id><![CDATA[129]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[3215 N Central Ave]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85012]]></zip>
+<phone><![CDATA[(602) 265-2995]]></phone>
+<location_id><![CDATA[127]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1302 E Mcdowell Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85006]]></zip>
+<phone><![CDATA[(602) 254-1756]]></phone>
+<location_id><![CDATA[102]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2202 E Indian School Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85016]]></zip>
+<phone><![CDATA[(602) 954-9130]]></phone>
+<location_id><![CDATA[103]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3545 E Thomas Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85018]]></zip>
+<phone><![CDATA[(602) 956-3020]]></phone>
+<location_id><![CDATA[105]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3455 W Mcdowell Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85009]]></zip>
+<phone><![CDATA[(602) 278-0529]]></phone>
+<location_id><![CDATA[108]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[132 W Mcdowell Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85003]]></zip>
+<phone><![CDATA[(602) 253-8666]]></phone>
+<location_id><![CDATA[112]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4119 N 7th St]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85014]]></zip>
+<phone><![CDATA[(602) 274-3914]]></phone>
+<location_id><![CDATA[116]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1601 E Van Buren St]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85006]]></zip>
+<phone><![CDATA[(602) 252-1533]]></phone>
+<location_id><![CDATA[106]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7510 W Indian School Rd]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85033]]></zip>
+<phone><![CDATA[(623) 849-3022]]></phone>
+<location_id><![CDATA[1154]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8951 N 19th Ave]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85021]]></zip>
+<phone><![CDATA[(602) 944-0710]]></phone>
+<location_id><![CDATA[123]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[10621 N 43rd Ave]]></address>
+<city><![CDATA[Phoenix]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85029]]></zip>
+<phone><![CDATA[(602) 439-4843]]></phone>
+<location_id><![CDATA[1100]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[3182 Willow Creek Rd]]></address>
+<city><![CDATA[Prescott]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[86301]]></zip>
+<phone><![CDATA[(928) 771-0182]]></phone>
+<location_id><![CDATA[1540]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[415 E Gurley St]]></address>
+<city><![CDATA[Prescott]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[86301]]></zip>
+<phone><![CDATA[(928) 778-1740]]></phone>
+<location_id><![CDATA[1159]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[7622 E State Route 69]]></address>
+<city><![CDATA[Prescott Valley]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[86314]]></zip>
+<phone><![CDATA[(928) 759-7227]]></phone>
+<location_id><![CDATA[1512]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[21292 E Ocotillo Rd]]></address>
+<city><![CDATA[Queen Creek]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85142]]></zip>
+<phone><![CDATA[(480) 655-6027]]></phone>
+<location_id><![CDATA[1574]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[534 E Hunt Hwy]]></address>
+<city><![CDATA[Queen Creek]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85143]]></zip>
+<phone><![CDATA[(480) 458-5225]]></phone>
+<location_id><![CDATA[1542]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[23396 S Main St]]></address>
+<city><![CDATA[San Luis]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85349]]></zip>
+<phone><![CDATA[(928) 627-2276]]></phone>
+<location_id><![CDATA[1128]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7116 E Shea Blvd]]></address>
+<city><![CDATA[Scottsdale]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85254]]></zip>
+<phone><![CDATA[(480) 991-0820]]></phone>
+<location_id><![CDATA[147]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[13610 N Scottsdale Rd Ste 31]]></address>
+<city><![CDATA[Scottsdale]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85254]]></zip>
+<phone><![CDATA[(480) 443-8005]]></phone>
+<location_id><![CDATA[1189]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[14842 Frank Lloyd Wright Blvd]]></address>
+<city><![CDATA[Scottsdale]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85260]]></zip>
+<phone><![CDATA[(480) 614-2665]]></phone>
+<location_id><![CDATA[1143]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8030 E Indian School Rd]]></address>
+<city><![CDATA[Scottsdale]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85251]]></zip>
+<phone><![CDATA[(480) 945-1750]]></phone>
+<location_id><![CDATA[135]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7412 E Mcdowell Rd]]></address>
+<city><![CDATA[Scottsdale]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85257]]></zip>
+<phone><![CDATA[(480) 946-8941]]></phone>
+<location_id><![CDATA[115]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[20385 N  Hayden Rd]]></address>
+<city><![CDATA[Scottsdale]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85255]]></zip>
+<phone><![CDATA[(480) 419-4329]]></phone>
+<location_id><![CDATA[1580]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[4435 S White Mountain Rd]]></address>
+<city><![CDATA[Show Low]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85901]]></zip>
+<phone><![CDATA[(928) 537-0696]]></phone>
+<location_id><![CDATA[1125]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[2039 El Mercado Loop]]></address>
+<city><![CDATA[Sierra Vista]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85635]]></zip>
+<phone><![CDATA[(520) 417-0990]]></phone>
+<location_id><![CDATA[1554]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[750 E Fry Blvd]]></address>
+<city><![CDATA[Sierra Vista]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85635]]></zip>
+<phone><![CDATA[(520) 458-2666]]></phone>
+<location_id><![CDATA[1152]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[251 E Main St]]></address>
+<city><![CDATA[Somerton]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85350]]></zip>
+<phone><![CDATA[(928) 722-5695]]></phone>
+<location_id><![CDATA[1570]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[9906 W Thunderbird Blvd]]></address>
+<city><![CDATA[Sun City]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85351]]></zip>
+<phone><![CDATA[(623) 974-3120]]></phone>
+<location_id><![CDATA[1566]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[16760 W Bell Rd]]></address>
+<city><![CDATA[Surprise]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85374]]></zip>
+<phone><![CDATA[(623) 975-5294]]></phone>
+<location_id><![CDATA[1563]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[15333 W Waddell Rd]]></address>
+<city><![CDATA[Surprise]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85379]]></zip>
+<phone><![CDATA[(623) 546-3912]]></phone>
+<location_id><![CDATA[1579]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[13738 W Bell Rd]]></address>
+<city><![CDATA[Surprise]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85374]]></zip>
+<phone><![CDATA[(623) 544-1531]]></phone>
+<location_id><![CDATA[1510]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1817 E Baseline Rd]]></address>
+<city><![CDATA[Tempe]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85283]]></zip>
+<phone><![CDATA[(480) 838-0175]]></phone>
+<location_id><![CDATA[1151]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[721 S Mill Ave]]></address>
+<city><![CDATA[Tempe]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85281]]></zip>
+<phone><![CDATA[(480) 967-8570]]></phone>
+<location_id><![CDATA[118]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[942 E Broadway Rd]]></address>
+<city><![CDATA[Tempe]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85282]]></zip>
+<phone><![CDATA[(480) 966-9080]]></phone>
+<location_id><![CDATA[131]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[901 E Curry Rd]]></address>
+<city><![CDATA[Tempe]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85281]]></zip>
+<phone><![CDATA[(480) 966-8367]]></phone>
+<location_id><![CDATA[1112]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[850 E Guadalupe Rd]]></address>
+<city><![CDATA[Tempe]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85283]]></zip>
+<phone><![CDATA[(480) 730-9888]]></phone>
+<location_id><![CDATA[1120]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3102 S Mill Ave]]></address>
+<city><![CDATA[Tempe]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85282]]></zip>
+<phone><![CDATA[(480) 894-1077]]></phone>
+<location_id><![CDATA[1158]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2145 E University Dr]]></address>
+<city><![CDATA[Tempe]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85281]]></zip>
+<phone><![CDATA[(480) 894-8419]]></phone>
+<location_id><![CDATA[1197]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8302 W Lynwood St]]></address>
+<city><![CDATA[Tolleson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85353]]></zip>
+<phone><![CDATA[(623) 936-6259]]></phone>
+<location_id><![CDATA[1108]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9840 W Lower Buckeye Rd]]></address>
+<city><![CDATA[Tolleson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85353]]></zip>
+<phone><![CDATA[(623) 936-1801]]></phone>
+<location_id><![CDATA[1561]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[2985 W Valencia Rd]]></address>
+<city><![CDATA[Tucson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85746]]></zip>
+<phone><![CDATA[(520) 883-7484]]></phone>
+<location_id><![CDATA[1551]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3121 N Campbell Ave]]></address>
+<city><![CDATA[Tucson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85719]]></zip>
+<phone><![CDATA[(520) 325-3941]]></phone>
+<location_id><![CDATA[1155]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1202 W St Marys Rd]]></address>
+<city><![CDATA[Tucson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85745]]></zip>
+<phone><![CDATA[(520) 623-4957]]></phone>
+<location_id><![CDATA[1174]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[550 W Valencia Rd]]></address>
+<city><![CDATA[Tucson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85706]]></zip>
+<phone><![CDATA[(520) 889-4422]]></phone>
+<location_id><![CDATA[1157]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1195 S Craycroft Rd]]></address>
+<city><![CDATA[Tucson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85711]]></zip>
+<phone><![CDATA[(520) 790-3156]]></phone>
+<location_id><![CDATA[1166]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4949 N Oracle Rd]]></address>
+<city><![CDATA[Tucson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85704]]></zip>
+<phone><![CDATA[(520) 887-8770]]></phone>
+<location_id><![CDATA[1167]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3326 E Grant Rd]]></address>
+<city><![CDATA[Tucson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85716]]></zip>
+<phone><![CDATA[(520) 326-8711]]></phone>
+<location_id><![CDATA[1173]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[6380 E Golf Links Rd]]></address>
+<city><![CDATA[Tucson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85730]]></zip>
+<phone><![CDATA[(520) 790-3003]]></phone>
+<location_id><![CDATA[1557]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[9530 E 22nd St]]></address>
+<city><![CDATA[Tucson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85748]]></zip>
+<phone><![CDATA[(520) 751-1881]]></phone>
+<location_id><![CDATA[1571]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[305 W Grant Rd]]></address>
+<city><![CDATA[Tucson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85705]]></zip>
+<phone><![CDATA[(520) 629-0401]]></phone>
+<location_id><![CDATA[1127]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3397 S 6th Ave]]></address>
+<city><![CDATA[Tucson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85713]]></zip>
+<phone><![CDATA[(520) 622-3235]]></phone>
+<location_id><![CDATA[1168]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7910 E Speedway Blvd]]></address>
+<city><![CDATA[Tucson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85710]]></zip>
+<phone><![CDATA[(520) 298-3002]]></phone>
+<location_id><![CDATA[1106]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5000 E Valencia Rd]]></address>
+<city><![CDATA[Tucson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85756]]></zip>
+<phone><![CDATA[(520) 664-2246]]></phone>
+<location_id><![CDATA[1505]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[4450 1st Ave]]></address>
+<city><![CDATA[Tucson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85719]]></zip>
+<phone><![CDATA[(520) 888-8846]]></phone>
+<location_id><![CDATA[1111]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[3950 E 22nd St]]></address>
+<city><![CDATA[Tucson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85711]]></zip>
+<phone><![CDATA[(520) 571-8070]]></phone>
+<location_id><![CDATA[1119]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1302 S Kolb Ave]]></address>
+<city><![CDATA[Tucson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85710]]></zip>
+<phone><![CDATA[(520) 747-1182]]></phone>
+<location_id><![CDATA[139]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[3030 W El Camino Del Cerro]]></address>
+<city><![CDATA[Tucson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85745]]></zip>
+<phone><![CDATA[(520) 888-1656]]></phone>
+<location_id><![CDATA[1534]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[4455 E Broadway Blvd]]></address>
+<city><![CDATA[Tucson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85711]]></zip>
+<phone><![CDATA[(520) 326-8108]]></phone>
+<location_id><![CDATA[133]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[934 E Speedway Blvd]]></address>
+<city><![CDATA[Tucson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85719]]></zip>
+<phone><![CDATA[(520) 792-3054]]></phone>
+<location_id><![CDATA[132]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4600 W Ina Rd]]></address>
+<city><![CDATA[Tucson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85741]]></zip>
+<phone><![CDATA[(520) 572-2202]]></phone>
+<location_id><![CDATA[1506]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[4610 E Speedway Blvd]]></address>
+<city><![CDATA[Tucson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85712]]></zip>
+<phone><![CDATA[(520) 325-5234]]></phone>
+<location_id><![CDATA[137]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[7031 E Tanque Verde Rd]]></address>
+<city><![CDATA[Tucson]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85715]]></zip>
+<phone><![CDATA[(520) 885-3021]]></phone>
+<location_id><![CDATA[1150]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[28882 Commerce Way]]></address>
+<city><![CDATA[Wellton]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85356]]></zip>
+<phone><![CDATA[(928) 785-9218]]></phone>
+<location_id><![CDATA[1569]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[37770 N Vulture Mine Rd Ste A]]></address>
+<city><![CDATA[Wickenburg]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85390]]></zip>
+<phone><![CDATA[(928) 684-2998]]></phone>
+<location_id><![CDATA[1559]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[150 Patel Dr]]></address>
+<city><![CDATA[Williams]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[86046]]></zip>
+<phone><![CDATA[(928) 635-0627]]></phone>
+<location_id><![CDATA[1134]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[11101 Nw Grand Ave]]></address>
+<city><![CDATA[Youngtown]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85363]]></zip>
+<phone><![CDATA[(623) 523-0211]]></phone>
+<location_id><![CDATA[1546]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[10685 Fortuna Rd]]></address>
+<city><![CDATA[Yuma]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85367]]></zip>
+<phone><![CDATA[(928) 305-1901]]></phone>
+<location_id><![CDATA[1123]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[2325 32nd St]]></address>
+<city><![CDATA[Yuma]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85364]]></zip>
+<phone><![CDATA[(928) 726-3641]]></phone>
+<location_id><![CDATA[1137]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[6440 E 32nd St]]></address>
+<city><![CDATA[Yuma]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85364]]></zip>
+<phone><![CDATA[(928) 344-6697]]></phone>
+<location_id><![CDATA[1532]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3023 S 4th Ave]]></address>
+<city><![CDATA[Yuma]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85364]]></zip>
+<phone><![CDATA[(928) 344-4320]]></phone>
+<location_id><![CDATA[1164]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1244 S Castle Dome Ave]]></address>
+<city><![CDATA[Yuma]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85365]]></zip>
+<phone><![CDATA[(928) 329-0745]]></phone>
+<location_id><![CDATA[1562]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[151 W 16th St]]></address>
+<city><![CDATA[Yuma]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85364]]></zip>
+<phone><![CDATA[(928) 783-5780]]></phone>
+<location_id><![CDATA[1161]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2678 W 16th St]]></address>
+<city><![CDATA[Yuma]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85364]]></zip>
+<phone><![CDATA[(928) 782-6266]]></phone>
+<location_id><![CDATA[1109]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[140 S 4th Ave]]></address>
+<city><![CDATA[Yuma]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85364]]></zip>
+<phone><![CDATA[(928) 343-2489]]></phone>
+<location_id><![CDATA[1124]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3951 S Avenue 3 E]]></address>
+<city><![CDATA[Yuma]]></city>
+<state><![CDATA[AZ]]></state>
+<zip><![CDATA[85365]]></zip>
+<phone><![CDATA[(928) 726-0981]]></phone>
+<location_id><![CDATA[1585]]></location_id>
+</location>
+</locations></location_resultset>
+						

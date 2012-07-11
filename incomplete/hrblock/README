@@ -1,0 +1,7 @@
+Use the mobile site
+
+http://m.hrblock.com/locator-service/officeservice/mobileweb/001/data/getOfficeDetailsByAddress
+
+post vars - address=78702&rows=10&submit=GO
+
+curl -d 'address=%&rows=100000&submit=GO' "http://m.hrblock.com/locator-service/officeservice/mobileweb/001/data/getOfficeDetailsByAddress"

@@ -1,0 +1,5 @@
+download this page and parse out the addMarker javascript calls
+
+www.slurpee.ca/store-locator/_storelocator
+
+curl "www.slurpee.ca/store-locator/_storelocator" |grep addMarker > locations.html

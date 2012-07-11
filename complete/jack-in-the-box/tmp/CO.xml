@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<location_resultset>
+<locations count="22">
+<location hrs='7' >
+<address><![CDATA[15255 E 38th Ave]]></address>
+<city><![CDATA[Aurora]]></city>
+<state><![CDATA[CO]]></state>
+<zip><![CDATA[80011]]></zip>
+<phone><![CDATA[(303) 371-1501]]></phone>
+<location_id><![CDATA[8128]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[15399 E Mississippi Ave]]></address>
+<city><![CDATA[Aurora]]></city>
+<state><![CDATA[CO]]></state>
+<zip><![CDATA[80017]]></zip>
+<phone><![CDATA[(000) 000-0000]]></phone>
+<location_id><![CDATA[8137]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[64 W Bromley Lane]]></address>
+<city><![CDATA[Brighton]]></city>
+<state><![CDATA[CO]]></state>
+<zip><![CDATA[80601]]></zip>
+<phone><![CDATA[(303) 659-6649]]></phone>
+<location_id><![CDATA[8162]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4640 W 121st Ave]]></address>
+<city><![CDATA[Broomfield]]></city>
+<state><![CDATA[CO]]></state>
+<zip><![CDATA[80020]]></zip>
+<phone><![CDATA[(303) 469-2453]]></phone>
+<location_id><![CDATA[8155]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2105 W 136th Ave]]></address>
+<city><![CDATA[Broomfield]]></city>
+<state><![CDATA[CO]]></state>
+<zip><![CDATA[80023]]></zip>
+<phone><![CDATA[(303) 280-8266]]></phone>
+<location_id><![CDATA[8140]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1940 Coalton Rd]]></address>
+<city><![CDATA[Broomfield]]></city>
+<state><![CDATA[CO]]></state>
+<zip><![CDATA[80021]]></zip>
+<phone><![CDATA[(303) 465-3667]]></phone>
+<location_id><![CDATA[8147]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[27 Wolfensberger Rd]]></address>
+<city><![CDATA[Castle Rock]]></city>
+<state><![CDATA[CO]]></state>
+<zip><![CDATA[80109]]></zip>
+<phone><![CDATA[(303) 660-5114]]></phone>
+<location_id><![CDATA[8157]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[3690 New Center Point Blvd]]></address>
+<city><![CDATA[Colorado Springs]]></city>
+<state><![CDATA[CO]]></state>
+<zip><![CDATA[80922]]></zip>
+<phone><![CDATA[(719) 573-6229]]></phone>
+<location_id><![CDATA[8143]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[3654 Austin Bluffs Pkwy]]></address>
+<city><![CDATA[Colorado Springs]]></city>
+<state><![CDATA[CO]]></state>
+<zip><![CDATA[80918]]></zip>
+<phone><![CDATA[(719) 268-6967]]></phone>
+<location_id><![CDATA[8142]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6015 E Parkway Dr]]></address>
+<city><![CDATA[Commerce City]]></city>
+<state><![CDATA[CO]]></state>
+<zip><![CDATA[80022]]></zip>
+<phone><![CDATA[(303) 287-8274]]></phone>
+<location_id><![CDATA[8136]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2020 S Federal Blvd]]></address>
+<city><![CDATA[Denver]]></city>
+<state><![CDATA[CO]]></state>
+<zip><![CDATA[80219]]></zip>
+<phone><![CDATA[(303) 934-4435]]></phone>
+<location_id><![CDATA[8160]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6314 S US Highway 85-87]]></address>
+<city><![CDATA[Fountain]]></city>
+<state><![CDATA[CO]]></state>
+<zip><![CDATA[80817]]></zip>
+<phone><![CDATA[(719) 391-8701]]></phone>
+<location_id><![CDATA[8145]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[16750 W Colfax Ave]]></address>
+<city><![CDATA[Golden]]></city>
+<state><![CDATA[CO]]></state>
+<zip><![CDATA[80401]]></zip>
+<phone><![CDATA[(303) 384-3783]]></phone>
+<location_id><![CDATA[8130]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1108 Cpl Max Donahue Ln]]></address>
+<city><![CDATA[Highlands Ranch]]></city>
+<state><![CDATA[CO]]></state>
+<zip><![CDATA[80129]]></zip>
+<phone><![CDATA[(303) 346-0876]]></phone>
+<location_id><![CDATA[8156]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1743 N Main St]]></address>
+<city><![CDATA[Longmont]]></city>
+<state><![CDATA[CO]]></state>
+<zip><![CDATA[80501]]></zip>
+<phone><![CDATA[(303) 772-0341]]></phone>
+<location_id><![CDATA[8149]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[11179 S Pikes Peak Dr]]></address>
+<city><![CDATA[Parker]]></city>
+<state><![CDATA[CO]]></state>
+<zip><![CDATA[80138]]></zip>
+<phone><![CDATA[(303) 840-1807]]></phone>
+<location_id><![CDATA[8131]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9870 Mangano Ln]]></address>
+<city><![CDATA[Parker]]></city>
+<state><![CDATA[CO]]></state>
+<zip><![CDATA[80134]]></zip>
+<phone><![CDATA[(303) 805-9257]]></phone>
+<location_id><![CDATA[8141]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[3206 W Northern Ave]]></address>
+<city><![CDATA[Pueblo]]></city>
+<state><![CDATA[CO]]></state>
+<zip><![CDATA[81005]]></zip>
+<phone><![CDATA[(719) 564-8151]]></phone>
+<location_id><![CDATA[8151]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[910 W US Highway 50]]></address>
+<city><![CDATA[Pueblo]]></city>
+<state><![CDATA[CO]]></state>
+<zip><![CDATA[81008]]></zip>
+<phone><![CDATA[(719) 542-8159]]></phone>
+<location_id><![CDATA[8159]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9703 Washington St]]></address>
+<city><![CDATA[Thornton]]></city>
+<state><![CDATA[CO]]></state>
+<zip><![CDATA[80229]]></zip>
+<phone><![CDATA[(303) 920-1214]]></phone>
+<location_id><![CDATA[8135]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7311 Sheridan Blvd]]></address>
+<city><![CDATA[Westminster]]></city>
+<state><![CDATA[CO]]></state>
+<zip><![CDATA[80003]]></zip>
+<phone><![CDATA[(720) 540-4233]]></phone>
+<location_id><![CDATA[8138]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5165 Kipling St]]></address>
+<city><![CDATA[Wheat Ridge]]></city>
+<state><![CDATA[CO]]></state>
+<zip><![CDATA[80033]]></zip>
+<phone><![CDATA[(303) 423-0169]]></phone>
+<location_id><![CDATA[8129]]></location_id>
+</location>
+</locations></location_resultset>
+						

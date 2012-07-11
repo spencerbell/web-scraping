@@ -1,0 +1,28 @@
+web scrapers that deliver content into csv files
+
+simple scraper to download and save all heb locations
+
+
+
+
+HEB
+http://www.heb.com/find-a-store/store-details.jsp?storeId=$number (from 1 to 600)
+
+
+lowes - (possible sql injection ) - google fusion tables
+https://www.google.com/fusiontables/gvizdata?tq=SELECT%20%27LOCN_NBR%27%2C%20%27BIS_NM%27%2C%20%27ADR%27%20%2C%20%27CTY%27%2C%20%27STE%27%2C%20%27ZIP%27%2C%20%27PHN%27%2C%20%27FAX%27%2C%20%27HRS%27%2C%20%27LAT%27%2C%20%27LNG%27%2C%20%27DIRE%27%2C%20%27CD%27%2C%20%27LOGO%27%2C%20%27CST_SEV%27%2C%20%27CNTY%27%20FROM%201806633&tqx=reqId%3A1
+
+home depot
+https://hdapps.homedepot.com/StoreSearchServices/v1.0/kvp/get-stores-by-address/json?address=78704&radius=5000&maxMatches=30000&truckRental=false&keyCutting=false&toolRental=false&freeWifi=false&hasPropane=false&penskeRental=false
+
+or in XML
+https://hdapps.homedepot.com/StoreSearchServices/v1.0/kvp/get-stores-by-address/xml?address=78704&radius=5000&maxMatches=30000&truckRental=false&keyCutting=false&toolRental=false&freeWifi=false&hasPropane=false&penskeRental=false
+
+
+
+
+
+http://www5.mcdonalds.com/BingUSLocator/search.do?country=usa&pageNo=1&postalCode=&primaryCity=austin,%20tx&src=www.mcdonalds.com&language=en&latitude=&longitude=&method=search
+
+
+

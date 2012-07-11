@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8"?>
+<location_resultset>
+<locations count="76">
+<location hrs='7' >
+<address><![CDATA[1101 Nevada Hwy]]></address>
+<city><![CDATA[Boulder City]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89005]]></zip>
+<phone><![CDATA[(702) 294-1909]]></phone>
+<location_id><![CDATA[7211]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[3225 Retail Dr]]></address>
+<city><![CDATA[Carson City]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89706]]></zip>
+<phone><![CDATA[(775) 883-5757]]></phone>
+<location_id><![CDATA[7320]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[3665 S Carson St]]></address>
+<city><![CDATA[Carson City]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89701]]></zip>
+<phone><![CDATA[(775) 885-2600]]></phone>
+<location_id><![CDATA[7304]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[309 E William St]]></address>
+<city><![CDATA[Carson City]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89701]]></zip>
+<phone><![CDATA[(775) 884-3883]]></phone>
+<location_id><![CDATA[7308]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[3 Retail Rd]]></address>
+<city><![CDATA[Dayton]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89403]]></zip>
+<phone><![CDATA[(775) 246-8255]]></phone>
+<location_id><![CDATA[7317]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[55 S Taylor St]]></address>
+<city><![CDATA[Fallon]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89406]]></zip>
+<phone><![CDATA[(775) 423-8855]]></phone>
+<location_id><![CDATA[7307]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[225 US Highway 95A N]]></address>
+<city><![CDATA[Fernley]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89408]]></zip>
+<phone><![CDATA[(775) 575-1750]]></phone>
+<location_id><![CDATA[7315]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1345 US Highway 395 N]]></address>
+<city><![CDATA[Gardnerville]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89410]]></zip>
+<phone><![CDATA[(775) 782-7859]]></phone>
+<location_id><![CDATA[7309]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[26 W Horizon Ridge Pkwy #110]]></address>
+<city><![CDATA[Henderson]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89012]]></zip>
+<phone><![CDATA[(702) 382-9300]]></phone>
+<location_id><![CDATA[7261]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4161 Saint Rose Pkwy Ste B]]></address>
+<city><![CDATA[Henderson]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89044]]></zip>
+<phone><![CDATA[(702) 260-8596]]></phone>
+<location_id><![CDATA[7271]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1680 W Sunset Rd]]></address>
+<city><![CDATA[Henderson]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89014]]></zip>
+<phone><![CDATA[(702) 433-1141]]></phone>
+<location_id><![CDATA[7259]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1261 W Warm Springs Rd]]></address>
+<city><![CDATA[Henderson]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89014]]></zip>
+<phone><![CDATA[(702) 434-1472]]></phone>
+<location_id><![CDATA[7255]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1430 W Horizon Ridge Pkwy]]></address>
+<city><![CDATA[Henderson]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89012]]></zip>
+<phone><![CDATA[(702) 492-7019]]></phone>
+<location_id><![CDATA[7248]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[10505 S Eastern Ave]]></address>
+<city><![CDATA[Henderson]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89052]]></zip>
+<phone><![CDATA[(702) 616-6777]]></phone>
+<location_id><![CDATA[7247]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5 S Gibson Rd]]></address>
+<city><![CDATA[Henderson]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89012]]></zip>
+<phone><![CDATA[(702) 558-6506]]></phone>
+<location_id><![CDATA[7236]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[290 S Boulder Hwy]]></address>
+<city><![CDATA[Henderson]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89015]]></zip>
+<phone><![CDATA[(702) 558-7477]]></phone>
+<location_id><![CDATA[7217]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[580 N Eastern Ave]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89101]]></zip>
+<phone><![CDATA[(702) 385-7022]]></phone>
+<location_id><![CDATA[7212]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3320 Las Vegas Blvd N]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89115]]></zip>
+<phone><![CDATA[(702) 651-0073]]></phone>
+<location_id><![CDATA[7258]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2970 E Desert Inn Rd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89121]]></zip>
+<phone><![CDATA[(702) 733-1421]]></phone>
+<location_id><![CDATA[7257]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[780 E Flamingo Rd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89119]]></zip>
+<phone><![CDATA[(702) 733-7713]]></phone>
+<location_id><![CDATA[7256]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2301 S Decatur Blvd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89102]]></zip>
+<phone><![CDATA[(702) 878-1288]]></phone>
+<location_id><![CDATA[7214]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6150 Las Vegas Blvd S]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89119]]></zip>
+<phone><![CDATA[(702) 614-8472]]></phone>
+<location_id><![CDATA[7253]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9360 W Tropicana Ave]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89147]]></zip>
+<phone><![CDATA[(702) 251-1801]]></phone>
+<location_id><![CDATA[7252]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1480 W Lake Mead Blvd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89106]]></zip>
+<phone><![CDATA[(702) 638-4188]]></phone>
+<location_id><![CDATA[7251]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7161 W Craig Rd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89129]]></zip>
+<phone><![CDATA[(702) 395-0851]]></phone>
+<location_id><![CDATA[7249]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2550 S Maryland Pkwy]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89109]]></zip>
+<phone><![CDATA[(702) 731-9846]]></phone>
+<location_id><![CDATA[7215]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3250 N Durango Dr Ste 100]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89129]]></zip>
+<phone><![CDATA[(702) 839-9221]]></phone>
+<location_id><![CDATA[7260]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[4385 Las Vegas Blvd N]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89115]]></zip>
+<phone><![CDATA[(702) 643-6569]]></phone>
+<location_id><![CDATA[7209]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4866 S Maryland Pkwy]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89119]]></zip>
+<phone><![CDATA[(702) 736-4846]]></phone>
+<location_id><![CDATA[7204]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[800 N Decatur Blvd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89107]]></zip>
+<phone><![CDATA[(702) 870-1344]]></phone>
+<location_id><![CDATA[7202]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3703 E Flamingo Rd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89121]]></zip>
+<phone><![CDATA[(702) 451-0950]]></phone>
+<location_id><![CDATA[7201]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4970 Spring Mountain Rd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89146]]></zip>
+<phone><![CDATA[(702) 367-4191]]></phone>
+<location_id><![CDATA[7206]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[804 N Nellis Blvd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89110]]></zip>
+<phone><![CDATA[(702) 459-2404]]></phone>
+<location_id><![CDATA[7207]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3235 W Tropicana Ave]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89103]]></zip>
+<phone><![CDATA[(702) 736-7458]]></phone>
+<location_id><![CDATA[7208]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7741 N El Capitan Way]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89143]]></zip>
+<phone><![CDATA[(702) 395-2832]]></phone>
+<location_id><![CDATA[7268]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7980 S Rainbow Blvd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89139]]></zip>
+<phone><![CDATA[(702) 270-2164]]></phone>
+<location_id><![CDATA[7267]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7025 S Durango Dr]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89113]]></zip>
+<phone><![CDATA[(702) 269-6283]]></phone>
+<location_id><![CDATA[7266]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3790 E Tropicana Ave]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89121]]></zip>
+<phone><![CDATA[(702) 434-0093]]></phone>
+<location_id><![CDATA[7262]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6400 W Charleston Blvd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89146]]></zip>
+<phone><![CDATA[(702) 870-1550]]></phone>
+<location_id><![CDATA[7203]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4345 E Charleston Blvd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89104]]></zip>
+<phone><![CDATA[(702) 440-8181]]></phone>
+<location_id><![CDATA[7246]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3211 N Rancho Dr]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89130]]></zip>
+<phone><![CDATA[(702) 396-9946]]></phone>
+<location_id><![CDATA[7227]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3680 Blue Diamond Rd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89139]]></zip>
+<phone><![CDATA[(702) 260-7037]]></phone>
+<location_id><![CDATA[7224]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3311 S Nellis Blvd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89121]]></zip>
+<phone><![CDATA[(702) 435-8957]]></phone>
+<location_id><![CDATA[7229]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7510 W Lake Mead Blvd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89128]]></zip>
+<phone><![CDATA[(702) 838-3900]]></phone>
+<location_id><![CDATA[7223]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1591 S Main St]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89104]]></zip>
+<phone><![CDATA[(702) 383-6908]]></phone>
+<location_id><![CDATA[7221]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[9490 W Lake Mead Blvd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89134]]></zip>
+<phone><![CDATA[(702) 838-5252]]></phone>
+<location_id><![CDATA[7230]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5605 S Rainbow Blvd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89118]]></zip>
+<phone><![CDATA[(702) 368-1830]]></phone>
+<location_id><![CDATA[7220]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4640 E Russell Rd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89120]]></zip>
+<phone><![CDATA[(702) 433-9100]]></phone>
+<location_id><![CDATA[7233]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1610 N Lamb Blvd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89115]]></zip>
+<phone><![CDATA[(702) 437-1292]]></phone>
+<location_id><![CDATA[7235]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3410 E Sunset Rd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89120]]></zip>
+<phone><![CDATA[(702) 451-0811]]></phone>
+<location_id><![CDATA[7218]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2301 S Fort Apache Rd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89117]]></zip>
+<phone><![CDATA[(702) 562-0562]]></phone>
+<location_id><![CDATA[7237]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8661 W Charleston Blvd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89117]]></zip>
+<phone><![CDATA[(702) 804-5636]]></phone>
+<location_id><![CDATA[7239]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6515 E Lake Mead Blvd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89156]]></zip>
+<phone><![CDATA[(702) 459-7190]]></phone>
+<location_id><![CDATA[7241]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2365 E Windmill Ln]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89123]]></zip>
+<phone><![CDATA[(702) 896-6633]]></phone>
+<location_id><![CDATA[7219]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[455 Silverado Ranch Blvd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89123]]></zip>
+<phone><![CDATA[(702) 407-5262]]></phone>
+<location_id><![CDATA[7243]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6451 Boulder Hwy]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89122]]></zip>
+<phone><![CDATA[(702) 435-6116]]></phone>
+<location_id><![CDATA[7244]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4040 S Rainbow Blvd]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89103]]></zip>
+<phone><![CDATA[(702) 227-1219]]></phone>
+<location_id><![CDATA[7245]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4145 S Durango Dr]]></address>
+<city><![CDATA[Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89147]]></zip>
+<phone><![CDATA[(702) 367-2236]]></phone>
+<location_id><![CDATA[7225]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[320 Sandhill Rd]]></address>
+<city><![CDATA[Mesquite]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89027]]></zip>
+<phone><![CDATA[(702) 346-1608]]></phone>
+<location_id><![CDATA[7226]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6345 Losee Rd]]></address>
+<city><![CDATA[North Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89081]]></zip>
+<phone><![CDATA[(702) 639-4387]]></phone>
+<location_id><![CDATA[7264]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5536 Camino Al Norte]]></address>
+<city><![CDATA[North Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89031]]></zip>
+<phone><![CDATA[(702) 649-5222]]></phone>
+<location_id><![CDATA[7242]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4595 W Ann Rd]]></address>
+<city><![CDATA[North Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89031]]></zip>
+<phone><![CDATA[(702) 631-4784]]></phone>
+<location_id><![CDATA[7265]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1845 W Craig Rd]]></address>
+<city><![CDATA[North Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89032]]></zip>
+<phone><![CDATA[(702) 657-6154]]></phone>
+<location_id><![CDATA[7231]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2104 Las Vegas Blvd N]]></address>
+<city><![CDATA[North Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89030]]></zip>
+<phone><![CDATA[(702) 649-9201]]></phone>
+<location_id><![CDATA[7205]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3821 E Craig Rd]]></address>
+<city><![CDATA[North Las Vegas]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89030]]></zip>
+<phone><![CDATA[(702) 643-2347]]></phone>
+<location_id><![CDATA[7228]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[179 Damonte Ranch Pkwy]]></address>
+<city><![CDATA[Reno]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89521]]></zip>
+<phone><![CDATA[(775) 851-6400]]></phone>
+<location_id><![CDATA[7314]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[185 Lemmon Dr]]></address>
+<city><![CDATA[Reno]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89506]]></zip>
+<phone><![CDATA[(775) 971-9000]]></phone>
+<location_id><![CDATA[7316]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[5095 S Mccarran Blvd]]></address>
+<city><![CDATA[Reno]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89502]]></zip>
+<phone><![CDATA[(775) 825-1202]]></phone>
+<location_id><![CDATA[7301]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[10450 N Mccarran Blvd]]></address>
+<city><![CDATA[Reno]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89503]]></zip>
+<phone><![CDATA[(775) 746-4344]]></phone>
+<location_id><![CDATA[7310]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[410 Keystone Ave]]></address>
+<city><![CDATA[Reno]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89503]]></zip>
+<phone><![CDATA[(775) 786-1113]]></phone>
+<location_id><![CDATA[7305]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[881 Apple St]]></address>
+<city><![CDATA[Reno]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89502]]></zip>
+<phone><![CDATA[(775) 827-6363]]></phone>
+<location_id><![CDATA[7302]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[655 E Prater Way]]></address>
+<city><![CDATA[Sparks]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89431]]></zip>
+<phone><![CDATA[(775) 356-7111]]></phone>
+<location_id><![CDATA[7306]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2289 Oddie Blvd]]></address>
+<city><![CDATA[Sparks]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89431]]></zip>
+<phone><![CDATA[(775) 331-4242]]></phone>
+<location_id><![CDATA[7303]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[122 Los Altos Pkwy]]></address>
+<city><![CDATA[Sparks]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89436]]></zip>
+<phone><![CDATA[(775) 626-5584]]></phone>
+<location_id><![CDATA[7318]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[350 Interstate 80]]></address>
+<city><![CDATA[Verdi]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89439]]></zip>
+<phone><![CDATA[(775) 345-5225]]></phone>
+<location_id><![CDATA[7311]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[218 W Winnemucca Blvd]]></address>
+<city><![CDATA[Winnemucca]]></city>
+<state><![CDATA[NV]]></state>
+<zip><![CDATA[89445]]></zip>
+<phone><![CDATA[(775) 625-1434]]></phone>
+<location_id><![CDATA[7319]]></location_id>
+</location>
+</locations></location_resultset>
+						

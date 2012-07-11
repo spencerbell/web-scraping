@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<location_resultset>
+<locations count="27">
+<location hrs='7' >
+<address><![CDATA[50 E Puainako St]]></address>
+<city><![CDATA[Hilo]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96720]]></zip>
+<phone><![CDATA[(808) 959-3111]]></phone>
+<location_id><![CDATA[8223]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4510 Salt Lake Blvd]]></address>
+<city><![CDATA[Honolulu]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96818]]></zip>
+<phone><![CDATA[(808) 487-2423]]></phone>
+<location_id><![CDATA[8213]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1001 Bishop St]]></address>
+<city><![CDATA[Honolulu]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96813]]></zip>
+<phone><![CDATA[(808) 523-9884]]></phone>
+<location_id><![CDATA[8227]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[633 Kapahulu Ave]]></address>
+<city><![CDATA[Honolulu]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96815]]></zip>
+<phone><![CDATA[(808) 735-2696]]></phone>
+<location_id><![CDATA[8210]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4859 Warden Ave]]></address>
+<city><![CDATA[Honolulu]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96818]]></zip>
+<phone><![CDATA[(808) 422-6887]]></phone>
+<location_id><![CDATA[8230]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[875 Kapiolani Blvd]]></address>
+<city><![CDATA[Honolulu]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96813]]></zip>
+<phone><![CDATA[(808) 593-8076]]></phone>
+<location_id><![CDATA[8208]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1525 S King St]]></address>
+<city><![CDATA[Honolulu]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96826]]></zip>
+<phone><![CDATA[(808) 941-1429]]></phone>
+<location_id><![CDATA[8237]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1180 S King St]]></address>
+<city><![CDATA[Honolulu]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96814]]></zip>
+<phone><![CDATA[(808) 591-1096]]></phone>
+<location_id><![CDATA[8244]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2317 N School St]]></address>
+<city><![CDATA[Honolulu]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96819]]></zip>
+<phone><![CDATA[(808) 841-7211]]></phone>
+<location_id><![CDATA[8205]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1970 S King St]]></address>
+<city><![CDATA[Honolulu]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96826]]></zip>
+<phone><![CDATA[(808) 949-1471]]></phone>
+<location_id><![CDATA[8204]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2183 N King St]]></address>
+<city><![CDATA[Honolulu]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96819]]></zip>
+<phone><![CDATA[(808) 847-6058]]></phone>
+<location_id><![CDATA[8203]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[535 Dillingham Blvd]]></address>
+<city><![CDATA[Honolulu]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96817]]></zip>
+<phone><![CDATA[(808) 847-3837]]></phone>
+<location_id><![CDATA[8201]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[150 E Kamehameha Ave]]></address>
+<city><![CDATA[Kahului]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96732]]></zip>
+<phone><![CDATA[(808) 871-5866]]></phone>
+<location_id><![CDATA[8212]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[112 Oneawa St]]></address>
+<city><![CDATA[Kailua]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96734]]></zip>
+<phone><![CDATA[(808) 263-6441]]></phone>
+<location_id><![CDATA[8219]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[75-934 Henry St]]></address>
+<city><![CDATA[Kailua Kona]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96740]]></zip>
+<phone><![CDATA[(808) 331-8808]]></phone>
+<location_id><![CDATA[8251]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[45-960 Kam Hwy]]></address>
+<city><![CDATA[Kaneohe]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96744]]></zip>
+<phone><![CDATA[(808) 247-1766]]></phone>
+<location_id><![CDATA[8211]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[591 Farrington Hwy]]></address>
+<city><![CDATA[Kapolei]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96707]]></zip>
+<phone><![CDATA[(808) 674-9607]]></phone>
+<location_id><![CDATA[8246]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1301 S  Kehei  Rd]]></address>
+<city><![CDATA[Kihei]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96753]]></zip>
+<phone><![CDATA[(808) 874-0155]]></phone>
+<location_id><![CDATA[8222]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[95-221 Kipapa Dr]]></address>
+<city><![CDATA[Mililani]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96789]]></zip>
+<phone><![CDATA[(808) 625-2811]]></phone>
+<location_id><![CDATA[8239]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[384 Kamehameha Hwy]]></address>
+<city><![CDATA[Pearl City]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96782]]></zip>
+<phone><![CDATA[(808) 487-8404]]></phone>
+<location_id><![CDATA[8233]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[11 S Kamehameha Hwy]]></address>
+<city><![CDATA[Wahiawa]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96786]]></zip>
+<phone><![CDATA[(808) 621-8113]]></phone>
+<location_id><![CDATA[8209]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[85-950 Farrington Hwy]]></address>
+<city><![CDATA[Waianae]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96792]]></zip>
+<phone><![CDATA[(808) 668-2164]]></phone>
+<location_id><![CDATA[8252]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[700 Lower Main St]]></address>
+<city><![CDATA[Wailuku]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96793]]></zip>
+<phone><![CDATA[(808) 249-2943]]></phone>
+<location_id><![CDATA[8245]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[41-1537 Kalanianaole Hwy]]></address>
+<city><![CDATA[Waimanalo]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96795]]></zip>
+<phone><![CDATA[(808) 259-8127]]></phone>
+<location_id><![CDATA[8207]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[94-866 Moloalo Ave]]></address>
+<city><![CDATA[Waipahu]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96797]]></zip>
+<phone><![CDATA[(808) 671-0033]]></phone>
+<location_id><![CDATA[8206]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[94-327 Kunia Rd]]></address>
+<city><![CDATA[Waipahu]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96797]]></zip>
+<phone><![CDATA[(808) 671-2300]]></phone>
+<location_id><![CDATA[8249]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[94-839 Ukee St]]></address>
+<city><![CDATA[Waipahu]]></city>
+<state><![CDATA[HI]]></state>
+<zip><![CDATA[96797]]></zip>
+<phone><![CDATA[(808) 671-2448]]></phone>
+<location_id><![CDATA[8217]]></location_id>
+</location>
+</locations></location_resultset>
+						

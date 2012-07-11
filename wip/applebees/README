@@ -1,0 +1,12 @@
+Bounding hack. the whole US
+
+
+http://applebees.com/external/Location/GetLocationsByBounds
+
+POST
+
+
+curl -d 'lat1=-89.46073145759367&lon1=-165.905125&lat2=89.82267624919983&lon2=-29.498875000000055&epiCenterLat=30.3376&epiCenterLon=-97.702
+' http://applebees.com/external/Location/GetLocationsByBounds
+
+

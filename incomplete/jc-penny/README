@@ -1,0 +1,3 @@
+using ther where2getit xml with a radius hack of 3000 miles
+
+http://hosted.where2getit.com/jcpenney/ajax?&xml_request=%3Crequest%3E%3Cappkey%3E247AEBBC-1610-11E1-BDBB-AE6C241F5146%3C%2Fappkey%3E%3Cformdata%20id%3D%22locatorsearch%22%3E%3Cdataview%3Estore_default%3C%2Fdataview%3E%3Cgeolocs%3E%3Cgeoloc%3E%3Caddressline%3EAustin%20TX%3C%2Faddressline%3E%3Clongitude%3E%3C%2Flongitude%3E%3Clatitude%3E%3C%2Flatitude%3E%3C%2Fgeoloc%3E%3C%2Fgeolocs%3E%3Csearchradius%3E3000%3C%2Fsearchradius%3E%3C%2Fformdata%3E%3C%2Frequest%3E

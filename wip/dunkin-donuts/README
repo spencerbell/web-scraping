@@ -1,0 +1,7 @@
+change the URL to get all of them:
+
+http://www.mapquestapi.com/search/v1/radius?key=Gmjtd|lu6y200yn9,b2=o5-lwrl5&cacheBust=1339662193175,3&callback=MQA.SearchIO.CALLBACKS.c13396621931753&json={%22origin%22:%22White%20Plains,%20NY%2010605%22,%22options%22:{%22units%22:%22m%22,%22maxMatches%22:50000,%22radius%22:%225000%22,%22ambiguities%22:%22ignore%22,%22shapeFormat%22:%22cmp6%22},%22hostedDataList%22:[{%22name%22:%22MQA.MQ_33454_DunkinDonuts%22,%22extraCriteria%22:%22%22,%22fields%22:[]}]}
+
+max 50000 with 5000 mile radius should get all of USA
+
+

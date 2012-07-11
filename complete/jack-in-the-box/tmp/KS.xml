@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<location_resultset>
+<locations count="4">
+<location hrs='7' >
+<address><![CDATA[211 S 18th St]]></address>
+<city><![CDATA[Kansas City]]></city>
+<state><![CDATA[KS]]></state>
+<zip><![CDATA[66102]]></zip>
+<phone><![CDATA[(913) 371-0911]]></phone>
+<location_id><![CDATA[6200]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[10630 Parallel Pkwy]]></address>
+<city><![CDATA[Kansas City]]></city>
+<state><![CDATA[KS]]></state>
+<zip><![CDATA[66109]]></zip>
+<phone><![CDATA[(913) 287-5512]]></phone>
+<location_id><![CDATA[6202]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[17820 W 119th St]]></address>
+<city><![CDATA[Olathe]]></city>
+<state><![CDATA[KS]]></state>
+<zip><![CDATA[66061]]></zip>
+<phone><![CDATA[(913) 227-0782]]></phone>
+<location_id><![CDATA[6204]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[10317 Metcalf Ave]]></address>
+<city><![CDATA[Overland Park]]></city>
+<state><![CDATA[KS]]></state>
+<zip><![CDATA[66212]]></zip>
+<phone><![CDATA[(913) 381-2618]]></phone>
+<location_id><![CDATA[6201]]></location_id>
+</location>
+</locations></location_resultset>
+						

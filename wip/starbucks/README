@@ -1,0 +1,7 @@
+Get the worldwide starbucks locations
+
+http://www.starbucks.com/store/[1-21000]
+
+use a very slow crawl, as this will throw 404 pages. maybe we should stop if we hit more than 50 in a row?
+
+

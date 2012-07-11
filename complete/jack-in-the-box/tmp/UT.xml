@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<location_resultset>
+<locations count="2">
+<location hrs='0' >
+<address><![CDATA[1596 S Convention Center Dr]]></address>
+<city><![CDATA[Saint George]]></city>
+<state><![CDATA[UT]]></state>
+<zip><![CDATA[84790]]></zip>
+<phone><![CDATA[(435) 986-0284]]></phone>
+<location_id><![CDATA[1305]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[775 W Telegraph St]]></address>
+<city><![CDATA[Washington]]></city>
+<state><![CDATA[UT]]></state>
+<zip><![CDATA[84780]]></zip>
+<phone><![CDATA[(435) 656-4450]]></phone>
+<location_id><![CDATA[1306]]></location_id>
+</location>
+</locations></location_resultset>
+						

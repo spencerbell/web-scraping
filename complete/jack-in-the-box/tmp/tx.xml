@@ -1,0 +1,4965 @@
+<?xml version="1.0" encoding="utf-8"?>
+<location_resultset>
+<locations count="620">
+<location hrs='7' >
+<address><![CDATA[804 W Mcdermott Dr]]></address>
+<city><![CDATA[Allen]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75013]]></zip>
+<phone><![CDATA[(972) 727-8327]]></phone>
+<location_id><![CDATA[3799]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[394 E Stacy Rd]]></address>
+<city><![CDATA[Allen]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75002]]></zip>
+<phone><![CDATA[(214) 383-5660]]></phone>
+<location_id><![CDATA[4798]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[615 S Gordon St]]></address>
+<city><![CDATA[Alvin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77511]]></zip>
+<phone><![CDATA[(281) 331-2311]]></phone>
+<location_id><![CDATA[664]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[2805 N Highway 35]]></address>
+<city><![CDATA[Alvin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77511]]></zip>
+<phone><![CDATA[(281) 331-2505]]></phone>
+<location_id><![CDATA[3928]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[839 E Mulberry St]]></address>
+<city><![CDATA[Angleton]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77515]]></zip>
+<phone><![CDATA[(979) 849-0057]]></phone>
+<location_id><![CDATA[685]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[5920 S Cooper St]]></address>
+<city><![CDATA[Arlington]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76017]]></zip>
+<phone><![CDATA[(817) 557-8743]]></phone>
+<location_id><![CDATA[3777]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1807 E Park Row Dr]]></address>
+<city><![CDATA[Arlington]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76010]]></zip>
+<phone><![CDATA[(817) 277-0782]]></phone>
+<location_id><![CDATA[758]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[901 Interstate 20 E]]></address>
+<city><![CDATA[Arlington]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76018]]></zip>
+<phone><![CDATA[(817) 419-9402]]></phone>
+<location_id><![CDATA[3782]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[712 E Pioneer Pkwy]]></address>
+<city><![CDATA[Arlington]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76010]]></zip>
+<phone><![CDATA[(817) 277-9520]]></phone>
+<location_id><![CDATA[762]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5340 Matlock Rd]]></address>
+<city><![CDATA[Arlington]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76018]]></zip>
+<phone><![CDATA[(817) 467-6611]]></phone>
+<location_id><![CDATA[3750]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[2401 SE Green Oaks Blvd]]></address>
+<city><![CDATA[Arlington]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76018]]></zip>
+<phone><![CDATA[(817) 375-3756]]></phone>
+<location_id><![CDATA[3759]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3737 S Cooper St]]></address>
+<city><![CDATA[Arlington]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76015]]></zip>
+<phone><![CDATA[(817) 472-9462]]></phone>
+<location_id><![CDATA[3715]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[753 W Lamar Blvd]]></address>
+<city><![CDATA[Arlington]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76012]]></zip>
+<phone><![CDATA[(817) 861-2888]]></phone>
+<location_id><![CDATA[3734]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[700 W Division St]]></address>
+<city><![CDATA[Arlington]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76012]]></zip>
+<phone><![CDATA[(817) 460-7888]]></phone>
+<location_id><![CDATA[765]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[4950 W Sublett Rd]]></address>
+<city><![CDATA[Arlington]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76001]]></zip>
+<phone><![CDATA[(817) 563-0087]]></phone>
+<location_id><![CDATA[4746]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2880 E Pioneer Pkwy]]></address>
+<city><![CDATA[Arlington]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76010]]></zip>
+<phone><![CDATA[(817) 640-2145]]></phone>
+<location_id><![CDATA[3724]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[5775 W Pleasant Ridge Rd]]></address>
+<city><![CDATA[Arlington]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76016]]></zip>
+<phone><![CDATA[(817) 483-5812]]></phone>
+<location_id><![CDATA[3718]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[900 N Collins St]]></address>
+<city><![CDATA[Arlington]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76011]]></zip>
+<phone><![CDATA[(817) 274-6731]]></phone>
+<location_id><![CDATA[740]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1734 E Division St]]></address>
+<city><![CDATA[Arlington]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76011]]></zip>
+<phone><![CDATA[(817) 860-5842]]></phone>
+<location_id><![CDATA[3738]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[521 N Watson Rd]]></address>
+<city><![CDATA[Arlington]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76011]]></zip>
+<phone><![CDATA[(817) 640-8552]]></phone>
+<location_id><![CDATA[777]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1398 E Tyler St]]></address>
+<city><![CDATA[Athens]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75751]]></zip>
+<phone><![CDATA[(903) 670-3357]]></phone>
+<location_id><![CDATA[3820]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6133 E Ben White Blvd]]></address>
+<city><![CDATA[Austin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78741]]></zip>
+<phone><![CDATA[(512) 389-0490]]></phone>
+<location_id><![CDATA[904]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8706 E Us Highway 290]]></address>
+<city><![CDATA[Austin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78724]]></zip>
+<phone><![CDATA[(512) 928-8969]]></phone>
+<location_id><![CDATA[905]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6540 Ed Bluestein Blvd]]></address>
+<city><![CDATA[Austin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78723]]></zip>
+<phone><![CDATA[(512) 927-0330]]></phone>
+<location_id><![CDATA[912]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7404 Mcneil Dr]]></address>
+<city><![CDATA[Austin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78729]]></zip>
+<phone><![CDATA[(512) 219-1809]]></phone>
+<location_id><![CDATA[906]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[12309 Dessau Rd]]></address>
+<city><![CDATA[Austin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78754]]></zip>
+<phone><![CDATA[(512) 491-8200]]></phone>
+<location_id><![CDATA[922]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6419 Airport Blvd]]></address>
+<city><![CDATA[Austin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78752]]></zip>
+<phone><![CDATA[(512) 452-9291]]></phone>
+<location_id><![CDATA[865]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7901 Burnet Rd]]></address>
+<city><![CDATA[Austin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78757]]></zip>
+<phone><![CDATA[(512) 454-1555]]></phone>
+<location_id><![CDATA[810]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[110 E William Cannon St]]></address>
+<city><![CDATA[Austin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78745]]></zip>
+<phone><![CDATA[(512) 442-0099]]></phone>
+<location_id><![CDATA[840]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[904 E Braker Ln]]></address>
+<city><![CDATA[Austin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78753]]></zip>
+<phone><![CDATA[(512) 835-7054]]></phone>
+<location_id><![CDATA[842]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9825 Burnet Rd]]></address>
+<city><![CDATA[Austin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78758]]></zip>
+<phone><![CDATA[(512) 832-9323]]></phone>
+<location_id><![CDATA[843]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1936 E Oltorf St]]></address>
+<city><![CDATA[Austin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78741]]></zip>
+<phone><![CDATA[(512) 462-2676]]></phone>
+<location_id><![CDATA[845]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8630 N Lamar Blvd]]></address>
+<city><![CDATA[Austin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78753]]></zip>
+<phone><![CDATA[(512) 834-8924]]></phone>
+<location_id><![CDATA[848]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[814 E Rundberg Ln]]></address>
+<city><![CDATA[Austin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78753]]></zip>
+<phone><![CDATA[(512) 837-1232]]></phone>
+<location_id><![CDATA[825]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1151 Airport Blvd]]></address>
+<city><![CDATA[Austin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78702]]></zip>
+<phone><![CDATA[(512) 928-8381]]></phone>
+<location_id><![CDATA[907]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1000 E 41st St Unit K]]></address>
+<city><![CDATA[Austin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78751]]></zip>
+<phone><![CDATA[(512) 458-6252]]></phone>
+<location_id><![CDATA[869]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9300 S Ih 35 Ste A300 Bldg G]]></address>
+<city><![CDATA[Austin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78748]]></zip>
+<phone><![CDATA[(512) 291-1188]]></phone>
+<location_id><![CDATA[949]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1801 W Ben White Blvd]]></address>
+<city><![CDATA[Austin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78704]]></zip>
+<phone><![CDATA[(512) 442-1697]]></phone>
+<location_id><![CDATA[823]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1200 Barton Springs Rd]]></address>
+<city><![CDATA[Austin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78704]]></zip>
+<phone><![CDATA[(512) 472-6934]]></phone>
+<location_id><![CDATA[837]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6210 W William Cannon Dr]]></address>
+<city><![CDATA[Austin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78749]]></zip>
+<phone><![CDATA[(512) 899-1312]]></phone>
+<location_id><![CDATA[867]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2552 Guadalupe St]]></address>
+<city><![CDATA[Austin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78705]]></zip>
+<phone><![CDATA[(512) 474-1708]]></phone>
+<location_id><![CDATA[802]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[509 Central Dr]]></address>
+<city><![CDATA[Azle]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76020]]></zip>
+<phone><![CDATA[(817) 270-4465]]></phone>
+<location_id><![CDATA[3832]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4605 Highway 146]]></address>
+<city><![CDATA[Bacliff]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77518]]></zip>
+<phone><![CDATA[(281) 339-6789]]></phone>
+<location_id><![CDATA[3656]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[12325 Lake June Rd]]></address>
+<city><![CDATA[Balch Springs]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75180]]></zip>
+<phone><![CDATA[(972) 329-5990]]></phone>
+<location_id><![CDATA[4756]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1641 Highway 71 E]]></address>
+<city><![CDATA[Bastrop]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78602]]></zip>
+<phone><![CDATA[(512) 308-9561]]></phone>
+<location_id><![CDATA[4812]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2804 7th St]]></address>
+<city><![CDATA[Bay City]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77414]]></zip>
+<phone><![CDATA[(979) 245-1872]]></phone>
+<location_id><![CDATA[680]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[900 Decker Dr]]></address>
+<city><![CDATA[Baytown]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77520]]></zip>
+<phone><![CDATA[(281) 422-3340]]></phone>
+<location_id><![CDATA[628]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5107 East Fwy]]></address>
+<city><![CDATA[Baytown]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77521]]></zip>
+<phone><![CDATA[(281) 421-2259]]></phone>
+<location_id><![CDATA[3648]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4234 Decker Dr]]></address>
+<city><![CDATA[Baytown]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77520]]></zip>
+<phone><![CDATA[(281) 424-2450]]></phone>
+<location_id><![CDATA[4749]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2210 N Alexander Dr]]></address>
+<city><![CDATA[Baytown]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77520]]></zip>
+<phone><![CDATA[(281) 422-3224]]></phone>
+<location_id><![CDATA[654]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8832 N Highway 146]]></address>
+<city><![CDATA[Baytown]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77523]]></zip>
+<phone><![CDATA[(281) 383-7363]]></phone>
+<location_id><![CDATA[3668]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3601 N Main St]]></address>
+<city><![CDATA[Baytown]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77521]]></zip>
+<phone><![CDATA[(281) 837-1046]]></phone>
+<location_id><![CDATA[3936]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[590 Washington Blvd]]></address>
+<city><![CDATA[Beaumont]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77705]]></zip>
+<phone><![CDATA[(409) 832-4855]]></phone>
+<location_id><![CDATA[3646]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1550 Interstate 10 E]]></address>
+<city><![CDATA[Beaumont]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77703]]></zip>
+<phone><![CDATA[(409) 813-1641]]></phone>
+<location_id><![CDATA[4776]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3885 Interstate 10 S]]></address>
+<city><![CDATA[Beaumont]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77705]]></zip>
+<phone><![CDATA[(409) 842-3882]]></phone>
+<location_id><![CDATA[3686]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7380 Highway 105]]></address>
+<city><![CDATA[Beaumont]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77713]]></zip>
+<phone><![CDATA[(409) 898-1948]]></phone>
+<location_id><![CDATA[3978]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5601 College St]]></address>
+<city><![CDATA[Beaumont]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77707]]></zip>
+<phone><![CDATA[(409) 842-9480]]></phone>
+<location_id><![CDATA[3647]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[680 N 11th St]]></address>
+<city><![CDATA[Beaumont]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77702]]></zip>
+<phone><![CDATA[(409) 832-6900]]></phone>
+<location_id><![CDATA[4808]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5870 Eastex Fwy]]></address>
+<city><![CDATA[Beaumont]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77708]]></zip>
+<phone><![CDATA[(409) 898-0213]]></phone>
+<location_id><![CDATA[3637]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3355 Harwood Rd]]></address>
+<city><![CDATA[Bedford]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76021]]></zip>
+<phone><![CDATA[(817) 540-4933]]></phone>
+<location_id><![CDATA[3742]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1525 Interstate 35 N]]></address>
+<city><![CDATA[Bellmead]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76705]]></zip>
+<phone><![CDATA[(254) 412-2013]]></phone>
+<location_id><![CDATA[3814]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2808 Oakmark Dr]]></address>
+<city><![CDATA[Belton]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76513]]></zip>
+<phone><![CDATA[(254) 939-2168]]></phone>
+<location_id><![CDATA[4720]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7901 Camp Bowie W Blvd]]></address>
+<city><![CDATA[Benbrook]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76116]]></zip>
+<phone><![CDATA[(817) 244-0095]]></phone>
+<location_id><![CDATA[756]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8528 Benbrook Blvd]]></address>
+<city><![CDATA[Benbrook]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76126]]></zip>
+<phone><![CDATA[(817) 249-6580]]></phone>
+<location_id><![CDATA[3802]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[400 Highway 290 W]]></address>
+<city><![CDATA[Brenham]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77833]]></zip>
+<phone><![CDATA[(979) 836-2657]]></phone>
+<location_id><![CDATA[687]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[2395 Texas Ave]]></address>
+<city><![CDATA[Bridge City]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77611]]></zip>
+<phone><![CDATA[(409) 738-3097]]></phone>
+<location_id><![CDATA[4712]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[321 Fm 359 Rd S]]></address>
+<city><![CDATA[Brookshire]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77423]]></zip>
+<phone><![CDATA[(281) 375-5224]]></phone>
+<location_id><![CDATA[3654]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5120 S Padre Island Hwy]]></address>
+<city><![CDATA[Brownsville]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78521]]></zip>
+<phone><![CDATA[(956) 831-7199]]></phone>
+<location_id><![CDATA[3674]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[916 N Expressway]]></address>
+<city><![CDATA[Brownsville]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78521]]></zip>
+<phone><![CDATA[(956) 541-8511]]></phone>
+<location_id><![CDATA[3664]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2150 Paredes Line Rd]]></address>
+<city><![CDATA[Brownsville]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78521]]></zip>
+<phone><![CDATA[(956) 550-8994]]></phone>
+<location_id><![CDATA[3951]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3355 International Blvd]]></address>
+<city><![CDATA[Brownsville]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78521]]></zip>
+<phone><![CDATA[(956) 544-5999]]></phone>
+<location_id><![CDATA[3676]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2906 S Texas Ave]]></address>
+<city><![CDATA[Bryan]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77802]]></zip>
+<phone><![CDATA[(979) 775-7103]]></phone>
+<location_id><![CDATA[675]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[900 N Earl Rudder Fwy]]></address>
+<city><![CDATA[Bryan]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77802]]></zip>
+<phone><![CDATA[(979) 731-8893]]></phone>
+<location_id><![CDATA[3855]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[15320 S Intersate 35]]></address>
+<city><![CDATA[Buda]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78610]]></zip>
+<phone><![CDATA[(512) 295-6786]]></phone>
+<location_id><![CDATA[919]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[300 Sw Wilshire Blvd]]></address>
+<city><![CDATA[Burleson]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76028]]></zip>
+<phone><![CDATA[(817) 295-6501]]></phone>
+<location_id><![CDATA[780]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2666 Josey Ln]]></address>
+<city><![CDATA[Carrollton]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75007]]></zip>
+<phone><![CDATA[(972) 245-2082]]></phone>
+<location_id><![CDATA[774]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[2452 Luna Rd]]></address>
+<city><![CDATA[Carrollton]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75006]]></zip>
+<phone><![CDATA[(972) 247-5181]]></phone>
+<location_id><![CDATA[4784]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2299 Nw Military Hwy]]></address>
+<city><![CDATA[Castle Hills]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78213]]></zip>
+<phone><![CDATA[(210) 340-9084]]></phone>
+<location_id><![CDATA[928]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[111 W State Highway 21]]></address>
+<city><![CDATA[Cedar Creek]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78612]]></zip>
+<phone><![CDATA[(512) 308-0387]]></phone>
+<location_id><![CDATA[925]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[412 N Highway 67]]></address>
+<city><![CDATA[Cedar Hill]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75104]]></zip>
+<phone><![CDATA[(972) 293-9727]]></phone>
+<location_id><![CDATA[3843]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1129 W St Marys St]]></address>
+<city><![CDATA[Centerville]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75833]]></zip>
+<phone><![CDATA[(903) 536-1022]]></phone>
+<location_id><![CDATA[3764]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[514 Sheldon Rd]]></address>
+<city><![CDATA[Channelview]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77530]]></zip>
+<phone><![CDATA[(281) 452-2918]]></phone>
+<location_id><![CDATA[670]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[110 W Katherine P Rains Rd]]></address>
+<city><![CDATA[Cleburne]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76033]]></zip>
+<phone><![CDATA[(817) 202-0145]]></phone>
+<location_id><![CDATA[3829]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[603 W Henderson St]]></address>
+<city><![CDATA[Cleburne]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76033]]></zip>
+<phone><![CDATA[(817) 202-0153]]></phone>
+<location_id><![CDATA[766]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[419 S Washington Ave]]></address>
+<city><![CDATA[Cleveland]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77327]]></zip>
+<phone><![CDATA[(281) 592-9683]]></phone>
+<location_id><![CDATA[691]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1041 W Plantation Dr]]></address>
+<city><![CDATA[Clute]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77531]]></zip>
+<phone><![CDATA[(979) 265-5190]]></phone>
+<location_id><![CDATA[677]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[3511 Longmire Dr]]></address>
+<city><![CDATA[College Station]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77845]]></zip>
+<phone><![CDATA[(979) 695-2993]]></phone>
+<location_id><![CDATA[3825]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1504 Texas Ave S]]></address>
+<city><![CDATA[College Station]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77840]]></zip>
+<phone><![CDATA[(979) 693-4310]]></phone>
+<location_id><![CDATA[683]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2209 Highway 71 S]]></address>
+<city><![CDATA[Columbus]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78934]]></zip>
+<phone><![CDATA[(979) 732-5834]]></phone>
+<location_id><![CDATA[3945]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[9300 Highway 242]]></address>
+<city><![CDATA[Conroe]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77385]]></zip>
+<phone><![CDATA[(936) 271-3277]]></phone>
+<location_id><![CDATA[4713]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1184 W Dallas St]]></address>
+<city><![CDATA[Conroe]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77301]]></zip>
+<phone><![CDATA[(936) 539-3837]]></phone>
+<location_id><![CDATA[688]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1300 League Line Rd]]></address>
+<city><![CDATA[Conroe]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77301]]></zip>
+<phone><![CDATA[(936) 890-2059]]></phone>
+<location_id><![CDATA[3957]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1405 N Loop W 336]]></address>
+<city><![CDATA[Conroe]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77304]]></zip>
+<phone><![CDATA[(936) 441-5369]]></phone>
+<location_id><![CDATA[4810]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3595 N Loop 336 E]]></address>
+<city><![CDATA[Conroe]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77301]]></zip>
+<phone><![CDATA[(936) 539-3814]]></phone>
+<location_id><![CDATA[3905]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[121 E State Highway 121]]></address>
+<city><![CDATA[Coppell]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75019]]></zip>
+<phone><![CDATA[(214) 488-3969]]></phone>
+<location_id><![CDATA[3831]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[901 E Highway 190]]></address>
+<city><![CDATA[Copperas Cove]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76522]]></zip>
+<phone><![CDATA[(254) 547-9898]]></phone>
+<location_id><![CDATA[828]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7900 S Interstate 35 E]]></address>
+<city><![CDATA[Corinth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76210]]></zip>
+<phone><![CDATA[(940) 321-0727]]></phone>
+<location_id><![CDATA[3768]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1502 Airline Rd Ste 302]]></address>
+<city><![CDATA[Corpus Christi]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78412]]></zip>
+<phone><![CDATA[(361) 980-8067]]></phone>
+<location_id><![CDATA[4728]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3155 S Padre Island Dr]]></address>
+<city><![CDATA[Corpus Christi]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78415]]></zip>
+<phone><![CDATA[(361) 225-3746]]></phone>
+<location_id><![CDATA[4727]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1238 Waldron Rd]]></address>
+<city><![CDATA[Corpus Christi]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78418]]></zip>
+<phone><![CDATA[(361) 939-9643]]></phone>
+<location_id><![CDATA[4751]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[10602 Ih 37]]></address>
+<city><![CDATA[Corpus Christi]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78410]]></zip>
+<phone><![CDATA[(361) 242-9818]]></phone>
+<location_id><![CDATA[4729]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[6505 Everhart Rd]]></address>
+<city><![CDATA[Corpus Christi]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78413]]></zip>
+<phone><![CDATA[(361) 225-2938]]></phone>
+<location_id><![CDATA[4777]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1739 W 7th Ave]]></address>
+<city><![CDATA[Corsicana]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75110]]></zip>
+<phone><![CDATA[(903) 872-4488]]></phone>
+<location_id><![CDATA[738]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[2001 E Highway 31]]></address>
+<city><![CDATA[Corsicana]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75109]]></zip>
+<phone><![CDATA[(903) 872-5944]]></phone>
+<location_id><![CDATA[3812]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[13902 Fm 2100 Rd]]></address>
+<city><![CDATA[Crosby]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77532]]></zip>
+<phone><![CDATA[(281) 462-2527]]></phone>
+<location_id><![CDATA[3995]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[800 S Crowley Rd]]></address>
+<city><![CDATA[Crowley]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76036]]></zip>
+<phone><![CDATA[(000) 000-0000]]></phone>
+<location_id><![CDATA[4826]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[7021 Fry Rd]]></address>
+<city><![CDATA[Cypress]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77433]]></zip>
+<phone><![CDATA[(281) 856-8503]]></phone>
+<location_id><![CDATA[3989]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[17926 Spring Cypress Rd]]></address>
+<city><![CDATA[Cypress]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77429]]></zip>
+<phone><![CDATA[(281) 256-8992]]></phone>
+<location_id><![CDATA[4813]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1020 W Davis St]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75208]]></zip>
+<phone><![CDATA[(214) 946-5020]]></phone>
+<location_id><![CDATA[703]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2720 W Northwest Hwy]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75220]]></zip>
+<phone><![CDATA[(214) 352-9049]]></phone>
+<location_id><![CDATA[3704]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8227 Park Ln]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75231]]></zip>
+<phone><![CDATA[(214) 368-1849]]></phone>
+<location_id><![CDATA[799]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5235 W Lovers Ln]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75209]]></zip>
+<phone><![CDATA[(214) 353-9653]]></phone>
+<location_id><![CDATA[3701]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1228 Robert B Cullum Blvd]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75210]]></zip>
+<phone><![CDATA[(214) 928-9194]]></phone>
+<location_id><![CDATA[4748]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[18220 Dallas Pkwy]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75287]]></zip>
+<phone><![CDATA[(972) 732-0033]]></phone>
+<location_id><![CDATA[3733]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[110 E Camp Wisdom Rd]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75241]]></zip>
+<phone><![CDATA[(972) 228-5679]]></phone>
+<location_id><![CDATA[4779]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2405 Royal Ln]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75229]]></zip>
+<phone><![CDATA[(972) 406-1023]]></phone>
+<location_id><![CDATA[3758]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2727 W Wheatland Rd]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75237]]></zip>
+<phone><![CDATA[(972) 780-9494]]></phone>
+<location_id><![CDATA[3757]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9222 John Carpenter Fwy]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75247]]></zip>
+<phone><![CDATA[(214) 634-0664]]></phone>
+<location_id><![CDATA[3749]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2323 W Ledbetter Dr]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75224]]></zip>
+<phone><![CDATA[(214) 333-7606]]></phone>
+<location_id><![CDATA[3780]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[12330 Greenville Ave]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75243]]></zip>
+<phone><![CDATA[(214) 570-8691]]></phone>
+<location_id><![CDATA[4759]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[721 S R L Thornton Fwy]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75203]]></zip>
+<phone><![CDATA[(214) 948-5505]]></phone>
+<location_id><![CDATA[4806]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1301 N Hampton Rd]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75208]]></zip>
+<phone><![CDATA[(214) 941-1484]]></phone>
+<location_id><![CDATA[3781]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7940 Lbj Fwy]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75251]]></zip>
+<phone><![CDATA[(972) 404-8706]]></phone>
+<location_id><![CDATA[3744]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7260 N Stemmons Fwy]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75247]]></zip>
+<phone><![CDATA[(214) 637-5758]]></phone>
+<location_id><![CDATA[3739]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2204 W Northwest Hwy]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75220]]></zip>
+<phone><![CDATA[(214) 351-3104]]></phone>
+<location_id><![CDATA[3767]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2021 S Buckner Blvd]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75217]]></zip>
+<phone><![CDATA[(214) 391-7555]]></phone>
+<location_id><![CDATA[794]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4313 W Illinois Ave]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75211]]></zip>
+<phone><![CDATA[(214) 467-7943]]></phone>
+<location_id><![CDATA[3865]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1020 S Westmoreland Rd]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75211]]></zip>
+<phone><![CDATA[(214) 331-5630]]></phone>
+<location_id><![CDATA[729]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[10107 Marsh Ln]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75229]]></zip>
+<phone><![CDATA[(214) 350-2632]]></phone>
+<location_id><![CDATA[722]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6308 Gaston Ave]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75214]]></zip>
+<phone><![CDATA[(214) 823-3881]]></phone>
+<location_id><![CDATA[727]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2611 S Hampton Rd]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75224]]></zip>
+<phone><![CDATA[(214) 337-8511]]></phone>
+<location_id><![CDATA[732]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[6355 E Mockingbird Ln]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75214]]></zip>
+<phone><![CDATA[(214) 826-7320]]></phone>
+<location_id><![CDATA[734]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[404 W Illinois Ave]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75224]]></zip>
+<phone><![CDATA[(214) 946-5019]]></phone>
+<location_id><![CDATA[705]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3232 N Buckner Blvd]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75228]]></zip>
+<phone><![CDATA[(214) 328-5844]]></phone>
+<location_id><![CDATA[744]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[13555 Preston Rd]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75240]]></zip>
+<phone><![CDATA[(972) 239-2782]]></phone>
+<location_id><![CDATA[748]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3195 Royal Ln]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75229]]></zip>
+<phone><![CDATA[(214) 351-5580]]></phone>
+<location_id><![CDATA[715]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3117 Inwood Rd]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75235]]></zip>
+<phone><![CDATA[(214) 358-3966]]></phone>
+<location_id><![CDATA[713]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4402 Maple Ave]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75219]]></zip>
+<phone><![CDATA[(214) 521-2560]]></phone>
+<location_id><![CDATA[704]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[5025 S Lancaster Rd]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75216]]></zip>
+<phone><![CDATA[(214) 376-6722]]></phone>
+<location_id><![CDATA[3853]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5336 Philip Ave]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75223]]></zip>
+<phone><![CDATA[(214) 370-8774]]></phone>
+<location_id><![CDATA[4824]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4703 Greenville Ave]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75206]]></zip>
+<phone><![CDATA[(214) 378-9640]]></phone>
+<location_id><![CDATA[3837]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[190 Continental Ave]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75207]]></zip>
+<phone><![CDATA[(000) 000-0000]]></phone>
+<location_id><![CDATA[4820]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7410 Bonnie View Rd]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75241]]></zip>
+<phone><![CDATA[(972) 225-2656]]></phone>
+<location_id><![CDATA[3824]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4210 N Central Expy]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75206]]></zip>
+<phone><![CDATA[(214) 823-3650]]></phone>
+<location_id><![CDATA[783]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[11404 Garland Rd]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75218]]></zip>
+<phone><![CDATA[(214) 327-8363]]></phone>
+<location_id><![CDATA[701]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3811 Live Oak St]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75204]]></zip>
+<phone><![CDATA[(214) 826-2470]]></phone>
+<location_id><![CDATA[702]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9661 Skillman St]]></address>
+<city><![CDATA[Dallas]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75243]]></zip>
+<phone><![CDATA[(214) 340-3321]]></phone>
+<location_id><![CDATA[749]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[208 E Highway 90]]></address>
+<city><![CDATA[Dayton]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77535]]></zip>
+<phone><![CDATA[(936) 257-8008]]></phone>
+<location_id><![CDATA[3964]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[901 N Hampton Rd]]></address>
+<city><![CDATA[De Soto]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75115]]></zip>
+<phone><![CDATA[(972) 223-4444]]></phone>
+<location_id><![CDATA[742]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[900 S Highway 287]]></address>
+<city><![CDATA[Decatur]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76234]]></zip>
+<phone><![CDATA[(940) 627-7325]]></phone>
+<location_id><![CDATA[3753]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[10 Center St]]></address>
+<city><![CDATA[Deer Park]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77536]]></zip>
+<phone><![CDATA[(281) 478-4348]]></phone>
+<location_id><![CDATA[3918]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[100 Braddie Dr]]></address>
+<city><![CDATA[Del Rio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78840]]></zip>
+<phone><![CDATA[(830) 768-3050]]></phone>
+<location_id><![CDATA[947]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1120 S Austin Ave]]></address>
+<city><![CDATA[Denison]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75020]]></zip>
+<phone><![CDATA[(903) 465-4343]]></phone>
+<location_id><![CDATA[768]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[328 W University Dr]]></address>
+<city><![CDATA[Denton]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76201]]></zip>
+<phone><![CDATA[(940) 484-8068]]></phone>
+<location_id><![CDATA[3776]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1408 W Hickory St]]></address>
+<city><![CDATA[Denton]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76201]]></zip>
+<phone><![CDATA[(940) 387-8342]]></phone>
+<location_id><![CDATA[719]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[104 S Loop 288]]></address>
+<city><![CDATA[Denton]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76209]]></zip>
+<phone><![CDATA[(940) 566-6721]]></phone>
+<location_id><![CDATA[3835]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2200 S Interstate 35 E]]></address>
+<city><![CDATA[Denton]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76205]]></zip>
+<phone><![CDATA[(940) 891-2620]]></phone>
+<location_id><![CDATA[793]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[400 N Temple Dr]]></address>
+<city><![CDATA[Diboll]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75941]]></zip>
+<phone><![CDATA[(936) 829-3344]]></phone>
+<location_id><![CDATA[3786]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3815 Gulf Fwy]]></address>
+<city><![CDATA[Dickinson]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77539]]></zip>
+<phone><![CDATA[(281) 337-2842]]></phone>
+<location_id><![CDATA[694]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[503 E Camp Wisdom Rd]]></address>
+<city><![CDATA[Duncanville]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75116]]></zip>
+<phone><![CDATA[(972) 298-7401]]></phone>
+<location_id><![CDATA[735]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[907 E Highway 67]]></address>
+<city><![CDATA[Duncanville]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75137]]></zip>
+<phone><![CDATA[(972) 709-2757]]></phone>
+<location_id><![CDATA[796]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1602 W University Dr]]></address>
+<city><![CDATA[Edinburg]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78539]]></zip>
+<phone><![CDATA[(956) 386-1832]]></phone>
+<location_id><![CDATA[3947]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[102 E Monte Cristo Rd]]></address>
+<city><![CDATA[Edinburg]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78541]]></zip>
+<phone><![CDATA[(956) 316-1558]]></phone>
+<location_id><![CDATA[4700]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1721 S Mechanic St]]></address>
+<city><![CDATA[El Campo]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77437]]></zip>
+<phone><![CDATA[(979) 578-8981]]></phone>
+<location_id><![CDATA[3950]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9004 Dyer St]]></address>
+<city><![CDATA[El Paso]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[79904]]></zip>
+<phone><![CDATA[(915) 751-0581]]></phone>
+<location_id><![CDATA[878]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6700 Montana Ave]]></address>
+<city><![CDATA[El Paso]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[79925]]></zip>
+<phone><![CDATA[(915) 778-5822]]></phone>
+<location_id><![CDATA[877]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1115 McRae Blvd]]></address>
+<city><![CDATA[El Paso]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[79925]]></zip>
+<phone><![CDATA[(915) 594-6608]]></phone>
+<location_id><![CDATA[883]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[5519 W Alameda Ave]]></address>
+<city><![CDATA[El Paso]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[79905]]></zip>
+<phone><![CDATA[(915) 772-5533]]></phone>
+<location_id><![CDATA[876]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[12207 Montwood Dr]]></address>
+<city><![CDATA[El Paso]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[79938]]></zip>
+<phone><![CDATA[(915) 856-0736]]></phone>
+<location_id><![CDATA[886]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8040 N Mesa St]]></address>
+<city><![CDATA[El Paso]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[79932]]></zip>
+<phone><![CDATA[(915) 760-4995]]></phone>
+<location_id><![CDATA[885]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[5350 Montana Ave]]></address>
+<city><![CDATA[El Paso]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[79903]]></zip>
+<phone><![CDATA[(915) 772-9863]]></phone>
+<location_id><![CDATA[880]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4160 N Mesa Dr]]></address>
+<city><![CDATA[El Paso]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[79902]]></zip>
+<phone><![CDATA[(915) 545-2494]]></phone>
+<location_id><![CDATA[875]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[655 Redd Rd]]></address>
+<city><![CDATA[El Paso]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[79912]]></zip>
+<phone><![CDATA[(915) 760-4616]]></phone>
+<location_id><![CDATA[4804]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1448 N Lee Trevino Dr]]></address>
+<city><![CDATA[El Paso]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[79936]]></zip>
+<phone><![CDATA[(915) 590-0990]]></phone>
+<location_id><![CDATA[882]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[409 E Edinburg Ave]]></address>
+<city><![CDATA[Elsa]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78543]]></zip>
+<phone><![CDATA[(956) 262-8508]]></phone>
+<location_id><![CDATA[3991]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1102 E Ennis Ave]]></address>
+<city><![CDATA[Ennis]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75119]]></zip>
+<phone><![CDATA[(972) 875-8021]]></phone>
+<location_id><![CDATA[775]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3001 W Euless Blvd]]></address>
+<city><![CDATA[Euless]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76040]]></zip>
+<phone><![CDATA[(817) 571-7501]]></phone>
+<location_id><![CDATA[4707]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[206 N Main St]]></address>
+<city><![CDATA[Euless]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76039]]></zip>
+<phone><![CDATA[(817) 685-6210]]></phone>
+<location_id><![CDATA[3841]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[691 W Us Highway 84]]></address>
+<city><![CDATA[Fairfield]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75840]]></zip>
+<phone><![CDATA[(903) 389-2186]]></phone>
+<location_id><![CDATA[3763]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3206 Belt Line Rd]]></address>
+<city><![CDATA[Farmers Branch]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75234]]></zip>
+<phone><![CDATA[(972) 243-7588]]></phone>
+<location_id><![CDATA[743]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[14050 Harry Hines Blvd]]></address>
+<city><![CDATA[Farmers Branch]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75234]]></zip>
+<phone><![CDATA[(972) 243-7979]]></phone>
+<location_id><![CDATA[717]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[400 S Interstate Highway 45]]></address>
+<city><![CDATA[Ferris]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75125]]></zip>
+<phone><![CDATA[(972) 544-2375]]></phone>
+<location_id><![CDATA[4781]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[769 E Us Highway 80]]></address>
+<city><![CDATA[Forney]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75126]]></zip>
+<phone><![CDATA[(972) 552-5803]]></phone>
+<location_id><![CDATA[4783]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2802 N Main St]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76106]]></zip>
+<phone><![CDATA[(817) 624-2900]]></phone>
+<location_id><![CDATA[786]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8651 Anderson Blvd]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76120]]></zip>
+<phone><![CDATA[(817) 861-2293]]></phone>
+<location_id><![CDATA[3827]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[7065 Ridgmar Meadow Rd]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76116]]></zip>
+<phone><![CDATA[(817) 377-3721]]></phone>
+<location_id><![CDATA[3721]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1500 S University Dr]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76107]]></zip>
+<phone><![CDATA[(817) 877-0797]]></phone>
+<location_id><![CDATA[3834]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8513 S Hulen St]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76123]]></zip>
+<phone><![CDATA[(817) 292-0236]]></phone>
+<location_id><![CDATA[4730]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3459 Altamesa Blvd]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76133]]></zip>
+<phone><![CDATA[(817) 292-3398]]></phone>
+<location_id><![CDATA[3717]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[14100 Trinity Blvd]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76155]]></zip>
+<phone><![CDATA[(817) 358-9517]]></phone>
+<location_id><![CDATA[3770]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5031 E Lancaster Ave]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76103]]></zip>
+<phone><![CDATA[(817) 531-3780]]></phone>
+<location_id><![CDATA[760]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3008 Basswood Blvd]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76137]]></zip>
+<phone><![CDATA[(817) 306-6285]]></phone>
+<location_id><![CDATA[3858]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4610 S Hulen St]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76132]]></zip>
+<phone><![CDATA[(817) 292-5025]]></phone>
+<location_id><![CDATA[3727]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[920 E Loop 820 N]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76112]]></zip>
+<phone><![CDATA[(817) 446-5056]]></phone>
+<location_id><![CDATA[3863]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3308 Se Loop 820]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76140]]></zip>
+<phone><![CDATA[(817) 551-6367]]></phone>
+<location_id><![CDATA[3723]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2851 W Berry St]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76109]]></zip>
+<phone><![CDATA[(817) 921-2471]]></phone>
+<location_id><![CDATA[759]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[7351 Oakmont Blvd]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76132]]></zip>
+<phone><![CDATA[(817) 292-5476]]></phone>
+<location_id><![CDATA[4792]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5301 N Beach St]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76137]]></zip>
+<phone><![CDATA[(817) 306-9572]]></phone>
+<location_id><![CDATA[3766]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[804 E Seminary Dr]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76115]]></zip>
+<phone><![CDATA[(817) 924-7528]]></phone>
+<location_id><![CDATA[3705]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[200 W Loop 820 S]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76108]]></zip>
+<phone><![CDATA[(817) 367-6478]]></phone>
+<location_id><![CDATA[3806]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5930 Camp Bowie Blvd]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76107]]></zip>
+<phone><![CDATA[(817) 732-6881]]></phone>
+<location_id><![CDATA[761]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1001 South Fwy]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76104]]></zip>
+<phone><![CDATA[(817) 810-9384]]></phone>
+<location_id><![CDATA[4791]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7960 South Fwy]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76134]]></zip>
+<phone><![CDATA[(817) 568-0060]]></phone>
+<location_id><![CDATA[3808]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3209 E Belknap St]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76111]]></zip>
+<phone><![CDATA[(817) 831-2404]]></phone>
+<location_id><![CDATA[751]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[515 S Henderson St]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76104]]></zip>
+<phone><![CDATA[(817) 336-7952]]></phone>
+<location_id><![CDATA[752]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[217 University Dr]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76107]]></zip>
+<phone><![CDATA[(817) 332-3992]]></phone>
+<location_id><![CDATA[779]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2105 Seminary Dr]]></address>
+<city><![CDATA[Fort Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76115]]></zip>
+<phone><![CDATA[(817) 926-9570]]></phone>
+<location_id><![CDATA[754]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2101 N Brazosport Blvd]]></address>
+<city><![CDATA[Freeport]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77541]]></zip>
+<phone><![CDATA[(979) 233-1011]]></phone>
+<location_id><![CDATA[3961]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[12331 Highway 6]]></address>
+<city><![CDATA[Fresno]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77545]]></zip>
+<phone><![CDATA[(281) 431-3833]]></phone>
+<location_id><![CDATA[3958]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[101 E Parkwood Ave]]></address>
+<city><![CDATA[Friendswood]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77546]]></zip>
+<phone><![CDATA[(281) 992-8035]]></phone>
+<location_id><![CDATA[3670]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9133 Legacy Dr]]></address>
+<city><![CDATA[Frisco]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75034]]></zip>
+<phone><![CDATA[(214) 436-5415]]></phone>
+<location_id><![CDATA[4796]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[219 N Grand Ave]]></address>
+<city><![CDATA[Gainesville]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76240]]></zip>
+<phone><![CDATA[(940) 665-2911]]></phone>
+<location_id><![CDATA[741]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[920 Seawall Blvd]]></address>
+<city><![CDATA[Galveston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77550]]></zip>
+<phone><![CDATA[(409) 763-4121]]></phone>
+<location_id><![CDATA[653]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2300 61st St]]></address>
+<city><![CDATA[Galveston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77551]]></zip>
+<phone><![CDATA[(409) 744-3521]]></phone>
+<location_id><![CDATA[645]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4015 Bobtown Rd]]></address>
+<city><![CDATA[Garland]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75043]]></zip>
+<phone><![CDATA[(972) 303-4304]]></phone>
+<location_id><![CDATA[3771]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1001 W Centerville Rd]]></address>
+<city><![CDATA[Garland]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75041]]></zip>
+<phone><![CDATA[(972) 681-5141]]></phone>
+<location_id><![CDATA[785]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3480 Arapaho Rd]]></address>
+<city><![CDATA[Garland]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75044]]></zip>
+<phone><![CDATA[(972) 530-6265]]></phone>
+<location_id><![CDATA[767]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1382 Belt Line Rd]]></address>
+<city><![CDATA[Garland]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75040]]></zip>
+<phone><![CDATA[(972) 530-3831]]></phone>
+<location_id><![CDATA[791]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[335 S Garland Ave]]></address>
+<city><![CDATA[Garland]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75040]]></zip>
+<phone><![CDATA[(972) 276-7643]]></phone>
+<location_id><![CDATA[711]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3101 S 1st St]]></address>
+<city><![CDATA[Garland]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75041]]></zip>
+<phone><![CDATA[(972) 278-0412]]></phone>
+<location_id><![CDATA[716]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1001 Leander Rd]]></address>
+<city><![CDATA[Georgetown]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78628]]></zip>
+<phone><![CDATA[(512) 930-1206]]></phone>
+<location_id><![CDATA[874]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[710 W University Ave]]></address>
+<city><![CDATA[Georgetown]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78626]]></zip>
+<phone><![CDATA[(512) 863-5725]]></phone>
+<location_id><![CDATA[4786]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[516 N Wood St]]></address>
+<city><![CDATA[Gilmer]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75644]]></zip>
+<phone><![CDATA[(903) 843-2665]]></phone>
+<location_id><![CDATA[3854]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1703 S Beckley Rd]]></address>
+<city><![CDATA[Glenn Heights]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75154]]></zip>
+<phone><![CDATA[(972) 274-3417]]></phone>
+<location_id><![CDATA[3775]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1010 Morgan St]]></address>
+<city><![CDATA[Granbury]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76048]]></zip>
+<phone><![CDATA[(817) 573-8093]]></phone>
+<location_id><![CDATA[3815]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[101 E Main St]]></address>
+<city><![CDATA[Grand Prairie]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75050]]></zip>
+<phone><![CDATA[(972) 262-2396]]></phone>
+<location_id><![CDATA[763]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2514 S Belt Line Rd]]></address>
+<city><![CDATA[Grand Prairie]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75052]]></zip>
+<phone><![CDATA[(972) 264-3177]]></phone>
+<location_id><![CDATA[746]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4004 S Belt Line Rd]]></address>
+<city><![CDATA[Grand Prairie]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75052]]></zip>
+<phone><![CDATA[(972) 642-3330]]></phone>
+<location_id><![CDATA[3746]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2085 N Highway 360]]></address>
+<city><![CDATA[Grand Prairie]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75050]]></zip>
+<phone><![CDATA[(817) 640-1251]]></phone>
+<location_id><![CDATA[3737]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[3500 Grapevine Mills Pkwy #200]]></address>
+<city><![CDATA[Grapevine]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76051]]></zip>
+<phone><![CDATA[(972) 355-7508]]></phone>
+<location_id><![CDATA[3798]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1290 William D Tate Ave]]></address>
+<city><![CDATA[Grapevine]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76051]]></zip>
+<phone><![CDATA[(817) 481-6493]]></phone>
+<location_id><![CDATA[3730]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6403 Wesley St]]></address>
+<city><![CDATA[Greenville]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75402]]></zip>
+<phone><![CDATA[(903) 454-1616]]></phone>
+<location_id><![CDATA[772]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1380 W Main St]]></address>
+<city><![CDATA[Gun Barrel City]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75156]]></zip>
+<phone><![CDATA[(903) 887-3131]]></phone>
+<location_id><![CDATA[3789]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[5200 E Belknap St]]></address>
+<city><![CDATA[Haltom City]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76117]]></zip>
+<phone><![CDATA[(817) 831-8378]]></phone>
+<location_id><![CDATA[3719]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[307 E Fm 2410 Rd]]></address>
+<city><![CDATA[Harker Heights]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76548]]></zip>
+<phone><![CDATA[(254) 680-7989]]></phone>
+<location_id><![CDATA[3796]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[322 S 77 Sunshine Strip]]></address>
+<city><![CDATA[Harlingen]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78550]]></zip>
+<phone><![CDATA[(956) 412-3964]]></phone>
+<location_id><![CDATA[3653]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1406 W Tyler Ave]]></address>
+<city><![CDATA[Harlingen]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78550]]></zip>
+<phone><![CDATA[(956) 412-6322]]></phone>
+<location_id><![CDATA[3659]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[4714 S Expressway 83]]></address>
+<city><![CDATA[Harlingen]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78552]]></zip>
+<phone><![CDATA[(956) 365-3500]]></phone>
+<location_id><![CDATA[3948]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1925 Fm 1488 Rd]]></address>
+<city><![CDATA[Hempstead]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77445]]></zip>
+<phone><![CDATA[(979) 921-0695]]></phone>
+<location_id><![CDATA[3959]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[520 S International Blvd]]></address>
+<city><![CDATA[Hidalgo]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78557]]></zip>
+<phone><![CDATA[(956) 843-2203]]></phone>
+<location_id><![CDATA[3975]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[302 N Main St Ste 3]]></address>
+<city><![CDATA[Highlands]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77562]]></zip>
+<phone><![CDATA[(281) 843-6622]]></phone>
+<location_id><![CDATA[3935]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1405 Corsicana Hwy]]></address>
+<city><![CDATA[Hillsboro]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76645]]></zip>
+<phone><![CDATA[(254) 582-0443]]></phone>
+<location_id><![CDATA[3817]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[7728 Highway 6]]></address>
+<city><![CDATA[Hitchcock]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77563]]></zip>
+<phone><![CDATA[(409) 986-4443]]></phone>
+<location_id><![CDATA[3943]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1765 W Mt Houston Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77038]]></zip>
+<phone><![CDATA[(281) 445-3911]]></phone>
+<location_id><![CDATA[3939]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[901 Dairy Ashford Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77079]]></zip>
+<phone><![CDATA[(281) 752-8616]]></phone>
+<location_id><![CDATA[3652]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[12446 Fm 1960 Rd W]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77065]]></zip>
+<phone><![CDATA[(281) 897-9293]]></phone>
+<location_id><![CDATA[3927]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[10742 Veterans Memorial Dr]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77038]]></zip>
+<phone><![CDATA[(281) 999-1555]]></phone>
+<location_id><![CDATA[3691]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[14540 Westheimer]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77077]]></zip>
+<phone><![CDATA[(281) 496-4783]]></phone>
+<location_id><![CDATA[3669]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5656 N Eldridge Pkwy]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77041]]></zip>
+<phone><![CDATA[(713) 849-2076]]></phone>
+<location_id><![CDATA[3931]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2901 Airline Dr]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77009]]></zip>
+<phone><![CDATA[(713) 862-6643]]></phone>
+<location_id><![CDATA[3665]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[5248 Allum Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77045]]></zip>
+<phone><![CDATA[(713) 721-7808]]></phone>
+<location_id><![CDATA[4722]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[739 N Sam Houston Pkwy E]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77060]]></zip>
+<phone><![CDATA[(281) 405-8140]]></phone>
+<location_id><![CDATA[3979]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2709 Reed Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77051]]></zip>
+<phone><![CDATA[(713) 264-0832]]></phone>
+<location_id><![CDATA[3962]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6325 Barker Cypress Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77084]]></zip>
+<phone><![CDATA[(832) 593-0882]]></phone>
+<location_id><![CDATA[3940]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[14775 North Fwy]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77090]]></zip>
+<phone><![CDATA[(281) 875-1644]]></phone>
+<location_id><![CDATA[3663]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5550 Gulfton St]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77081]]></zip>
+<phone><![CDATA[(713) 218-9671]]></phone>
+<location_id><![CDATA[3986]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[10450 Huffmeister Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77065]]></zip>
+<phone><![CDATA[(281) 970-0992]]></phone>
+<location_id><![CDATA[3960]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[11910 Westheimer Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77077]]></zip>
+<phone><![CDATA[(281) 496-3380]]></phone>
+<location_id><![CDATA[692]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8055 N Sam Houston Pkwy W]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77064]]></zip>
+<phone><![CDATA[(281) 894-2638]]></phone>
+<location_id><![CDATA[3967]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[10454 Richmond Ave]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77042]]></zip>
+<phone><![CDATA[(832) 251-9317]]></phone>
+<location_id><![CDATA[3909]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1812 Ella Blvd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77008]]></zip>
+<phone><![CDATA[(713) 863-7495]]></phone>
+<location_id><![CDATA[3972]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[11605 S Sam Houston Pkwy E]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77089]]></zip>
+<phone><![CDATA[(281) 464-3371]]></phone>
+<location_id><![CDATA[3913]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[16310 S Post Oak Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77053]]></zip>
+<phone><![CDATA[(281) 437-5516]]></phone>
+<location_id><![CDATA[3914]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1217 Wayside Dr]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77011]]></zip>
+<phone><![CDATA[(713) 928-6095]]></phone>
+<location_id><![CDATA[3699]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8111 Airport Blvd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77061]]></zip>
+<phone><![CDATA[(713) 242-0896]]></phone>
+<location_id><![CDATA[3698]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[11912 Galveston Rd Ste A]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77034]]></zip>
+<phone><![CDATA[(281) 484-7985]]></phone>
+<location_id><![CDATA[3915]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[12777 East Fwy]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77015]]></zip>
+<phone><![CDATA[(713) 450-2403]]></phone>
+<location_id><![CDATA[3695]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4550 San Felipe St]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77027]]></zip>
+<phone><![CDATA[(713) 626-5771]]></phone>
+<location_id><![CDATA[3690]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5850 Gulf Fwy]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77023]]></zip>
+<phone><![CDATA[(713) 923-2188]]></phone>
+<location_id><![CDATA[3689]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[12680 Beechnut St]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77072]]></zip>
+<phone><![CDATA[(281) 933-0064]]></phone>
+<location_id><![CDATA[3990]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[12102 Veterans Memorial Dr]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77067]]></zip>
+<phone><![CDATA[(281) 893-0102]]></phone>
+<location_id><![CDATA[3973]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2277 W Sam Houston Pkwy N]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77043]]></zip>
+<phone><![CDATA[(713) 827-7618]]></phone>
+<location_id><![CDATA[3683]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9310 Clay Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77080]]></zip>
+<phone><![CDATA[(713) 462-6308]]></phone>
+<location_id><![CDATA[3901]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6006 Hillcroft Ave]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77081]]></zip>
+<phone><![CDATA[(713) 271-7117]]></phone>
+<location_id><![CDATA[3644]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6810 Bingle Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77092]]></zip>
+<phone><![CDATA[(713) 690-1210]]></phone>
+<location_id><![CDATA[4803]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9602 Mesa Dr]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77078]]></zip>
+<phone><![CDATA[(713) 633-3584]]></phone>
+<location_id><![CDATA[665]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6060 Long Dr]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77087]]></zip>
+<phone><![CDATA[(713) 242-7069]]></phone>
+<location_id><![CDATA[4715]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3907 Aldine Mail Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77039]]></zip>
+<phone><![CDATA[(281) 442-2477]]></phone>
+<location_id><![CDATA[663]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7502 N Shepherd Dr]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77088]]></zip>
+<phone><![CDATA[(713) 694-3248]]></phone>
+<location_id><![CDATA[658]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2218 Little York Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77093]]></zip>
+<phone><![CDATA[(713) 697-3813]]></phone>
+<location_id><![CDATA[651]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[11630 Hempstead Hwy]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77092]]></zip>
+<phone><![CDATA[(713) 686-6103]]></phone>
+<location_id><![CDATA[3600]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[14754 Wallisville Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77049]]></zip>
+<phone><![CDATA[(713) 453-0325]]></phone>
+<location_id><![CDATA[3602]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1072 Edgebrook Dr]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77034]]></zip>
+<phone><![CDATA[(713) 944-9234]]></phone>
+<location_id><![CDATA[649]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7545 Park Place Blvd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77087]]></zip>
+<phone><![CDATA[(713) 643-5888]]></phone>
+<location_id><![CDATA[644]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[11080 Scarsdale Blvd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77089]]></zip>
+<phone><![CDATA[(281) 484-2324]]></phone>
+<location_id><![CDATA[3605]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5757 Hollister St]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77040]]></zip>
+<phone><![CDATA[(713) 690-2329]]></phone>
+<location_id><![CDATA[3606]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4400 W Fuqua St]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77045]]></zip>
+<phone><![CDATA[(713) 433-9510]]></phone>
+<location_id><![CDATA[640]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4232 Highway 6 N]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77084]]></zip>
+<phone><![CDATA[(281) 550-8135]]></phone>
+<location_id><![CDATA[3613]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9645 Westheimer Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77063]]></zip>
+<phone><![CDATA[(713) 784-8946]]></phone>
+<location_id><![CDATA[637]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3601 Old Spanish Trail]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77021]]></zip>
+<phone><![CDATA[(713) 747-1046]]></phone>
+<location_id><![CDATA[4709]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7525 East Fwy]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77020]]></zip>
+<phone><![CDATA[(713) 673-7525]]></phone>
+<location_id><![CDATA[3615]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[11234 Airline Dr]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77037]]></zip>
+<phone><![CDATA[(281) 448-6939]]></phone>
+<location_id><![CDATA[666]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[10004 Telephone Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77075]]></zip>
+<phone><![CDATA[(713) 991-2597]]></phone>
+<location_id><![CDATA[667]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1602 Fm 1960 Rd W]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77090]]></zip>
+<phone><![CDATA[(281) 444-7386]]></phone>
+<location_id><![CDATA[668]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[3415 Navigation Blvd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77003]]></zip>
+<phone><![CDATA[(713) 224-5006]]></phone>
+<location_id><![CDATA[4767]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[7533 Harrisburg Blvd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77012]]></zip>
+<phone><![CDATA[(713) 928-8942]]></phone>
+<location_id><![CDATA[4766]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7699 Katy Fwy]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77024]]></zip>
+<phone><![CDATA[(713) 956-5777]]></phone>
+<location_id><![CDATA[3675]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8497 S Sam Houston Pkwy E]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77075]]></zip>
+<phone><![CDATA[(713) 987-9111]]></phone>
+<location_id><![CDATA[4801]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[14555 Falling Creek Dr]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77014]]></zip>
+<phone><![CDATA[(281) 444-6774]]></phone>
+<location_id><![CDATA[697]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8601 W Bellfort St]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77031]]></zip>
+<phone><![CDATA[(713) 771-3580]]></phone>
+<location_id><![CDATA[696]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[14521 Bellaire Blvd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77083]]></zip>
+<phone><![CDATA[(281) 530-8821]]></phone>
+<location_id><![CDATA[695]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[251 Greens Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77060]]></zip>
+<phone><![CDATA[(281) 876-2714]]></phone>
+<location_id><![CDATA[689]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3402 Mangum Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77092]]></zip>
+<phone><![CDATA[(713) 681-9650]]></phone>
+<location_id><![CDATA[686]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8000 Howard Dr]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77017]]></zip>
+<phone><![CDATA[(713) 645-3612]]></phone>
+<location_id><![CDATA[679]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[13351 Briar Forest Dr]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77077]]></zip>
+<phone><![CDATA[(281) 920-0983]]></phone>
+<location_id><![CDATA[4737]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[14220 Cullen Blvd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77047]]></zip>
+<phone><![CDATA[(713) 738-8830]]></phone>
+<location_id><![CDATA[4736]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5316 Antoine Dr]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77091]]></zip>
+<phone><![CDATA[(713) 686-3801]]></phone>
+<location_id><![CDATA[674]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[13706 State Highway 249]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77086]]></zip>
+<phone><![CDATA[(281) 447-6343]]></phone>
+<location_id><![CDATA[673]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8767 S Main St]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77025]]></zip>
+<phone><![CDATA[(713) 661-5665]]></phone>
+<location_id><![CDATA[672]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[10806 Bissonnet St]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77099]]></zip>
+<phone><![CDATA[(281) 498-4114]]></phone>
+<location_id><![CDATA[669]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[2420 Bay Area Blvd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77058]]></zip>
+<phone><![CDATA[(281) 286-8107]]></phone>
+<location_id><![CDATA[3616]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8603 Fm 1960 Rd W]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77070]]></zip>
+<phone><![CDATA[(281) 955-0830]]></phone>
+<location_id><![CDATA[3643]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5715 Bellfort Ave]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77033]]></zip>
+<phone><![CDATA[(713) 733-0496]]></phone>
+<location_id><![CDATA[615]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8410 Hillcroft St]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77096]]></zip>
+<phone><![CDATA[(713) 271-4438]]></phone>
+<location_id><![CDATA[618]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5410 N Shepherd Dr]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77091]]></zip>
+<phone><![CDATA[(713) 694-7394]]></phone>
+<location_id><![CDATA[620]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4403 Fannin St]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77004]]></zip>
+<phone><![CDATA[(713) 527-9065]]></phone>
+<location_id><![CDATA[621]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1051 Uvalde Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77015]]></zip>
+<phone><![CDATA[(713) 453-3138]]></phone>
+<location_id><![CDATA[623]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[12235 Jones Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77070]]></zip>
+<phone><![CDATA[(281) 894-7331]]></phone>
+<location_id><![CDATA[3630]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3302 Richmond Ave]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77098]]></zip>
+<phone><![CDATA[(713) 522-7890]]></phone>
+<location_id><![CDATA[3629]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5801 Bellaire Blvd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77081]]></zip>
+<phone><![CDATA[(713) 661-9296]]></phone>
+<location_id><![CDATA[624]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4920 W Bellfort St]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77035]]></zip>
+<phone><![CDATA[(713) 728-5856]]></phone>
+<location_id><![CDATA[3634]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[19602 Tomball Pkwy]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77070]]></zip>
+<phone><![CDATA[(281) 955-1642]]></phone>
+<location_id><![CDATA[3636]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[15819 John F Kennedy Blvd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77032]]></zip>
+<phone><![CDATA[(281) 987-8316]]></phone>
+<location_id><![CDATA[3642]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[801 Telephone Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77023]]></zip>
+<phone><![CDATA[(713) 926-6437]]></phone>
+<location_id><![CDATA[604]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2001 N Shepherd Dr]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77008]]></zip>
+<phone><![CDATA[(713) 864-7455]]></phone>
+<location_id><![CDATA[606]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7045 Airline Dr]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77076]]></zip>
+<phone><![CDATA[(713) 692-0555]]></phone>
+<location_id><![CDATA[3998]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8923 E Sam Houston Pkwy N]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77044]]></zip>
+<phone><![CDATA[(281) 459-9949]]></phone>
+<location_id><![CDATA[3999]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[10901 Bellaire Blvd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77072]]></zip>
+<phone><![CDATA[(281) 498-1352]]></phone>
+<location_id><![CDATA[3639]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3110 W Dallas St]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77019]]></zip>
+<phone><![CDATA[(713) 942-9524]]></phone>
+<location_id><![CDATA[3638]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[9302 Jensen Dr]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77093]]></zip>
+<phone><![CDATA[(713) 692-3013]]></phone>
+<location_id><![CDATA[609]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9424 Homestead Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77016]]></zip>
+<phone><![CDATA[(713) 631-7370]]></phone>
+<location_id><![CDATA[625]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3908 Bellaire Blvd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77025]]></zip>
+<phone><![CDATA[(713) 664-6919]]></phone>
+<location_id><![CDATA[627]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9429 Jones Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77065]]></zip>
+<phone><![CDATA[(281) 469-6856]]></phone>
+<location_id><![CDATA[3617]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6902 Highway 6 N]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77084]]></zip>
+<phone><![CDATA[(281) 550-9655]]></phone>
+<location_id><![CDATA[3618]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3220 Montrose Blvd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77006]]></zip>
+<phone><![CDATA[(713) 520-0634]]></phone>
+<location_id><![CDATA[3619]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[94 E Crosstimbers St]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77022]]></zip>
+<phone><![CDATA[(713) 694-4956]]></phone>
+<location_id><![CDATA[634]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[607 Fm 1960 Rd E]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77073]]></zip>
+<phone><![CDATA[(281) 821-6077]]></phone>
+<location_id><![CDATA[3620]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1395 Federal Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77015]]></zip>
+<phone><![CDATA[(713) 455-1818]]></phone>
+<location_id><![CDATA[633]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[909 Shepherd Dr]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77007]]></zip>
+<phone><![CDATA[(713) 861-0335]]></phone>
+<location_id><![CDATA[631]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[11833 Barker Cypress Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77433]]></zip>
+<phone><![CDATA[(281) 256-6241]]></phone>
+<location_id><![CDATA[4701]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7221 Fondren Rd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77036]]></zip>
+<phone><![CDATA[(713) 271-4439]]></phone>
+<location_id><![CDATA[632]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2801 Hillcroft Ave]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77057]]></zip>
+<phone><![CDATA[(713) 783-4977]]></phone>
+<location_id><![CDATA[3625]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[14643 Woodforest Blvd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77015]]></zip>
+<phone><![CDATA[(713) 451-8102]]></phone>
+<location_id><![CDATA[3626]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3425 Ella Blvd]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77018]]></zip>
+<phone><![CDATA[(713) 681-2523]]></phone>
+<location_id><![CDATA[629]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1419 Gessner Dr]]></address>
+<city><![CDATA[Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77080]]></zip>
+<phone><![CDATA[(713) 464-9773]]></phone>
+<location_id><![CDATA[630]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7810 Fm 1960 Rd W]]></address>
+<city><![CDATA[Humble]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77338]]></zip>
+<phone><![CDATA[(281) 548-7374]]></phone>
+<location_id><![CDATA[3672]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[7019 N Sam Houston Pkwy E]]></address>
+<city><![CDATA[Humble]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77396]]></zip>
+<phone><![CDATA[(281) 441-3704]]></phone>
+<location_id><![CDATA[3688]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7101 Will Clayton Pkwy]]></address>
+<city><![CDATA[Humble]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77338]]></zip>
+<phone><![CDATA[(281) 540-1578]]></phone>
+<location_id><![CDATA[3981]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[18 Wilson Rd]]></address>
+<city><![CDATA[Humble]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77338]]></zip>
+<phone><![CDATA[(281) 446-2398]]></phone>
+<location_id><![CDATA[4775]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[7417 Fm 1960 Rd E]]></address>
+<city><![CDATA[Humble]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77346]]></zip>
+<phone><![CDATA[(281) 812-4830]]></phone>
+<location_id><![CDATA[3692]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[21510 Aldine Westfield Rd]]></address>
+<city><![CDATA[Humble]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77338]]></zip>
+<phone><![CDATA[(281) 443-3562]]></phone>
+<location_id><![CDATA[3920]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2251 Sam Houston Ave]]></address>
+<city><![CDATA[Huntsville]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77340]]></zip>
+<phone><![CDATA[(936) 295-5821]]></phone>
+<location_id><![CDATA[678]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3005 State Highway 30 W]]></address>
+<city><![CDATA[Huntsville]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77340]]></zip>
+<phone><![CDATA[(936) 435-0588]]></phone>
+<location_id><![CDATA[4702]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8601 W Bedford Euless Rd]]></address>
+<city><![CDATA[Hurst]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76053]]></zip>
+<phone><![CDATA[(817) 284-8614]]></phone>
+<location_id><![CDATA[3700]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[444 W Bedford Euless Rd]]></address>
+<city><![CDATA[Hurst]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76053]]></zip>
+<phone><![CDATA[(817) 282-1717]]></phone>
+<location_id><![CDATA[757]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[121 S Interstate 45 Service Rd]]></address>
+<city><![CDATA[Hutchins]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75141]]></zip>
+<phone><![CDATA[(972) 225-3480]]></phone>
+<location_id><![CDATA[3784]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4206 W Airport Fwy]]></address>
+<city><![CDATA[Irving]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75062]]></zip>
+<phone><![CDATA[(972) 986-4250]]></phone>
+<location_id><![CDATA[3716]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[925 N Loop 12]]></address>
+<city><![CDATA[Irving]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75061]]></zip>
+<phone><![CDATA[(972) 579-9439]]></phone>
+<location_id><![CDATA[787]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[502 N O Connor Rd]]></address>
+<city><![CDATA[Irving]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75061]]></zip>
+<phone><![CDATA[(972) 254-6504]]></phone>
+<location_id><![CDATA[725]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2952 N Belt Line Rd]]></address>
+<city><![CDATA[Irving]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75062]]></zip>
+<phone><![CDATA[(972) 252-5011]]></phone>
+<location_id><![CDATA[721]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5340 Macarthur Blvd]]></address>
+<city><![CDATA[Irving]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75038]]></zip>
+<phone><![CDATA[(972) 751-1646]]></phone>
+<location_id><![CDATA[3748]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[515 W Airport Fwy]]></address>
+<city><![CDATA[Irving]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75062]]></zip>
+<phone><![CDATA[(972) 256-3484]]></phone>
+<location_id><![CDATA[3732]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[8655 Cypress Waters Blvd]]></address>
+<city><![CDATA[Irving]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75063]]></zip>
+<phone><![CDATA[(972) 556-2588]]></phone>
+<location_id><![CDATA[4711]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[2500 W Irving Blvd]]></address>
+<city><![CDATA[Irving]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75061]]></zip>
+<phone><![CDATA[(972) 986-7850]]></phone>
+<location_id><![CDATA[4782]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1329 S Jackson St]]></address>
+<city><![CDATA[Jacksonville]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75766]]></zip>
+<phone><![CDATA[(903) 541-0408]]></phone>
+<location_id><![CDATA[3818]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1007 S Wheeler St]]></address>
+<city><![CDATA[Jasper]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75951]]></zip>
+<phone><![CDATA[(409) 384-5611]]></phone>
+<location_id><![CDATA[4807]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[15824 Northwest Fwy]]></address>
+<city><![CDATA[Jersey Village]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77040]]></zip>
+<phone><![CDATA[(713) 849-5797]]></phone>
+<location_id><![CDATA[3649]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[20350 Park Row Blvd]]></address>
+<city><![CDATA[Katy]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77449]]></zip>
+<phone><![CDATA[(281) 492-8693]]></phone>
+<location_id><![CDATA[3993]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[903 S Mason Rd]]></address>
+<city><![CDATA[Katy]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77450]]></zip>
+<phone><![CDATA[(281) 579-6958]]></phone>
+<location_id><![CDATA[3603]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[25105 Market Place Dr]]></address>
+<city><![CDATA[Katy]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77494]]></zip>
+<phone><![CDATA[(281) 644-4330]]></phone>
+<location_id><![CDATA[3941]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1480 S Grand Pkwy]]></address>
+<city><![CDATA[Katy]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77494]]></zip>
+<phone><![CDATA[(281) 693-4404]]></phone>
+<location_id><![CDATA[3938]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3072 N Fry Rd]]></address>
+<city><![CDATA[Katy]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77449]]></zip>
+<phone><![CDATA[(281) 828-1404]]></phone>
+<location_id><![CDATA[3955]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1904 S Washington St]]></address>
+<city><![CDATA[Kaufman]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75142]]></zip>
+<phone><![CDATA[(972) 932-3495]]></phone>
+<location_id><![CDATA[4732]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[103 N Main St]]></address>
+<city><![CDATA[Keller]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76248]]></zip>
+<phone><![CDATA[(817) 431-5225]]></phone>
+<location_id><![CDATA[3793]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[625 Highway 146]]></address>
+<city><![CDATA[Kemah]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77565]]></zip>
+<phone><![CDATA[(281) 334-9452]]></phone>
+<location_id><![CDATA[3916]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[500 Sidney Baker St]]></address>
+<city><![CDATA[Kerrville]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78028]]></zip>
+<phone><![CDATA[(830) 257-2888]]></phone>
+<location_id><![CDATA[851]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[745 Us Highway 259 N]]></address>
+<city><![CDATA[Kilgore]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75662]]></zip>
+<phone><![CDATA[(903) 988-8186]]></phone>
+<location_id><![CDATA[3839]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1100 E Central Texas Expy]]></address>
+<city><![CDATA[Killeen]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76541]]></zip>
+<phone><![CDATA[(254) 690-2055]]></phone>
+<location_id><![CDATA[3852]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5301 W Stan Schlueter Loop]]></address>
+<city><![CDATA[Killeen]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76549]]></zip>
+<phone><![CDATA[(254) 634-0924]]></phone>
+<location_id><![CDATA[3864]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3201 E Veterans Memorial Blvd]]></address>
+<city><![CDATA[Killeen]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76543]]></zip>
+<phone><![CDATA[(254) 699-5944]]></phone>
+<location_id><![CDATA[838]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3800 E Elms Rd]]></address>
+<city><![CDATA[Killeen]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76542]]></zip>
+<phone><![CDATA[(254) 680-0078]]></phone>
+<location_id><![CDATA[4710]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[210 W Rancier Ave]]></address>
+<city><![CDATA[Killeen]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76541]]></zip>
+<phone><![CDATA[(254) 526-4777]]></phone>
+<location_id><![CDATA[818]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2308 Northpark Dr]]></address>
+<city><![CDATA[Kingwood]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77339]]></zip>
+<phone><![CDATA[(281) 359-5225]]></phone>
+<location_id><![CDATA[3631]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5061 Kyle Center Dr]]></address>
+<city><![CDATA[Kyle]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78640]]></zip>
+<phone><![CDATA[(512) 268-7106]]></phone>
+<location_id><![CDATA[4761]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4308 Texas Ave]]></address>
+<city><![CDATA[La Marque]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77568]]></zip>
+<phone><![CDATA[(409) 935-2252]]></phone>
+<location_id><![CDATA[671]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1018 Highway 146 S]]></address>
+<city><![CDATA[La Porte]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77571]]></zip>
+<phone><![CDATA[(281) 470-7060]]></phone>
+<location_id><![CDATA[3693]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9629 W Fairmont Pkwy]]></address>
+<city><![CDATA[La Porte]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77571]]></zip>
+<phone><![CDATA[(281) 542-9730]]></phone>
+<location_id><![CDATA[4733]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[165 Oyster Creek Dr]]></address>
+<city><![CDATA[Lake Jackson]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77566]]></zip>
+<phone><![CDATA[(979) 297-6468]]></phone>
+<location_id><![CDATA[3934]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6352 Lake Worth Blvd]]></address>
+<city><![CDATA[Lake Worth]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76135]]></zip>
+<phone><![CDATA[(817) 237-1062]]></phone>
+<location_id><![CDATA[797]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1448 W Pleasant Run Rd]]></address>
+<city><![CDATA[Lancaster]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75146]]></zip>
+<phone><![CDATA[(972) 227-2243]]></phone>
+<location_id><![CDATA[4750]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4502 S Zapata Hwy]]></address>
+<city><![CDATA[Laredo]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78046]]></zip>
+<phone><![CDATA[(956) 724-2793]]></phone>
+<location_id><![CDATA[3983]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[5106 Mcpherson Ave]]></address>
+<city><![CDATA[Laredo]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78041]]></zip>
+<phone><![CDATA[(956) 717-1881]]></phone>
+<location_id><![CDATA[3662]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3501 San Dario Ave]]></address>
+<city><![CDATA[Laredo]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78041]]></zip>
+<phone><![CDATA[(956) 725-6616]]></phone>
+<location_id><![CDATA[3677]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[2612 Cortez St]]></address>
+<city><![CDATA[Laredo]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78043]]></zip>
+<phone><![CDATA[(956) 712-9116]]></phone>
+<location_id><![CDATA[3673]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[7101 San Dario Ave]]></address>
+<city><![CDATA[Laredo]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78045]]></zip>
+<phone><![CDATA[(956) 726-8187]]></phone>
+<location_id><![CDATA[3922]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[5002 Saunders St]]></address>
+<city><![CDATA[Laredo]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78041]]></zip>
+<phone><![CDATA[(956) 723-3675]]></phone>
+<location_id><![CDATA[946]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1908 E Main St]]></address>
+<city><![CDATA[League City]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77573]]></zip>
+<phone><![CDATA[(281) 338-9328]]></phone>
+<location_id><![CDATA[3666]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1665 W Fm 646 Rd]]></address>
+<city><![CDATA[League City]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77573]]></zip>
+<phone><![CDATA[(281) 534-1079]]></phone>
+<location_id><![CDATA[4793]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1563 W Main St]]></address>
+<city><![CDATA[Lewisville]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75067]]></zip>
+<phone><![CDATA[(214) 222-7850]]></phone>
+<location_id><![CDATA[795]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[732 Hebron Pkwy]]></address>
+<city><![CDATA[Lewisville]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75057]]></zip>
+<phone><![CDATA[(972) 459-9323]]></phone>
+<location_id><![CDATA[3845]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2320 N Main St]]></address>
+<city><![CDATA[Liberty]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77575]]></zip>
+<phone><![CDATA[(936) 336-1009]]></phone>
+<location_id><![CDATA[3910]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[313 E Church St]]></address>
+<city><![CDATA[Livingston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77351]]></zip>
+<phone><![CDATA[(936) 327-8225]]></phone>
+<location_id><![CDATA[3977]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[490 E Loop 281]]></address>
+<city><![CDATA[Longview]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75605]]></zip>
+<phone><![CDATA[(903) 758-0193]]></phone>
+<location_id><![CDATA[3810]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[507 N Access Rd]]></address>
+<city><![CDATA[Longview]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75602]]></zip>
+<phone><![CDATA[(903) 758-1890]]></phone>
+<location_id><![CDATA[3807]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[722 W Marshall Ave]]></address>
+<city><![CDATA[Longview]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75601]]></zip>
+<phone><![CDATA[(903) 234-8898]]></phone>
+<location_id><![CDATA[3847]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2414 Mac Davis Ln]]></address>
+<city><![CDATA[Lubbock]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[79401]]></zip>
+<phone><![CDATA[(806) 767-9700]]></phone>
+<location_id><![CDATA[4822]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5212 4th St]]></address>
+<city><![CDATA[Lubbock]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[79416]]></zip>
+<phone><![CDATA[(806) 792-6800]]></phone>
+<location_id><![CDATA[4821]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5110 98th St]]></address>
+<city><![CDATA[Lubbock]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[79424]]></zip>
+<phone><![CDATA[(806) 794-5222]]></phone>
+<location_id><![CDATA[4815]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4328 50th St]]></address>
+<city><![CDATA[Lubbock]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[79413]]></zip>
+<phone><![CDATA[(806) 780-5225]]></phone>
+<location_id><![CDATA[4814]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1902 E Denman Ave]]></address>
+<city><![CDATA[Lufkin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75901]]></zip>
+<phone><![CDATA[(936) 634-2011]]></phone>
+<location_id><![CDATA[3801]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1903 W Frank St]]></address>
+<city><![CDATA[Lufkin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75904]]></zip>
+<phone><![CDATA[(936) 634-1985]]></phone>
+<location_id><![CDATA[3783]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[190 S Main St]]></address>
+<city><![CDATA[Lumberton]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77657]]></zip>
+<phone><![CDATA[(409) 751-4445]]></phone>
+<location_id><![CDATA[3926]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[3000 E Main St]]></address>
+<city><![CDATA[Madisonville]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77864]]></zip>
+<phone><![CDATA[(936) 349-0881]]></phone>
+<location_id><![CDATA[3816]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[6734 Fm 1488 Rd]]></address>
+<city><![CDATA[Magnolia]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77354]]></zip>
+<phone><![CDATA[(281) 252-3596]]></phone>
+<location_id><![CDATA[3949]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[17607 Fm 1488 Rd]]></address>
+<city><![CDATA[Magnolia]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77354]]></zip>
+<phone><![CDATA[(281) 259-3965]]></phone>
+<location_id><![CDATA[3987]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1782 Highway 157 N]]></address>
+<city><![CDATA[Mansfield]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76063]]></zip>
+<phone><![CDATA[(817) 453-0313]]></phone>
+<location_id><![CDATA[3760]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[17502 Highway 6]]></address>
+<city><![CDATA[Manvel]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77578]]></zip>
+<phone><![CDATA[(281) 489-3533]]></phone>
+<location_id><![CDATA[3911]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[3701 Pecan Blvd]]></address>
+<city><![CDATA[Mcallen]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78501]]></zip>
+<phone><![CDATA[(956) 687-3205]]></phone>
+<location_id><![CDATA[3953]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[909 Pecan Blvd]]></address>
+<city><![CDATA[Mcallen]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78501]]></zip>
+<phone><![CDATA[(956) 682-7229]]></phone>
+<location_id><![CDATA[3660]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[7500 N 10th St]]></address>
+<city><![CDATA[Mcallen]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78504]]></zip>
+<phone><![CDATA[(956) 631-4851]]></phone>
+<location_id><![CDATA[3988]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2900 W Nolana Loop]]></address>
+<city><![CDATA[Mcallen]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78504]]></zip>
+<phone><![CDATA[(956) 688-6538]]></phone>
+<location_id><![CDATA[3971]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[151 W Nolana St]]></address>
+<city><![CDATA[Mcallen]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78504]]></zip>
+<phone><![CDATA[(956) 687-6909]]></phone>
+<location_id><![CDATA[3661]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1601 S 23rd St]]></address>
+<city><![CDATA[Mcallen]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78503]]></zip>
+<phone><![CDATA[(956) 618-2234]]></phone>
+<location_id><![CDATA[3658]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1825 W University Dr]]></address>
+<city><![CDATA[Mckinney]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75069]]></zip>
+<phone><![CDATA[(972) 562-5625]]></phone>
+<location_id><![CDATA[778]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2001 N Town East Blvd]]></address>
+<city><![CDATA[Mesquite]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75150]]></zip>
+<phone><![CDATA[(972) 681-1011]]></phone>
+<location_id><![CDATA[750]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1150 Us Highway 67]]></address>
+<city><![CDATA[Mesquite]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75150]]></zip>
+<phone><![CDATA[(972) 613-6875]]></phone>
+<location_id><![CDATA[3736]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[311 S Galloway Ave]]></address>
+<city><![CDATA[Mesquite]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75149]]></zip>
+<phone><![CDATA[(972) 285-5889]]></phone>
+<location_id><![CDATA[728]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1728 Scyene Rd]]></address>
+<city><![CDATA[Mesquite]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75149]]></zip>
+<phone><![CDATA[(972) 288-5706]]></phone>
+<location_id><![CDATA[782]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2100 N Galloway Ave]]></address>
+<city><![CDATA[Mesquite]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75150]]></zip>
+<phone><![CDATA[(972) 289-3947]]></phone>
+<location_id><![CDATA[3702]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2208 Rankin Hwy]]></address>
+<city><![CDATA[Midland]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[79701]]></zip>
+<phone><![CDATA[(432) 684-8900]]></phone>
+<location_id><![CDATA[4795]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5205 W Wadley Ave]]></address>
+<city><![CDATA[Midland]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[79707]]></zip>
+<phone><![CDATA[(432) 694-0500]]></phone>
+<location_id><![CDATA[4743]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1110 E Main St]]></address>
+<city><![CDATA[Midlothian]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76065]]></zip>
+<phone><![CDATA[(972) 723-1285]]></phone>
+<location_id><![CDATA[3792]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[2008 E Hubbard St]]></address>
+<city><![CDATA[Mineral Wells]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76067]]></zip>
+<phone><![CDATA[(940) 325-5561]]></phone>
+<location_id><![CDATA[764]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1401 E Expressway 83]]></address>
+<city><![CDATA[Mission]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78572]]></zip>
+<phone><![CDATA[(956) 584-1728]]></phone>
+<location_id><![CDATA[3655]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6151 Highway 6]]></address>
+<city><![CDATA[Missouri City]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77459]]></zip>
+<phone><![CDATA[(281) 499-9443]]></phone>
+<location_id><![CDATA[3624]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[13915 Fondren Rd]]></address>
+<city><![CDATA[Missouri City]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77489]]></zip>
+<phone><![CDATA[(281) 438-1388]]></phone>
+<location_id><![CDATA[3963]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[14640 Highway 105 W]]></address>
+<city><![CDATA[Montgomery]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77356]]></zip>
+<phone><![CDATA[(936) 447-6300]]></phone>
+<location_id><![CDATA[3937]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[106 W Fm 544]]></address>
+<city><![CDATA[Murphy]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75094]]></zip>
+<phone><![CDATA[(972) 881-1319]]></phone>
+<location_id><![CDATA[4739]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[2015 North St]]></address>
+<city><![CDATA[Nacogdoches]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75965]]></zip>
+<phone><![CDATA[(936) 568-9690]]></phone>
+<location_id><![CDATA[3787]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3200 Ih 35]]></address>
+<city><![CDATA[New Braunfels]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78130]]></zip>
+<phone><![CDATA[(830) 626-0076]]></phone>
+<location_id><![CDATA[4811]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1260 S Seguin Ave]]></address>
+<city><![CDATA[New Braunfels]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78130]]></zip>
+<phone><![CDATA[(830) 608-0240]]></phone>
+<location_id><![CDATA[827]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[20130 Us Highway 59]]></address>
+<city><![CDATA[New Caney]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77357]]></zip>
+<phone><![CDATA[(281) 399-8988]]></phone>
+<location_id><![CDATA[3682]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[8416 Davis Blvd]]></address>
+<city><![CDATA[North Richland Hills]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76180]]></zip>
+<phone><![CDATA[(817) 656-6070]]></phone>
+<location_id><![CDATA[4788]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[6501 Grapevine Hwy]]></address>
+<city><![CDATA[North Richland Hills]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76180]]></zip>
+<phone><![CDATA[(817) 284-1301]]></phone>
+<location_id><![CDATA[755]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3911 E 42nd St]]></address>
+<city><![CDATA[Odessa]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[79762]]></zip>
+<phone><![CDATA[(432) 368-5000]]></phone>
+<location_id><![CDATA[4742]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2672 N County Rd W]]></address>
+<city><![CDATA[Odessa]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[79763]]></zip>
+<phone><![CDATA[(432) 335-8700]]></phone>
+<location_id><![CDATA[4799]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7247 Interstate 10 E]]></address>
+<city><![CDATA[Orange]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77630]]></zip>
+<phone><![CDATA[(409) 882-9961]]></phone>
+<location_id><![CDATA[3651]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2900 N 16th St]]></address>
+<city><![CDATA[Orange]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77630]]></zip>
+<phone><![CDATA[(409) 883-2661]]></phone>
+<location_id><![CDATA[3919]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2207 W Oak St]]></address>
+<city><![CDATA[Palestine]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75801]]></zip>
+<phone><![CDATA[(903) 723-6233]]></phone>
+<location_id><![CDATA[3819]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[223 E Mile 3 Rd]]></address>
+<city><![CDATA[Palmhurst]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78573]]></zip>
+<phone><![CDATA[(956) 580-8951]]></phone>
+<location_id><![CDATA[4716]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[105 W Palma Vista Dr]]></address>
+<city><![CDATA[Palmview]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78572]]></zip>
+<phone><![CDATA[(956) 519-7807]]></phone>
+<location_id><![CDATA[3679]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2501 W Pioneer Pkwy]]></address>
+<city><![CDATA[Pantego]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76013]]></zip>
+<phone><![CDATA[(817) 275-4602]]></phone>
+<location_id><![CDATA[781]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3110 Ne Loop 286]]></address>
+<city><![CDATA[Paris]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75460]]></zip>
+<phone><![CDATA[(903) 784-5119]]></phone>
+<location_id><![CDATA[3850]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4104 Fairmont Pkwy]]></address>
+<city><![CDATA[Pasadena]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77504]]></zip>
+<phone><![CDATA[(281) 998-7663]]></phone>
+<location_id><![CDATA[3628]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2103 E Sam Houston Pkwy S]]></address>
+<city><![CDATA[Pasadena]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77503]]></zip>
+<phone><![CDATA[(713) 589-0337]]></phone>
+<location_id><![CDATA[4725]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[903 Pasadena Blvd]]></address>
+<city><![CDATA[Pasadena]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77506]]></zip>
+<phone><![CDATA[(713) 475-8061]]></phone>
+<location_id><![CDATA[3944]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7447 Spencer Hwy]]></address>
+<city><![CDATA[Pasadena]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77505]]></zip>
+<phone><![CDATA[(281) 479-5889]]></phone>
+<location_id><![CDATA[641]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[221 Richey St]]></address>
+<city><![CDATA[Pasadena]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77506]]></zip>
+<phone><![CDATA[(713) 472-5444]]></phone>
+<location_id><![CDATA[698]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[3426 Main St Ste 102]]></address>
+<city><![CDATA[Pearland]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77581]]></zip>
+<phone><![CDATA[(281) 485-4840]]></phone>
+<location_id><![CDATA[3974]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2702 Reid Blvd]]></address>
+<city><![CDATA[Pearland]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77581]]></zip>
+<phone><![CDATA[(281) 485-6669]]></phone>
+<location_id><![CDATA[3907]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1521 Broadway St]]></address>
+<city><![CDATA[Pearland]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77581]]></zip>
+<phone><![CDATA[(281) 993-0078]]></phone>
+<location_id><![CDATA[3929]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[14910 Fm 1825]]></address>
+<city><![CDATA[Pflugerville]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78660]]></zip>
+<phone><![CDATA[(512) 251-2576]]></phone>
+<location_id><![CDATA[864]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1700 Fm 685]]></address>
+<city><![CDATA[Pflugerville]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78660]]></zip>
+<phone><![CDATA[(512) 252-7834]]></phone>
+<location_id><![CDATA[4760]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6521 S Cage Blvd]]></address>
+<city><![CDATA[Pharr]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78577]]></zip>
+<phone><![CDATA[(956) 702-2896]]></phone>
+<location_id><![CDATA[3984]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[703 S Jackson Rd]]></address>
+<city><![CDATA[Pharr]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78577]]></zip>
+<phone><![CDATA[(956) 782-4500]]></phone>
+<location_id><![CDATA[3954]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[201 W Parker Rd]]></address>
+<city><![CDATA[Plano]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75023]]></zip>
+<phone><![CDATA[(972) 423-0524]]></phone>
+<location_id><![CDATA[784]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5960 Dallas Pkwy]]></address>
+<city><![CDATA[Plano]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75093]]></zip>
+<phone><![CDATA[(972) 473-7618]]></phone>
+<location_id><![CDATA[3836]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1405 N Central Expy]]></address>
+<city><![CDATA[Plano]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75075]]></zip>
+<phone><![CDATA[(972) 881-2853]]></phone>
+<location_id><![CDATA[3729]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[905 Legacy Dr]]></address>
+<city><![CDATA[Plano]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75023]]></zip>
+<phone><![CDATA[(972) 527-7367]]></phone>
+<location_id><![CDATA[3778]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1205 Jupiter Rd]]></address>
+<city><![CDATA[Plano]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75074]]></zip>
+<phone><![CDATA[(972) 423-0826]]></phone>
+<location_id><![CDATA[3762]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4001 Twin City Hwy]]></address>
+<city><![CDATA[Port Arthur]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77642]]></zip>
+<phone><![CDATA[(409) 962-0333]]></phone>
+<location_id><![CDATA[647]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4640 Highway 365]]></address>
+<city><![CDATA[Port Arthur]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77642]]></zip>
+<phone><![CDATA[(409) 724-1644]]></phone>
+<location_id><![CDATA[4797]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2840 Highway 365]]></address>
+<city><![CDATA[Port Arthur]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77640]]></zip>
+<phone><![CDATA[(409) 722-3022]]></phone>
+<location_id><![CDATA[3671]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[706 Magnolia Ave]]></address>
+<city><![CDATA[Port Neches]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77651]]></zip>
+<phone><![CDATA[(409) 727-2887]]></phone>
+<location_id><![CDATA[3965]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[23183 Fm 1314 Rd]]></address>
+<city><![CDATA[Porter]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77365]]></zip>
+<phone><![CDATA[(281) 354-4087]]></phone>
+<location_id><![CDATA[3946]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[200 E Princeton Dr]]></address>
+<city><![CDATA[Princeton]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75407]]></zip>
+<phone><![CDATA[(972) 736-3262]]></phone>
+<location_id><![CDATA[4744]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[510 W Arapaho Rd]]></address>
+<city><![CDATA[Richardson]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75080]]></zip>
+<phone><![CDATA[(972) 807-9264]]></phone>
+<location_id><![CDATA[4818]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1350 S Plano Rd]]></address>
+<city><![CDATA[Richardson]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75081]]></zip>
+<phone><![CDATA[(972) 234-8844]]></phone>
+<location_id><![CDATA[745]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2230 N Coit Rd]]></address>
+<city><![CDATA[Richardson]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75080]]></zip>
+<phone><![CDATA[(972) 907-2260]]></phone>
+<location_id><![CDATA[3838]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1418 Crabb River Rd]]></address>
+<city><![CDATA[Richmond]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77469]]></zip>
+<phone><![CDATA[(281) 545-1609]]></phone>
+<location_id><![CDATA[4755]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7975 W Grand Pkwy S Ste 100]]></address>
+<city><![CDATA[Richmond]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77469]]></zip>
+<phone><![CDATA[(281) 232-7225]]></phone>
+<location_id><![CDATA[4817]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[8102 Fm 1464 Rd]]></address>
+<city><![CDATA[Richmond]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77407]]></zip>
+<phone><![CDATA[(281) 242-5684]]></phone>
+<location_id><![CDATA[4734]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[4600 E Us Highway 83]]></address>
+<city><![CDATA[Rio Grande City]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78582]]></zip>
+<phone><![CDATA[(956) 488-2126]]></phone>
+<location_id><![CDATA[3968]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[2808 Ridge Rd]]></address>
+<city><![CDATA[Rockwall]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75032]]></zip>
+<phone><![CDATA[(972) 771-4988]]></phone>
+<location_id><![CDATA[3725]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[201 E Grant St]]></address>
+<city><![CDATA[Roma]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78584]]></zip>
+<phone><![CDATA[(956) 847-1905]]></phone>
+<location_id><![CDATA[3932]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5004 Avenue H]]></address>
+<city><![CDATA[Rosenberg]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77471]]></zip>
+<phone><![CDATA[(281) 342-7707]]></phone>
+<location_id><![CDATA[660]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3317 1st St]]></address>
+<city><![CDATA[Rosenberg]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77471]]></zip>
+<phone><![CDATA[(281) 341-1686]]></phone>
+<location_id><![CDATA[3641]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3760 Gattis School Rd]]></address>
+<city><![CDATA[Round Rock]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78664]]></zip>
+<phone><![CDATA[(512) 828-0380]]></phone>
+<location_id><![CDATA[917]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2120 S Interstate 35]]></address>
+<city><![CDATA[Round Rock]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78681]]></zip>
+<phone><![CDATA[(512) 388-2409]]></phone>
+<location_id><![CDATA[839]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1121 E Palm Valley Blvd]]></address>
+<city><![CDATA[Round Rock]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78664]]></zip>
+<phone><![CDATA[(512) 341-8707]]></phone>
+<location_id><![CDATA[910]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[16330 R R 620]]></address>
+<city><![CDATA[Round Rock]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78681]]></zip>
+<phone><![CDATA[(512) 733-6330]]></phone>
+<location_id><![CDATA[911]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[5410 Rowlett Rd]]></address>
+<city><![CDATA[Rowlett]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75089]]></zip>
+<phone><![CDATA[(972) 475-6881]]></phone>
+<location_id><![CDATA[3756]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[100 E Interstate 30]]></address>
+<city><![CDATA[Royse City]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75189]]></zip>
+<phone><![CDATA[(972) 635-2455]]></phone>
+<location_id><![CDATA[3795]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[101 N Saginaw Blvd]]></address>
+<city><![CDATA[Saginaw]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76179]]></zip>
+<phone><![CDATA[(817) 847-1984]]></phone>
+<location_id><![CDATA[3809]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2866 Thousand Oaks Dr]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78232]]></zip>
+<phone><![CDATA[(210) 545-1262]]></phone>
+<location_id><![CDATA[909]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3523 Se Military Dr]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78223]]></zip>
+<phone><![CDATA[(210) 359-6060]]></phone>
+<location_id><![CDATA[908]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3706 S Zarzamora St]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78225]]></zip>
+<phone><![CDATA[(210) 922-3769]]></phone>
+<location_id><![CDATA[903]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9263 Culebra Rd]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78251]]></zip>
+<phone><![CDATA[(210) 256-0378]]></phone>
+<location_id><![CDATA[901]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5850 Culebra Rd]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78228]]></zip>
+<phone><![CDATA[(210) 432-0474]]></phone>
+<location_id><![CDATA[900]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[15037 Nacogdoches Rd]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78247]]></zip>
+<phone><![CDATA[(210) 655-7991]]></phone>
+<location_id><![CDATA[870]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7720 Fm 78]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78244]]></zip>
+<phone><![CDATA[(210) 666-6979]]></phone>
+<location_id><![CDATA[868]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[11615 N IH 35]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78233]]></zip>
+<phone><![CDATA[(210) 967-9255]]></phone>
+<location_id><![CDATA[859]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6405 Nw Loop 410]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78238]]></zip>
+<phone><![CDATA[(210) 509-8499]]></phone>
+<location_id><![CDATA[923]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2922 Sw Loop 410]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78224]]></zip>
+<phone><![CDATA[(210) 624-2238]]></phone>
+<location_id><![CDATA[950]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1214 W Old Us Highway 90]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78227]]></zip>
+<phone><![CDATA[(210) 432-1093]]></phone>
+<location_id><![CDATA[944]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3702 Sw Military Dr]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78211]]></zip>
+<phone><![CDATA[(210) 921-1364]]></phone>
+<location_id><![CDATA[915]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2235 Ne Loop 410]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78217]]></zip>
+<phone><![CDATA[(210) 653-0860]]></phone>
+<location_id><![CDATA[926]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[11729 Bandera Rd]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78250]]></zip>
+<phone><![CDATA[(210) 682-0091]]></phone>
+<location_id><![CDATA[930]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[523 Fair Ave]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78223]]></zip>
+<phone><![CDATA[(210) 533-3761]]></phone>
+<location_id><![CDATA[914]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4606 Rittiman Rd]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78218]]></zip>
+<phone><![CDATA[(210) 666-8731]]></phone>
+<location_id><![CDATA[933]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2311 Fredericksburg Rd]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78201]]></zip>
+<phone><![CDATA[(210) 736-1976]]></phone>
+<location_id><![CDATA[934]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[21034 Us Highway 281 N]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78258]]></zip>
+<phone><![CDATA[(210) 497-7659]]></phone>
+<location_id><![CDATA[4723]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[10418 Perrin Beitel Rd Ste 102]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78217]]></zip>
+<phone><![CDATA[(210) 564-8318]]></phone>
+<location_id><![CDATA[942]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7150 San Pedro Ave]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78216]]></zip>
+<phone><![CDATA[(210) 524-0058]]></phone>
+<location_id><![CDATA[935]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[506 New Valley Hi Dr]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78227]]></zip>
+<phone><![CDATA[(210) 673-5582]]></phone>
+<location_id><![CDATA[4719]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2100 Culebra Rd]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78228]]></zip>
+<phone><![CDATA[(210) 734-9510]]></phone>
+<location_id><![CDATA[913]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[903 Probandt St]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78204]]></zip>
+<phone><![CDATA[(210) 223-4415]]></phone>
+<location_id><![CDATA[936]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[718 S Zarzamora St]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78207]]></zip>
+<phone><![CDATA[(210) 432-2568]]></phone>
+<location_id><![CDATA[940]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1818 N Foster Rd]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78244]]></zip>
+<phone><![CDATA[(210) 666-4140]]></phone>
+<location_id><![CDATA[858]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2209 Sw Military Dr]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78224]]></zip>
+<phone><![CDATA[(210) 923-3115]]></phone>
+<location_id><![CDATA[857]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6811 Bandera Rd]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78238]]></zip>
+<phone><![CDATA[(210) 680-0762]]></phone>
+<location_id><![CDATA[833]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[118 N General Mcmullen Dr]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78237]]></zip>
+<phone><![CDATA[(210) 432-6624]]></phone>
+<location_id><![CDATA[829]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1331 Sw Loop 410]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78227]]></zip>
+<phone><![CDATA[(210) 674-5750]]></phone>
+<location_id><![CDATA[822]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7206 Blanco Rd]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78216]]></zip>
+<phone><![CDATA[(210) 344-4453]]></phone>
+<location_id><![CDATA[819]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6811 W Military Dr]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78227]]></zip>
+<phone><![CDATA[(210) 674-4647]]></phone>
+<location_id><![CDATA[817]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[502 N New Braunfels Ave]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78202]]></zip>
+<phone><![CDATA[(210) 226-6875]]></phone>
+<location_id><![CDATA[814]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4319 Vance Jackson Rd]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78230]]></zip>
+<phone><![CDATA[(210) 342-8555]]></phone>
+<location_id><![CDATA[809]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5423 Evers Rd]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78238]]></zip>
+<phone><![CDATA[(210) 681-0090]]></phone>
+<location_id><![CDATA[808]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3315 San Pedro Ave]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78212]]></zip>
+<phone><![CDATA[(210) 734-8446]]></phone>
+<location_id><![CDATA[807]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[742 Sw Military Dr]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78221]]></zip>
+<phone><![CDATA[(210) 924-2151]]></phone>
+<location_id><![CDATA[806]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[303 San Pedro Ave]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78212]]></zip>
+<phone><![CDATA[(210) 223-5954]]></phone>
+<location_id><![CDATA[805]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3006 Broadway St]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78209]]></zip>
+<phone><![CDATA[(210) 822-4047]]></phone>
+<location_id><![CDATA[803]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8558 Huebner Rd Ste 102 Bldg 1]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78240]]></zip>
+<phone><![CDATA[(210) 697-1574]]></phone>
+<location_id><![CDATA[941]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5398 Walzem Rd]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78218]]></zip>
+<phone><![CDATA[(210) 656-4783]]></phone>
+<location_id><![CDATA[834]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1619 Bandera Rd]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78228]]></zip>
+<phone><![CDATA[(210) 433-9714]]></phone>
+<location_id><![CDATA[856]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5311 Rigsby Ave]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78222]]></zip>
+<phone><![CDATA[(210) 337-0847]]></phone>
+<location_id><![CDATA[847]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[190 W Bitters Rd]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78216]]></zip>
+<phone><![CDATA[(210) 490-0849]]></phone>
+<location_id><![CDATA[849]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2465 Babcock Rd]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78229]]></zip>
+<phone><![CDATA[(210) 615-7328]]></phone>
+<location_id><![CDATA[853]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5509 Roosevelt Ave]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78214]]></zip>
+<phone><![CDATA[(210) 627-2727]]></phone>
+<location_id><![CDATA[4772]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[10683 Huebner Rd Ste 101]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78240]]></zip>
+<phone><![CDATA[(210) 877-1219]]></phone>
+<location_id><![CDATA[871]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4626 Fredericksburg Rd]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78201]]></zip>
+<phone><![CDATA[(210) 734-8945]]></phone>
+<location_id><![CDATA[854]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[11211 Potranco Rd]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78253]]></zip>
+<phone><![CDATA[(210) 679-5084]]></phone>
+<location_id><![CDATA[4773]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9330 Wurzbach Rd]]></address>
+<city><![CDATA[San Antonio]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78240]]></zip>
+<phone><![CDATA[(210) 593-0420]]></phone>
+<location_id><![CDATA[855]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[692 S Sam Houston Blvd]]></address>
+<city><![CDATA[San Benito]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78586]]></zip>
+<phone><![CDATA[(956) 361-1616]]></phone>
+<location_id><![CDATA[3678]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[902 Raul Longoria Rd]]></address>
+<city><![CDATA[San Juan]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78589]]></zip>
+<phone><![CDATA[(956) 781-4339]]></phone>
+<location_id><![CDATA[3667]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2207 S Interstate 35]]></address>
+<city><![CDATA[San Marcos]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78666]]></zip>
+<phone><![CDATA[(512) 392-2338]]></phone>
+<location_id><![CDATA[866]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[345 N L B J Dr]]></address>
+<city><![CDATA[San Marcos]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78666]]></zip>
+<phone><![CDATA[(512) 353-7308]]></phone>
+<location_id><![CDATA[820]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[903 N Stemmons Fwy]]></address>
+<city><![CDATA[Sanger]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76266]]></zip>
+<phone><![CDATA[(940) 458-7182]]></phone>
+<location_id><![CDATA[3794]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[13620 Highway 6]]></address>
+<city><![CDATA[Santa Fe]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77517]]></zip>
+<phone><![CDATA[(409) 925-5023]]></phone>
+<location_id><![CDATA[3906]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[17501 Interstate 35 N]]></address>
+<city><![CDATA[Schertz]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78154]]></zip>
+<phone><![CDATA[(210) 651-5911]]></phone>
+<location_id><![CDATA[844]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[4457 Nasa Pkwy # 1]]></address>
+<city><![CDATA[Seabrook]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77586]]></zip>
+<phone><![CDATA[(281) 326-4063]]></phone>
+<location_id><![CDATA[646]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[600 W Malloy Bridge Rd]]></address>
+<city><![CDATA[Seagoville]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75159]]></zip>
+<phone><![CDATA[(972) 287-8499]]></phone>
+<location_id><![CDATA[3811]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2367 Highway 36 S]]></address>
+<city><![CDATA[Sealy]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77474]]></zip>
+<phone><![CDATA[(979) 885-6202]]></phone>
+<location_id><![CDATA[4706]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1070 E Court St]]></address>
+<city><![CDATA[Seguin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78155]]></zip>
+<phone><![CDATA[(830) 372-1558]]></phone>
+<location_id><![CDATA[830]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1810 W Ih 10]]></address>
+<city><![CDATA[Seguin]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78155]]></zip>
+<phone><![CDATA[(830) 379-6394]]></phone>
+<location_id><![CDATA[861]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[100 W Fm 1417]]></address>
+<city><![CDATA[Sherman]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75092]]></zip>
+<phone><![CDATA[(903) 868-4805]]></phone>
+<location_id><![CDATA[3842]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2133 Texoma Pkwy]]></address>
+<city><![CDATA[Sherman]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75090]]></zip>
+<phone><![CDATA[(903) 893-2919]]></phone>
+<location_id><![CDATA[737]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[150 Highway 327 E]]></address>
+<city><![CDATA[Silsbee]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77656]]></zip>
+<phone><![CDATA[(409) 386-6121]]></phone>
+<location_id><![CDATA[4778]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1503 Spencer Hwy]]></address>
+<city><![CDATA[South Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77587]]></zip>
+<phone><![CDATA[(713) 944-1849]]></phone>
+<location_id><![CDATA[3614]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1202 College Ave]]></address>
+<city><![CDATA[South Houston]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77587]]></zip>
+<phone><![CDATA[(713) 947-8507]]></phone>
+<location_id><![CDATA[4774]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[14699 Highway 59]]></address>
+<city><![CDATA[Splendora]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77372]]></zip>
+<phone><![CDATA[(281) 689-2645]]></phone>
+<location_id><![CDATA[3992]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[25060 Interstate 45]]></address>
+<city><![CDATA[Spring]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77386]]></zip>
+<phone><![CDATA[(281) 367-2188]]></phone>
+<location_id><![CDATA[690]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[4720 Spring Cypress Rd]]></address>
+<city><![CDATA[Spring]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77379]]></zip>
+<phone><![CDATA[(281) 374-0361]]></phone>
+<location_id><![CDATA[3923]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[25520 Aldine Westfield Rd]]></address>
+<city><![CDATA[Spring]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77373]]></zip>
+<phone><![CDATA[(281) 528-0791]]></phone>
+<location_id><![CDATA[3976]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[19715 Holzwarth Rd]]></address>
+<city><![CDATA[Spring]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77388]]></zip>
+<phone><![CDATA[(281) 355-1258]]></phone>
+<location_id><![CDATA[3635]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2685 Rayford Rd]]></address>
+<city><![CDATA[Spring]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77386]]></zip>
+<phone><![CDATA[(832) 813-0996]]></phone>
+<location_id><![CDATA[4738]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[16802 Stuebner Airline Rd]]></address>
+<city><![CDATA[Spring]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77379]]></zip>
+<phone><![CDATA[(281) 376-5340]]></phone>
+<location_id><![CDATA[659]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[3842 Fm 2920 Rd]]></address>
+<city><![CDATA[Spring]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77388]]></zip>
+<phone><![CDATA[(281) 651-9815]]></phone>
+<location_id><![CDATA[4704]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[12175 Southwest Fwy]]></address>
+<city><![CDATA[Stafford]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77477]]></zip>
+<phone><![CDATA[(281) 530-0199]]></phone>
+<location_id><![CDATA[3696]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3204 S Main St]]></address>
+<city><![CDATA[Stafford]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77477]]></zip>
+<phone><![CDATA[(281) 261-9503]]></phone>
+<location_id><![CDATA[681]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[2801 W Washington St]]></address>
+<city><![CDATA[Stephenville]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76401]]></zip>
+<phone><![CDATA[(254) 918-5002]]></phone>
+<location_id><![CDATA[3828]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[13325 W Airport Blvd]]></address>
+<city><![CDATA[Sugar Land]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77478]]></zip>
+<phone><![CDATA[(281) 494-3312]]></phone>
+<location_id><![CDATA[4731]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[11706 S Highway 6]]></address>
+<city><![CDATA[Sugar Land]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77478]]></zip>
+<phone><![CDATA[(281) 568-8193]]></phone>
+<location_id><![CDATA[3903]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1744 Dulles Ave]]></address>
+<city><![CDATA[Sugar Land]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77478]]></zip>
+<phone><![CDATA[(281) 491-6161]]></phone>
+<location_id><![CDATA[3904]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[13124 S Dairy Ashford Rd]]></address>
+<city><![CDATA[Sugar Land]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77478]]></zip>
+<phone><![CDATA[(281) 242-5705]]></phone>
+<location_id><![CDATA[3622]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[110 Shannon Rd W]]></address>
+<city><![CDATA[Sulphur Springs]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75482]]></zip>
+<phone><![CDATA[(903) 438-8069]]></phone>
+<location_id><![CDATA[3790]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3120 N Main St #b]]></address>
+<city><![CDATA[Taylor]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76574]]></zip>
+<phone><![CDATA[(512) 365-6116]]></phone>
+<location_id><![CDATA[924]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[3608 Sw Hk Dodgen Loop]]></address>
+<city><![CDATA[Temple]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76502]]></zip>
+<phone><![CDATA[(254) 742-0195]]></phone>
+<location_id><![CDATA[3862]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[204 W Adams Ave]]></address>
+<city><![CDATA[Temple]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76501]]></zip>
+<phone><![CDATA[(254) 778-4571]]></phone>
+<location_id><![CDATA[816]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1898 W Moore Ave]]></address>
+<city><![CDATA[Terrell]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75160]]></zip>
+<phone><![CDATA[(972) 551-0105]]></phone>
+<location_id><![CDATA[3774]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2101 Palmer Hwy]]></address>
+<city><![CDATA[Texas City]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77590]]></zip>
+<phone><![CDATA[(409) 948-1481]]></phone>
+<location_id><![CDATA[635]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2101 Fm 2004 Rd]]></address>
+<city><![CDATA[Texas City]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77591]]></zip>
+<phone><![CDATA[(409) 986-7297]]></phone>
+<location_id><![CDATA[3623]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4683 Highway 121]]></address>
+<city><![CDATA[The Colony]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75056]]></zip>
+<phone><![CDATA[(972) 624-1169]]></phone>
+<location_id><![CDATA[3821]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[7950 Research Forest Dr]]></address>
+<city><![CDATA[The Woodlands]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77382]]></zip>
+<phone><![CDATA[(281) 367-6931]]></phone>
+<location_id><![CDATA[3908]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1250 Lake Woodlands Dr]]></address>
+<city><![CDATA[The Woodlands]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77380]]></zip>
+<phone><![CDATA[(281) 363-4143]]></phone>
+<location_id><![CDATA[3657]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[11214 Fm 2920 Rd]]></address>
+<city><![CDATA[Tomball]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77375]]></zip>
+<phone><![CDATA[(281) 516-1401]]></phone>
+<location_id><![CDATA[3969]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[24040 Kuykendahl Rd]]></address>
+<city><![CDATA[Tomball]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77375]]></zip>
+<phone><![CDATA[(281) 516-1781]]></phone>
+<location_id><![CDATA[4714]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[16003 Fm 2920 Rd]]></address>
+<city><![CDATA[Tomball]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77375]]></zip>
+<phone><![CDATA[(281) 255-2163]]></phone>
+<location_id><![CDATA[3980]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[28423 Tomball Pkwy]]></address>
+<city><![CDATA[Tomball]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77375]]></zip>
+<phone><![CDATA[(281) 351-5633]]></phone>
+<location_id><![CDATA[3608]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1703 S Broadway Ave]]></address>
+<city><![CDATA[Tyler]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75701]]></zip>
+<phone><![CDATA[(903) 592-8841]]></phone>
+<location_id><![CDATA[3803]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[121 N Northwest Loop 323]]></address>
+<city><![CDATA[Tyler]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75702]]></zip>
+<phone><![CDATA[(903) 596-7739]]></phone>
+<location_id><![CDATA[3805]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6915 S Broadway Ave]]></address>
+<city><![CDATA[Tyler]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75703]]></zip>
+<phone><![CDATA[(903) 939-9632]]></phone>
+<location_id><![CDATA[3804]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[208  N Pat Booker Rd]]></address>
+<city><![CDATA[Universal City]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78148]]></zip>
+<phone><![CDATA[(210) 658-8562]]></phone>
+<location_id><![CDATA[850]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[801 E Main St]]></address>
+<city><![CDATA[Uvalde]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78801]]></zip>
+<phone><![CDATA[(830) 486-0500]]></phone>
+<location_id><![CDATA[932]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[121 S Henry Hynds Expy]]></address>
+<city><![CDATA[Van Alstyne]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75495]]></zip>
+<phone><![CDATA[(903) 482-9450]]></phone>
+<location_id><![CDATA[4745]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1510 E Rio Grande St]]></address>
+<city><![CDATA[Victoria]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77901]]></zip>
+<phone><![CDATA[(361) 574-8649]]></phone>
+<location_id><![CDATA[4764]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[5229 N Navarro Dr]]></address>
+<city><![CDATA[Victoria]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77904]]></zip>
+<phone><![CDATA[(361) 579-9711]]></phone>
+<location_id><![CDATA[4780]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1315 N Main St]]></address>
+<city><![CDATA[Vidor]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77662]]></zip>
+<phone><![CDATA[(409) 769-0542]]></phone>
+<location_id><![CDATA[4718]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5125 Bosque Blvd]]></address>
+<city><![CDATA[Waco]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76710]]></zip>
+<phone><![CDATA[(254) 776-0097]]></phone>
+<location_id><![CDATA[832]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[725 University Parks Dr]]></address>
+<city><![CDATA[Waco]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76706]]></zip>
+<phone><![CDATA[(254) 755-7009]]></phone>
+<location_id><![CDATA[835]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1724 S Valley Mills Dr]]></address>
+<city><![CDATA[Waco]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76711]]></zip>
+<phone><![CDATA[(254) 754-7514]]></phone>
+<location_id><![CDATA[3813]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[201 Hewitt Dr]]></address>
+<city><![CDATA[Waco]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76712]]></zip>
+<phone><![CDATA[(254) 772-3600]]></phone>
+<location_id><![CDATA[852]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[31014 Fm 2920 Rd]]></address>
+<city><![CDATA[Waller]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77484]]></zip>
+<phone><![CDATA[(936) 931-3519]]></phone>
+<location_id><![CDATA[3925]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[22902 Interstate 10]]></address>
+<city><![CDATA[Wallisville]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77597]]></zip>
+<phone><![CDATA[(409) 389-2451]]></phone>
+<location_id><![CDATA[3966]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6241 Rufe Snow Dr]]></address>
+<city><![CDATA[Watauga]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76148]]></zip>
+<phone><![CDATA[(817) 581-7391]]></phone>
+<location_id><![CDATA[3720]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1204 N Highway 77]]></address>
+<city><![CDATA[Waxahachie]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75165]]></zip>
+<phone><![CDATA[(972) 923-9323]]></phone>
+<location_id><![CDATA[3785]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[2002 Clear Lake Rd]]></address>
+<city><![CDATA[Weatherford]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76086]]></zip>
+<phone><![CDATA[(817) 594-3689]]></phone>
+<location_id><![CDATA[3800]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[804 S Main St]]></address>
+<city><![CDATA[Weatherford]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76086]]></zip>
+<phone><![CDATA[(817) 594-1246]]></phone>
+<location_id><![CDATA[733]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3134 Fm 528 Rd]]></address>
+<city><![CDATA[Webster]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77598]]></zip>
+<phone><![CDATA[(281) 993-2044]]></phone>
+<location_id><![CDATA[3930]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[418 El Dorado Blvd]]></address>
+<city><![CDATA[Webster]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77598]]></zip>
+<phone><![CDATA[(281) 286-4816]]></phone>
+<location_id><![CDATA[3621]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1538 N Texas Blvd]]></address>
+<city><![CDATA[Weslaco]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[78596]]></zip>
+<phone><![CDATA[(956) 973-0018]]></phone>
+<location_id><![CDATA[3933]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[801 S 17th St]]></address>
+<city><![CDATA[West Columbia]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77486]]></zip>
+<phone><![CDATA[(979) 345-2110]]></phone>
+<location_id><![CDATA[4735]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[815 N Sepulveda Blvd]]></address>
+<city><![CDATA[Wharton]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77488]]></zip>
+<phone><![CDATA[(979) 532-5022]]></phone>
+<location_id><![CDATA[676]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[8700 West Fwy]]></address>
+<city><![CDATA[White Settlement]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76108]]></zip>
+<phone><![CDATA[(817) 246-1224]]></phone>
+<location_id><![CDATA[4769]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[3125 Lawrence Rd]]></address>
+<city><![CDATA[Wichita Falls]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76308]]></zip>
+<phone><![CDATA[(940) 689-9100]]></phone>
+<location_id><![CDATA[4771]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[2610 Central Freeway]]></address>
+<city><![CDATA[Wichita Falls]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[76306]]></zip>
+<phone><![CDATA[(000) 000-0000]]></phone>
+<location_id><![CDATA[4828]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[910 W Montgomery St]]></address>
+<city><![CDATA[Willis]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77378]]></zip>
+<phone><![CDATA[(936) 856-9779]]></phone>
+<location_id><![CDATA[3640]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[350 Spur 5]]></address>
+<city><![CDATA[Winnie]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[77665]]></zip>
+<phone><![CDATA[(409) 296-3118]]></phone>
+<location_id><![CDATA[3921]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[102 N Magnolia St]]></address>
+<city><![CDATA[Woodville]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75979]]></zip>
+<phone><![CDATA[(409) 331-1136]]></phone>
+<location_id><![CDATA[3994]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[201 S Highway 78]]></address>
+<city><![CDATA[Wylie]]></city>
+<state><![CDATA[TX]]></state>
+<zip><![CDATA[75098]]></zip>
+<phone><![CDATA[(972) 442-6118]]></phone>
+<location_id><![CDATA[3826]]></location_id>
+</location>
+</locations></location_resultset>
+						

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<location_resultset>
+<locations count="13">
+<location hrs='7' >
+<address><![CDATA[4113 Clemson Blvd]]></address>
+<city><![CDATA[Anderson]]></city>
+<state><![CDATA[SC]]></state>
+<zip><![CDATA[29621]]></zip>
+<phone><![CDATA[(864) 224-8983]]></phone>
+<location_id><![CDATA[6419]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6601 Calhoun Memorial Hwy]]></address>
+<city><![CDATA[Easley]]></city>
+<state><![CDATA[SC]]></state>
+<zip><![CDATA[29640]]></zip>
+<phone><![CDATA[(864) 306-8177]]></phone>
+<location_id><![CDATA[6421]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1490 Poinsett Hwy]]></address>
+<city><![CDATA[Greenville]]></city>
+<state><![CDATA[SC]]></state>
+<zip><![CDATA[29609]]></zip>
+<phone><![CDATA[(864) 467-0540]]></phone>
+<location_id><![CDATA[6413]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1106 N Pleasantburg Dr]]></address>
+<city><![CDATA[Greenville]]></city>
+<state><![CDATA[SC]]></state>
+<zip><![CDATA[29607]]></zip>
+<phone><![CDATA[(864) 609-0019]]></phone>
+<location_id><![CDATA[6404]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3709 Pelham Rd]]></address>
+<city><![CDATA[Greenville]]></city>
+<state><![CDATA[SC]]></state>
+<zip><![CDATA[29615]]></zip>
+<phone><![CDATA[(864) 675-9598]]></phone>
+<location_id><![CDATA[6411]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1343 S Pleasantburg Dr]]></address>
+<city><![CDATA[Greenville]]></city>
+<state><![CDATA[SC]]></state>
+<zip><![CDATA[29605]]></zip>
+<phone><![CDATA[(864) 422-1252]]></phone>
+<location_id><![CDATA[6417]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[14011 E Wade Hampton Blvd]]></address>
+<city><![CDATA[Greer]]></city>
+<state><![CDATA[SC]]></state>
+<zip><![CDATA[29651]]></zip>
+<phone><![CDATA[(864) 801-4500]]></phone>
+<location_id><![CDATA[6407]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[895 Heckle Blvd]]></address>
+<city><![CDATA[Rock Hill]]></city>
+<state><![CDATA[SC]]></state>
+<zip><![CDATA[29730]]></zip>
+<phone><![CDATA[(803) 366-3255]]></phone>
+<location_id><![CDATA[6401]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1929 Springsteen Rd]]></address>
+<city><![CDATA[Rock Hill]]></city>
+<state><![CDATA[SC]]></state>
+<zip><![CDATA[29730]]></zip>
+<phone><![CDATA[(803) 328-3600]]></phone>
+<location_id><![CDATA[6403]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2615 Cherry Rd]]></address>
+<city><![CDATA[Rock Hill]]></city>
+<state><![CDATA[SC]]></state>
+<zip><![CDATA[29730]]></zip>
+<phone><![CDATA[(803) 981-5241]]></phone>
+<location_id><![CDATA[6424]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[695 Fairview Rd]]></address>
+<city><![CDATA[Simpsonville]]></city>
+<state><![CDATA[SC]]></state>
+<zip><![CDATA[29680]]></zip>
+<phone><![CDATA[(864) 963-1841]]></phone>
+<location_id><![CDATA[6418]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[2609 Woodruff Rd]]></address>
+<city><![CDATA[Simpsonville]]></city>
+<state><![CDATA[SC]]></state>
+<zip><![CDATA[29681]]></zip>
+<phone><![CDATA[(864) 297-0800]]></phone>
+<location_id><![CDATA[6405]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1500 Wo Ezell Blvd]]></address>
+<city><![CDATA[Spartanburg]]></city>
+<state><![CDATA[SC]]></state>
+<zip><![CDATA[29301]]></zip>
+<phone><![CDATA[(864) 587-7100]]></phone>
+<location_id><![CDATA[6422]]></location_id>
+</location>
+</locations></location_resultset>
+						

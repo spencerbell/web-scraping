@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<location_resultset>
+<locations count="27">
+<location hrs='7' >
+<address><![CDATA[1302 S Orchard St]]></address>
+<city><![CDATA[Boise]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83705]]></zip>
+<phone><![CDATA[(208) 342-2666]]></phone>
+<location_id><![CDATA[6000]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7040 W State St]]></address>
+<city><![CDATA[Boise]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83714]]></zip>
+<phone><![CDATA[(208) 853-5250]]></phone>
+<location_id><![CDATA[6032]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[10496 Overland Rd]]></address>
+<city><![CDATA[Boise]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83709]]></zip>
+<phone><![CDATA[(208) 658-0508]]></phone>
+<location_id><![CDATA[6026]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[6300 N Eagle Rd]]></address>
+<city><![CDATA[Boise]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83713]]></zip>
+<phone><![CDATA[(208) 938-5360]]></phone>
+<location_id><![CDATA[6020]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[6875 S Federal Way]]></address>
+<city><![CDATA[Boise]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83716]]></zip>
+<phone><![CDATA[(208) 388-8452]]></phone>
+<location_id><![CDATA[6018]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1124 S Vista Ave]]></address>
+<city><![CDATA[Boise]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83705]]></zip>
+<phone><![CDATA[(208) 429-4171]]></phone>
+<location_id><![CDATA[6040]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2611 S Broadway Ave]]></address>
+<city><![CDATA[Boise]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83706]]></zip>
+<phone><![CDATA[(208) 336-8088]]></phone>
+<location_id><![CDATA[6004]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3220 N Cole Rd]]></address>
+<city><![CDATA[Boise]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83704]]></zip>
+<phone><![CDATA[(208) 322-5005]]></phone>
+<location_id><![CDATA[6005]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[491 N Overland Ave]]></address>
+<city><![CDATA[Burley]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83318]]></zip>
+<phone><![CDATA[(208) 678-3399]]></phone>
+<location_id><![CDATA[6024]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[703 N 10th Ave]]></address>
+<city><![CDATA[Caldwell]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83605]]></zip>
+<phone><![CDATA[(208) 454-6441]]></phone>
+<location_id><![CDATA[6001]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[196 Ironwood Dr]]></address>
+<city><![CDATA[Coeur D Alene]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83814]]></zip>
+<phone><![CDATA[(208) 664-8411]]></phone>
+<location_id><![CDATA[6012]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1458 W Broadway St]]></address>
+<city><![CDATA[Idaho Falls]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83402]]></zip>
+<phone><![CDATA[(208) 552-2613]]></phone>
+<location_id><![CDATA[6021]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[424 S Woodruff Ave]]></address>
+<city><![CDATA[Idaho Falls]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83401]]></zip>
+<phone><![CDATA[(208) 528-9489]]></phone>
+<location_id><![CDATA[6016]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1903 G St]]></address>
+<city><![CDATA[Lewiston]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83501]]></zip>
+<phone><![CDATA[(208) 798-7410]]></phone>
+<location_id><![CDATA[6014]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[3010 E Goldstone Dr Unit E]]></address>
+<city><![CDATA[Meridian]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83642]]></zip>
+<phone><![CDATA[(208) 884-3755]]></phone>
+<location_id><![CDATA[6033]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[207 E Fairview Ave]]></address>
+<city><![CDATA[Meridian]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83642]]></zip>
+<phone><![CDATA[(208) 884-8992]]></phone>
+<location_id><![CDATA[6010]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[710 Pullman Rd]]></address>
+<city><![CDATA[Moscow]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83843]]></zip>
+<phone><![CDATA[(208) 883-8212]]></phone>
+<location_id><![CDATA[6013]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3100 Foothills Ave]]></address>
+<city><![CDATA[Mountain Home]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83647]]></zip>
+<phone><![CDATA[(208) 587-2007]]></phone>
+<location_id><![CDATA[6017]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[16101 Idaho Center Blvd]]></address>
+<city><![CDATA[Nampa]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83687]]></zip>
+<phone><![CDATA[(208) 463-7613]]></phone>
+<location_id><![CDATA[6038]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[804 12th Ave Rd]]></address>
+<city><![CDATA[Nampa]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83686]]></zip>
+<phone><![CDATA[(208) 467-2023]]></phone>
+<location_id><![CDATA[6002]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1920 Caldwell Blvd]]></address>
+<city><![CDATA[Nampa]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83651]]></zip>
+<phone><![CDATA[(208) 463-0175]]></phone>
+<location_id><![CDATA[6009]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1700 N Franklin Blvd]]></address>
+<city><![CDATA[Nampa]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83687]]></zip>
+<phone><![CDATA[(208) 463-0301]]></phone>
+<location_id><![CDATA[6023]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1611 Pocatello Creek Rd]]></address>
+<city><![CDATA[Pocatello]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83201]]></zip>
+<phone><![CDATA[(208) 234-9305]]></phone>
+<location_id><![CDATA[6015]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[123 S 4th St]]></address>
+<city><![CDATA[Pocatello]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83201]]></zip>
+<phone><![CDATA[(208) 478-8035]]></phone>
+<location_id><![CDATA[6025]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[461 N 2nd E]]></address>
+<city><![CDATA[Rexburg]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83440]]></zip>
+<phone><![CDATA[(208) 656-9284]]></phone>
+<location_id><![CDATA[6030]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[717 N 5th Ave]]></address>
+<city><![CDATA[Sandpoint]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83864]]></zip>
+<phone><![CDATA[(208) 265-0710]]></phone>
+<location_id><![CDATA[6037]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1501 Blue Lakes Blvd N]]></address>
+<city><![CDATA[Twin Falls]]></city>
+<state><![CDATA[ID]]></state>
+<zip><![CDATA[83301]]></zip>
+<phone><![CDATA[(208) 733-4942]]></phone>
+<location_id><![CDATA[6019]]></location_id>
+</location>
+</locations></location_resultset>
+						

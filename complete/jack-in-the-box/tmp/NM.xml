@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<location_resultset>
+<locations count="8">
+<location hrs='0' >
+<address><![CDATA[3501 State Highway 528 NW]]></address>
+<city><![CDATA[Albuquerque]]></city>
+<state><![CDATA[NM]]></state>
+<zip><![CDATA[87114]]></zip>
+<phone><![CDATA[(505) 898-5205]]></phone>
+<location_id><![CDATA[1261]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2721 Carlisle Blvd Ne]]></address>
+<city><![CDATA[Albuquerque]]></city>
+<state><![CDATA[NM]]></state>
+<zip><![CDATA[87110]]></zip>
+<phone><![CDATA[(505) 888-8954]]></phone>
+<location_id><![CDATA[1264]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[10100 Central Ave Se]]></address>
+<city><![CDATA[Albuquerque]]></city>
+<state><![CDATA[NM]]></state>
+<zip><![CDATA[87123]]></zip>
+<phone><![CDATA[(505) 332-9282]]></phone>
+<location_id><![CDATA[1265]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5000 Montgomery Blvd Ne]]></address>
+<city><![CDATA[Albuquerque]]></city>
+<state><![CDATA[NM]]></state>
+<zip><![CDATA[87111]]></zip>
+<phone><![CDATA[(505) 884-0816]]></phone>
+<location_id><![CDATA[1266]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7601 Menaul Blvd Ne]]></address>
+<city><![CDATA[Albuquerque]]></city>
+<state><![CDATA[NM]]></state>
+<zip><![CDATA[87110]]></zip>
+<phone><![CDATA[(505) 293-1504]]></phone>
+<location_id><![CDATA[1267]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[301 98th St Nw]]></address>
+<city><![CDATA[Albuquerque]]></city>
+<state><![CDATA[NM]]></state>
+<zip><![CDATA[87121]]></zip>
+<phone><![CDATA[(000) 000-0000]]></phone>
+<location_id><![CDATA[1268]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[501 S Telshor Blvd]]></address>
+<city><![CDATA[Las Cruces]]></city>
+<state><![CDATA[NM]]></state>
+<zip><![CDATA[88011]]></zip>
+<phone><![CDATA[(575) 522-3740]]></phone>
+<location_id><![CDATA[1258]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3609 Nm 528 NE]]></address>
+<city><![CDATA[Rio Rancho]]></city>
+<state><![CDATA[NM]]></state>
+<zip><![CDATA[87144]]></zip>
+<phone><![CDATA[(505) 771-2100]]></phone>
+<location_id><![CDATA[1263]]></location_id>
+</location>
+</locations></location_resultset>
+						

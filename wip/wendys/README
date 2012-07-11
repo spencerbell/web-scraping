@@ -1,0 +1,9 @@
+Use the mobile site:
+http://m.wendys.com/stores.jsp?postalcode=78704&x=0&y=0&city=&state=
+
+ - Use a slow crawl using the zip-codes to get all the locations. It only returns 5 stores per zipcode
+   which should give complete coverage.
+
+ - use the zipcode library and remove the APO/FPO addresses
+
+ - 

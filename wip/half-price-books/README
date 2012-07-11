@@ -1,0 +1,3 @@
+Use a big distance range to get all stores: curl "http://www.hpb.com/zipcode.aspx?zip=77095&dist=3000" > all-stores.html
+
+- write php scripte to parse out the html from the rest. use DOMXml with ->loadHTML command. should work

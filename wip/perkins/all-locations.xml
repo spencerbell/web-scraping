@@ -1,0 +1,1996 @@
+<?xml version="1.0" encoding="UTF-8"?><response code="1"><collection name="poi" count="105" country="US" city="Cleveland" radius="3000" radiusuom="mile" postalcode="44114" province="" address="" centerpoint="-81.69074,41.50471" state="OH"><poi>
+  <name>MCHENRY</name>
+  <_distance>181.69</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>24584 Garrett Highway</address1>
+  <address2></address2>
+  <city>McHenry</city>
+  <clientkey>Perkins102</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>39.5621227586207</latitude>
+  <longitude>-79.3582417241379</longitude>
+  <phone>301-387-5800</phone>
+  <postalcode>21541</postalcode>
+  <province></province>
+  <state>MD</state>
+  <uid>1394642215</uid>
+</poi>
+<poi>
+  <name>ELKHART</name>
+  <_distance>221.80</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>107 Northpointe Blvd.</address1>
+  <address2></address2>
+  <city>Elkhart</city>
+  <clientkey>Perkins72</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>41.7346983451055</latitude>
+  <longitude>-85.9742627447256</longitude>
+  <phone>574-264-2541</phone>
+  <postalcode>46514</postalcode>
+  <province></province>
+  <state>IN</state>
+  <uid>1394642185</uid>
+</poi>
+<poi>
+  <name>ANDERSON</name>
+  <_distance>229.92</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>5033 Scatterfield Rd</address1>
+  <address2></address2>
+  <city>Anderson</city>
+  <clientkey>Perkins70</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>40.0638651677852</latitude>
+  <longitude>-85.6529510738255</longitude>
+  <phone>765-642-2332</phone>
+  <postalcode>46013</postalcode>
+  <province></province>
+  <state>IN</state>
+  <uid>1394642183</uid>
+</poi>
+<poi>
+  <name>SOUTH BEND</name>
+  <_distance>235.96</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>423 S Dixie Hwy</address1>
+  <address2></address2>
+  <city>South Bend</city>
+  <clientkey>Perkins74</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>41.7112433333333</latitude>
+  <longitude>-86.25029625</longitude>
+  <phone>574-272-0655</phone>
+  <postalcode>46637</postalcode>
+  <province></province>
+  <state>IN</state>
+  <uid>1394642187</uid>
+</poi>
+<poi>
+  <name>NOBLESVILLE</name>
+  <_distance>246.85</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>250 Noble Creek Drive</address1>
+  <address2></address2>
+  <city>Noblesville</city>
+  <clientkey>Perkins73</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>40.0431493832004</latitude>
+  <longitude>-85.9964371214947</longitude>
+  <phone>317-776-2800</phone>
+  <postalcode>46060</postalcode>
+  <province></province>
+  <state>IN</state>
+  <uid>1394642186</uid>
+</poi>
+<poi>
+  <name>CASTLETON</name>
+  <_distance>254.95</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>5320 E 82nd Street</address1>
+  <address2></address2>
+  <city>Castleton</city>
+  <clientkey>Perkins71</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>39.905213125</latitude>
+  <longitude>-86.078131875</longitude>
+  <phone>317-842-9447</phone>
+  <postalcode>46250</postalcode>
+  <province></province>
+  <state>IN</state>
+  <uid>1394642184</uid>
+</poi>
+<poi>
+  <name>LEXINGTON</name>
+  <_distance>282.44</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>2401 Richmond Road</address1>
+  <address2></address2>
+  <city>Lexington</city>
+  <clientkey>Perkins101</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>38.01441</latitude>
+  <longitude>-84.46036</longitude>
+  <phone>859-269-16631</phone>
+  <postalcode>40502</postalcode>
+  <province></province>
+  <state>KY</state>
+  <uid>1394642214</uid>
+</poi>
+<poi>
+  <name>NEWARK</name>
+  <_distance>349.05</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>#12 Liberty Plaza</address1>
+  <address2></address2>
+  <city>Newark</city>
+  <clientkey>Perkins59</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>39.51879</latitude>
+  <longitude>-75.57872</longitude>
+  <phone>302-737-3500</phone>
+  <postalcode>19711</postalcode>
+  <province></province>
+  <state>DE</state>
+  <uid>1394642172</uid>
+</poi>
+<poi>
+  <name>URBANA</name>
+  <_distance>354.78</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1214 West University</address1>
+  <address2></address2>
+  <city>Urbana</city>
+  <clientkey>Perkins69</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>40.1164</latitude>
+  <longitude>-88.2242585714286</longitude>
+  <phone>217-328-3000</phone>
+  <postalcode>61801</postalcode>
+  <province></province>
+  <state>IL</state>
+  <uid>1394642182</uid>
+</poi>
+<poi>
+  <name>ROCKFORD</name>
+  <_distance>378.70</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>6779 East State St</address1>
+  <address2></address2>
+  <city>Rockford</city>
+  <clientkey>Perkins68</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>42.2685653332893</latitude>
+  <longitude>-88.9836556081905</longitude>
+  <phone>815-395-1190</phone>
+  <postalcode>61108</postalcode>
+  <province></province>
+  <state>IL</state>
+  <uid>1394642181</uid>
+</poi>
+<poi>
+  <name>MENOMINEE</name>
+  <_distance>388.48</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>2340 10th Street</address1>
+  <address2></address2>
+  <city>Menominee</city>
+  <clientkey>Perkins105</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>45.1200238260344</latitude>
+  <longitude>-87.6135593926193</longitude>
+  <phone>906-863-1565</phone>
+  <postalcode>49858</postalcode>
+  <province></province>
+  <state>MI</state>
+  <uid>1394642218</uid>
+</poi>
+<poi>
+  <name>DECATUR</name>
+  <_distance>397.18</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>2999 N Monroe St.</address1>
+  <address2></address2>
+  <city>Decatur</city>
+  <clientkey>Perkins65</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>39.87641</latitude>
+  <longitude>-88.96445</longitude>
+  <phone>217-875-0743</phone>
+  <postalcode>62526</postalcode>
+  <province></province>
+  <state>IL</state>
+  <uid>1394642178</uid>
+</poi>
+<poi>
+  <name>PEORIA</name>
+  <_distance>415.99</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1810 W. War Memorial Drive</address1>
+  <address2></address2>
+  <city>Peoria</city>
+  <clientkey>Perkins67</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>40.7352337783786</latitude>
+  <longitude>-89.6202567862889</longitude>
+  <phone>309-682-8616</phone>
+  <postalcode>61614</postalcode>
+  <province></province>
+  <state>IL</state>
+  <uid>1394642180</uid>
+</poi>
+<poi>
+  <name>MARQUETTE</name>
+  <_distance>450.44</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>2483 US 41 West</address1>
+  <address2></address2>
+  <city>Marquette</city>
+  <clientkey>Perkins104</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>46.5494111158304</latitude>
+  <longitude>-87.4423212972409</longitude>
+  <phone>906-225-6900</phone>
+  <postalcode>49855</postalcode>
+  <province></province>
+  <state>MI</state>
+  <uid>1394642217</uid>
+</poi>
+<poi>
+  <name>GALESBURG</name>
+  <_distance>452.94</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1850 N. Henderson St</address1>
+  <address2></address2>
+  <city>Galesburg</city>
+  <clientkey>Perkins66</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>40.97018</latitude>
+  <longitude>-90.38308</longitude>
+  <phone>309-344-5498</phone>
+  <postalcode>61401</postalcode>
+  <province></province>
+  <state>IL</state>
+  <uid>1394642179</uid>
+</poi>
+<poi>
+  <name>DUBUQUE</name>
+  <_distance>468.74</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>3500 Dodge Street</address1>
+  <address2></address2>
+  <city>Dubuque</city>
+  <clientkey>Perkins86</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>42.491240619626</latitude>
+  <longitude>-90.7268814371506</longitude>
+  <phone>563-557-9262</phone>
+  <postalcode>52001</postalcode>
+  <province></province>
+  <state>IA</state>
+  <uid>1394642199</uid>
+</poi>
+<poi>
+  <name>BURLINGTON</name>
+  <_distance>493.73</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>3300 Agency Rd</address1>
+  <address2></address2>
+  <city>Burlington</city>
+  <clientkey>Perkins76</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>40.8149363917526</latitude>
+  <longitude>-91.1426407216495</longitude>
+  <phone>319-753-6581</phone>
+  <postalcode>52601</postalcode>
+  <province></province>
+  <state>IA</state>
+  <uid>1394642189</uid>
+</poi>
+<poi>
+  <name>CORALVILLE</name>
+  <_distance>510.15</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>819 1st Ave</address1>
+  <address2></address2>
+  <city>Coralville</city>
+  <clientkey>Perkins80</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>41.6805801577088</latitude>
+  <longitude>-91.5658528559916</longitude>
+  <phone>319-351-1260</phone>
+  <postalcode>52241</postalcode>
+  <province></province>
+  <state>IA</state>
+  <uid>1394642193</uid>
+</poi>
+<poi>
+  <name>CEDAR RAPIDS II</name>
+  <_distance>513.33</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>315 Collins Road NE</address1>
+  <address2></address2>
+  <city>Cedar Rapids</city>
+  <clientkey>Perkins78</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>42.027868</latitude>
+  <longitude>-91.632548</longitude>
+  <phone>319-393-0202</phone>
+  <postalcode>52402</postalcode>
+  <province></province>
+  <state>IA</state>
+  <uid>1394642191</uid>
+</poi>
+<poi>
+  <name>CEDAR RAPIDS</name>
+  <_distance>515.38</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>3310 Southgate Court</address1>
+  <address2></address2>
+  <city>Cedar Rapids</city>
+  <clientkey>Perkins77</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>41.9439712966295</latitude>
+  <longitude>-91.6732241518733</longitude>
+  <phone>319-365-0545</phone>
+  <postalcode>52404</postalcode>
+  <province></province>
+  <state>IA</state>
+  <uid>1394642190</uid>
+</poi>
+<poi>
+  <name>HOUGHTON</name>
+  <_distance>515.81</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1001 W Sharon Avenue</address1>
+  <address2></address2>
+  <city>Houghton</city>
+  <clientkey>Perkins103</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>47.11327</latitude>
+  <longitude>-88.58874</longitude>
+  <phone>906-482-7906</phone>
+  <postalcode>49931</postalcode>
+  <province></province>
+  <state>MI</state>
+  <uid>1394642216</uid>
+</poi>
+<poi>
+  <name>WATERLOO</name>
+  <_distance>553.22</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>3280 University Ave.</address1>
+  <address2></address2>
+  <city>Waterloo</city>
+  <clientkey>Perkins93</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>42.5014822866588</latitude>
+  <longitude>-92.3892161675833</longitude>
+  <phone>319-235-6595</phone>
+  <postalcode>50701</postalcode>
+  <province></province>
+  <state>IA</state>
+  <uid>1394642206</uid>
+</poi>
+<poi>
+  <name>MARSHALLTOWN</name>
+  <_distance>579.02</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>3102 South Center St</address1>
+  <address2></address2>
+  <city>Marshalltown</city>
+  <clientkey>Perkins87</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>42.00811</latitude>
+  <longitude>-92.91238</longitude>
+  <phone>641-753-4038</phone>
+  <postalcode>50158</postalcode>
+  <province></province>
+  <state>IA</state>
+  <uid>1394642200</uid>
+</poi>
+<poi>
+  <name>BLYTHEVILLE</name>
+  <_distance>585.51</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1121 E. Main Street</address1>
+  <address2></address2>
+  <city>Blytheville</city>
+  <clientkey>Perkins48</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>35.9288767635639</latitude>
+  <longitude>-89.8816858914891</longitude>
+  <phone>870-763-6797</phone>
+  <postalcode>72315</postalcode>
+  <province></province>
+  <state>AR</state>
+  <uid>1394642161</uid>
+</poi>
+<poi>
+  <name>NEWTON</name>
+  <_distance>588.11</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1505 W 19th St S</address1>
+  <address2></address2>
+  <city>Newton</city>
+  <clientkey>Perkins90</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>41.6860790361756</latitude>
+  <longitude>-93.0781916138655</longitude>
+  <phone>641-792-1042</phone>
+  <postalcode>50208</postalcode>
+  <province></province>
+  <state>IA</state>
+  <uid>1394642203</uid>
+</poi>
+<poi>
+  <name>MASON CITY</name>
+  <_distance>599.96</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>2201 4th St SW</address1>
+  <address2></address2>
+  <city>Mason City</city>
+  <clientkey>Perkins88</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>43.14827</latitude>
+  <longitude>-93.2337</longitude>
+  <phone>641-423-2360</phone>
+  <postalcode>50401</postalcode>
+  <province></province>
+  <state>IA</state>
+  <uid>1394642201</uid>
+</poi>
+<poi>
+  <name>CLEAR LAKE</name>
+  <_distance>606.24</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1207 25th Street</address1>
+  <address2></address2>
+  <city>Clear Lake</city>
+  <clientkey>Perkins79</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>43.1468503195647</latitude>
+  <longitude>-93.3593451831556</longitude>
+  <phone>641-357-7558</phone>
+  <postalcode>50428</postalcode>
+  <province></province>
+  <state>IA</state>
+  <uid>1394642192</uid>
+</poi>
+<poi>
+  <name>DES MOINES II</name>
+  <_distance>613.77</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>2425 E Euclid Ave.</address1>
+  <address2></address2>
+  <city>Des Moines</city>
+  <clientkey>Perkins83</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>41.6277348979592</latitude>
+  <longitude>-93.5719424489796</longitude>
+  <phone>515-266-2212</phone>
+  <postalcode>50317</postalcode>
+  <province></province>
+  <state>IA</state>
+  <uid>1394642196</uid>
+</poi>
+<poi>
+  <name>AMES</name>
+  <_distance>614.84</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>325 S Duff Ave.</address1>
+  <address2></address2>
+  <city>Ames</city>
+  <clientkey>Perkins75</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>42.0198328976601</latitude>
+  <longitude>-93.6103381160358</longitude>
+  <phone>515-233-3648</phone>
+  <postalcode>50010</postalcode>
+  <province></province>
+  <state>IA</state>
+  <uid>1394642188</uid>
+</poi>
+<poi>
+  <name>DES MOINES I</name>
+  <_distance>617.83</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>2000 SW McKinley Ave</address1>
+  <address2></address2>
+  <city>Des Moines</city>
+  <clientkey>Perkins82</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>41.540905</latitude>
+  <longitude>-93.643655</longitude>
+  <phone>515-285-2970</phone>
+  <postalcode>50315</postalcode>
+  <province></province>
+  <state>IA</state>
+  <uid>1394642195</uid>
+</poi>
+<poi>
+  <name>DES MOINES III</name>
+  <_distance>620.18</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>4601 Merle Hay Rd.</address1>
+  <address2></address2>
+  <city>Des Moines</city>
+  <clientkey>Perkins84</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>41.64393</latitude>
+  <longitude>-93.69744</longitude>
+  <phone>515-278-0468</phone>
+  <postalcode>50322</postalcode>
+  <province></province>
+  <state>IA</state>
+  <uid>1394642197</uid>
+</poi>
+<poi>
+  <name>DES MOINES IV</name>
+  <_distance>622.31</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>8601 Hickman Road</address1>
+  <address2></address2>
+  <city>Des Moines</city>
+  <clientkey>Perkins85</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>41.61528</latitude>
+  <longitude>-93.73649</longitude>
+  <phone>515-276-9267</phone>
+  <postalcode>50322</postalcode>
+  <province></province>
+  <state>IA</state>
+  <uid>1394642198</uid>
+</poi>
+<poi>
+  <name>WEST DES MOINES</name>
+  <_distance>626.20</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1224 74th Street (Jordan Creek Parkway)</address1>
+  <address2></address2>
+  <city>West Des Moines</city>
+  <clientkey>Perkins94</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>41.5791903</latitude>
+  <longitude>-93.8090767</longitude>
+  <phone>515-223-5716</phone>
+  <postalcode>50266</postalcode>
+  <province></province>
+  <state>IA</state>
+  <uid>1394642207</uid>
+</poi>
+<poi>
+  <name>SAVANNAH</name>
+  <_distance>656.90</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>3A Gateway Blvd. S.</address1>
+  <address2></address2>
+  <city>Savannah</city>
+  <clientkey>Perkins60</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>32.00296</latitude>
+  <longitude>-81.28135</longitude>
+  <phone>912-961-0424</phone>
+  <postalcode>31419</postalcode>
+  <province></province>
+  <state>GA</state>
+  <uid>1394642173</uid>
+</poi>
+<poi>
+  <name>MILFORD</name>
+  <_distance>697.32</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>2400 N. Avenue</address1>
+  <address2></address2>
+  <city>Milford</city>
+  <clientkey>Perkins89</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>43.3393654</latitude>
+  <longitude>-95.1508498</longitude>
+  <phone>712-338-4060</phone>
+  <postalcode>51351</postalcode>
+  <province></province>
+  <state>IA</state>
+  <uid>1394642202</uid>
+</poi>
+<poi>
+  <name>LENEXA</name>
+  <_distance>708.17</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>11200 West 87th Street</address1>
+  <address2></address2>
+  <city>Lenexa</city>
+  <clientkey>Perkins97</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>38.9712033422053</latitude>
+  <longitude>-94.7158629695843</longitude>
+  <phone>913-495-2568</phone>
+  <postalcode>66215</postalcode>
+  <province></province>
+  <state>KS</state>
+  <uid>1394642210</uid>
+</poi>
+<poi>
+  <name>OLATHE</name>
+  <_distance>713.74</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1828 E Santa Fe St.</address1>
+  <address2></address2>
+  <city>Olathe</city>
+  <clientkey>Perkins99</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>38.8838857370332</latitude>
+  <longitude>-94.7871954139105</longitude>
+  <phone>913-764-7288</phone>
+  <postalcode>66062</postalcode>
+  <province></province>
+  <state>KS</state>
+  <uid>1394642212</uid>
+</poi>
+<poi>
+  <name>COUNCIL BLUFFS</name>
+  <_distance>732.63</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>3250 South Expressway</address1>
+  <address2></address2>
+  <city>Council Bluffs</city>
+  <clientkey>Perkins81</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>41.2328732</latitude>
+  <longitude>-95.8309088</longitude>
+  <phone>712-366-0585</phone>
+  <postalcode>51501</postalcode>
+  <province></province>
+  <state>IA</state>
+  <uid>1394642194</uid>
+</poi>
+<poi>
+  <name>LAWRENCE</name>
+  <_distance>736.33</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1711 W 23rd Street</address1>
+  <address2></address2>
+  <city>Lawrence</city>
+  <clientkey>Perkins96</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>38.9427307655502</latitude>
+  <longitude>-95.2557453110048</longitude>
+  <phone>785-842-9040</phone>
+  <postalcode>66046</postalcode>
+  <province></province>
+  <state>KS</state>
+  <uid>1394642209</uid>
+</poi>
+<poi>
+  <name>SIOUX CITY</name>
+  <_distance>753.93</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>5925 Gordon Drive</address1>
+  <address2></address2>
+  <city>Sioux City</city>
+  <clientkey>Perkins91</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>42.4757101877865</latitude>
+  <longitude>-96.3318571043398</longitude>
+  <phone>712-274-6839</phone>
+  <postalcode>51106</postalcode>
+  <province></province>
+  <state>IA</state>
+  <uid>1394642204</uid>
+</poi>
+<poi>
+  <name>SIOUX CITY I</name>
+  <_distance>757.65</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>501 Gordon Drive</address1>
+  <address2></address2>
+  <city>Sioux City</city>
+  <clientkey>Perkins92</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>42.48979</latitude>
+  <longitude>-96.40491</longitude>
+  <phone>712-277-4765</phone>
+  <postalcode>51101</postalcode>
+  <province></province>
+  <state>IA</state>
+  <uid>1394642205</uid>
+</poi>
+<poi>
+  <name>TOPEKA</name>
+  <_distance>760.25</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1720 SW Wanamaker Rd</address1>
+  <address2></address2>
+  <city>Topeka</city>
+  <clientkey>Perkins100</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>39.03541</latitude>
+  <longitude>-95.7619985714286</longitude>
+  <phone>785-273-0300</phone>
+  <postalcode>66604</postalcode>
+  <province></province>
+  <state>KS</state>
+  <uid>1394642213</uid>
+</poi>
+<poi>
+  <name>HOT SPRINGS</name>
+  <_distance>785.99</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>3630 Central Ave</address1>
+  <address2></address2>
+  <city>Hot Springs</city>
+  <clientkey>Perkins49</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>34.4684405578891</latitude>
+  <longitude>-93.0593336148266</longitude>
+  <phone>501-624-5000</phone>
+  <postalcode>71913</postalcode>
+  <province></province>
+  <state>AR</state>
+  <uid>1394642162</uid>
+</poi>
+<poi>
+  <name>GAINESVILLE</name>
+  <_distance>819.43</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>6825 NW 8th Avenue</address1>
+  <address2></address2>
+  <city>Gainesville</city>
+  <clientkey>Perkins15</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>29.6595725333333</latitude>
+  <longitude>-82.4157866666667</longitude>
+  <phone>352-331-0388</phone>
+  <postalcode>32605</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642128</uid>
+</poi>
+<poi>
+  <name>PALM COAST</name>
+  <_distance>826.34</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1000 Palm Coast Parkway</address1>
+  <address2></address2>
+  <city>Palm Coast</city>
+  <clientkey>Perkins34</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>29.55068</latitude>
+  <longitude>-81.23544</longitude>
+  <phone>386-446-7747</phone>
+  <postalcode>32137</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642147</uid>
+</poi>
+<poi>
+  <name>DELAND</name>
+  <_distance>860.61</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1405 North Woodland Blvd</address1>
+  <address2></address2>
+  <city>Deland</city>
+  <clientkey>Perkins10</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>29.0528866666667</latitude>
+  <longitude>-81.3041916666667</longitude>
+  <phone>386-785-0071</phone>
+  <postalcode>32720</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642123</uid>
+</poi>
+<poi>
+  <name>LADY LAKE</name>
+  <_distance>868.46</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>905 Bichara Blvd.</address1>
+  <address2></address2>
+  <city>Lady Lake</city>
+  <clientkey>Perkins19</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>28.93705</latitude>
+  <longitude>-81.9427</longitude>
+  <phone>352-751-0197</phone>
+  <postalcode>32159</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642132</uid>
+</poi>
+<poi>
+  <name>THE VILLAGES</name>
+  <_distance>869.15</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>4110 Wedgewood Lane</address1>
+  <address2></address2>
+  <city>The Villages</city>
+  <clientkey>Perkins43</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>28.9284427536232</latitude>
+  <longitude>-82.0315517391304</longitude>
+  <phone>352-751-0492</phone>
+  <postalcode>32162</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642156</uid>
+</poi>
+<poi>
+  <name>MCPHERSON</name>
+  <_distance>870.30</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>2111 East Kansas Ave</address1>
+  <address2></address2>
+  <city>McPherson</city>
+  <clientkey>Perkins98</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>38.3707168200815</latitude>
+  <longitude>-97.6295864252369</longitude>
+  <phone>620-241-0983</phone>
+  <postalcode>67460</postalcode>
+  <province></province>
+  <state>KS</state>
+  <uid>1394642211</uid>
+</poi>
+<poi>
+  <name>ORANGE CITY</name>
+  <_distance>870.44</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1286 Saxon Blvd.</address1>
+  <address2></address2>
+  <city>Orange City</city>
+  <clientkey>Perkins31</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>28.91115</latitude>
+  <longitude>-81.2761408163265</longitude>
+  <phone>386-851-0073</phone>
+  <postalcode>32763</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642144</uid>
+</poi>
+<poi>
+  <name>MT. DORA</name>
+  <_distance>876.40</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>17080 Hwy 441</address1>
+  <address2></address2>
+  <city>Mt Dora</city>
+  <clientkey>Perkins25</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>28.8204064006801</latitude>
+  <longitude>-81.6717135865672</longitude>
+  <phone>352-735-5191</phone>
+  <postalcode>32757</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642138</uid>
+</poi>
+<poi>
+  <name>LEESBURG</name>
+  <_distance>881.18</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>27811 Route 27</address1>
+  <address2></address2>
+  <city>Leesburg</city>
+  <clientkey>Perkins23</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>28.7520929</latitude>
+  <longitude>-81.8780105</longitude>
+  <phone>352-314-2582</phone>
+  <postalcode>34748</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642136</uid>
+</poi>
+<poi>
+  <name>APOPKA</name>
+  <_distance>885.86</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>989 West Orange Blossom Blvd.</address1>
+  <address2></address2>
+  <city>Apopka</city>
+  <clientkey>Perkins2</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>28.6842226262626</latitude>
+  <longitude>-81.530353030303</longitude>
+  <phone>407-464-1075</phone>
+  <postalcode>32712</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642115</uid>
+</poi>
+<poi>
+  <name>ALTAMONTE SPRINGS</name>
+  <_distance>887.50</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>215 West Highway 436</address1>
+  <address2></address2>
+  <city>Altamonte Spgs</city>
+  <clientkey>Perkins1</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>28.6620521945041</latitude>
+  <longitude>-81.3910053868622</longitude>
+  <phone>407-862-2230</phone>
+  <postalcode>32714</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642114</uid>
+</poi>
+<poi>
+  <name>ORLANDO - WINTER PARK</name>
+  <_distance>892.07</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>6425 University Blvd</address1>
+  <address2></address2>
+  <city>Winter Park</city>
+  <clientkey>Perkins32</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>28.5975833521572</latitude>
+  <longitude>-81.2977093788134</longitude>
+  <phone>407-679-6798</phone>
+  <postalcode>32792</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642145</uid>
+</poi>
+<poi>
+  <name>OCOEE</name>
+  <_distance>895.01</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>10945 W Colonial Drive</address1>
+  <address2></address2>
+  <city>Ocoee</city>
+  <clientkey>Perkins30</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>28.5516232142857</latitude>
+  <longitude>-81.5412375</longitude>
+  <phone>407-656-4383</phone>
+  <postalcode>34761</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642143</uid>
+</poi>
+<poi>
+  <name>SPRING HILL</name>
+  <_distance>900.22</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>4685 Commercial Way</address1>
+  <address2></address2>
+  <city>Spring Hill</city>
+  <clientkey>Perkins41</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>28.4965414285714</latitude>
+  <longitude>-82.5946228571429</longitude>
+  <phone>352-596-2223</phone>
+  <postalcode>34606</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642154</uid>
+</poi>
+<poi>
+  <name>ORLANDO I - SAND LAKE</name>
+  <_distance>902.08</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>6813 Sand Lake Rd</address1>
+  <address2></address2>
+  <city>Orlando</city>
+  <clientkey>Perkins33</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>28.45</latitude>
+  <longitude>-81.47027</longitude>
+  <phone>407-351-0373</phone>
+  <postalcode>32819</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642146</uid>
+</poi>
+<poi>
+  <name>LBV - DISNEY</name>
+  <_distance>906.84</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>12559 State Road 535</address1>
+  <address2></address2>
+  <city>Orlando</city>
+  <clientkey>Perkins22</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>28.38071</latitude>
+  <longitude>-81.50508</longitude>
+  <phone>407-827-1060</phone>
+  <postalcode>32836</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642135</uid>
+</poi>
+<poi>
+  <name>KISSIMMEE III</name>
+  <_distance>909.57</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1600 West Osceola Pkwy</address1>
+  <address2></address2>
+  <city>Kissimmee</city>
+  <clientkey>Perkins18</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>28.3422374808977</latitude>
+  <longitude>-81.4217973744048</longitude>
+  <phone>407-870-0313</phone>
+  <postalcode>34741</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642131</uid>
+</poi>
+<poi>
+  <name>KISSIMMEE II - MAIN GATE</name>
+  <_distance>910.12</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>7451 Irlo Bronson Memorial Hwy</address1>
+  <address2></address2>
+  <city>Kissimmee</city>
+  <clientkey>Perkins17</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>28.3326166799685</latitude>
+  <longitude>-81.5851527917043</longitude>
+  <phone>407-396-0845</phone>
+  <postalcode>34746</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642130</uid>
+</poi>
+<poi>
+  <name>KISSIMMEE I</name>
+  <_distance>910.16</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>5170 Irlo Bronson Memorial Hwy</address1>
+  <address2></address2>
+  <city>Kissimmee</city>
+  <clientkey>Perkins16</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>28.33282</latitude>
+  <longitude>-81.4905717391304</longitude>
+  <phone>407-396-8960</phone>
+  <postalcode>34746</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642129</uid>
+</poi>
+<poi>
+  <name>PORT RICHEY</name>
+  <_distance>912.04</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>11929 US Highway 19</address1>
+  <address2></address2>
+  <city>Port Richey</city>
+  <clientkey>Perkins37</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>28.3303221476817</latitude>
+  <longitude>-82.6993523730238</longitude>
+  <phone>727-862-3581</phone>
+  <postalcode>34668</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642150</uid>
+</poi>
+<poi>
+  <name>BASEBALL &amp; BOARDWALK</name>
+  <_distance>917.41</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>43522 US Highway 27</address1>
+  <address2></address2>
+  <city>Davenport</city>
+  <clientkey>Perkins4</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>28.2269433333333</latitude>
+  <longitude>-81.64669</longitude>
+  <phone>863-424-1823</phone>
+  <postalcode>33837</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642117</uid>
+</poi>
+<poi>
+  <name>VIERA</name>
+  <_distance>918.83</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>8200 N. Wickham Rd</address1>
+  <address2></address2>
+  <city>Viera</city>
+  <clientkey>Perkins45</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>28.23057</latitude>
+  <longitude>-80.70804</longitude>
+  <phone>321-752-5200</phone>
+  <postalcode>32940</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642158</uid>
+</poi>
+<poi>
+  <name>GREAT BEND</name>
+  <_distance>929.30</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>2920 10th St.</address1>
+  <address2></address2>
+  <city>Great Bend</city>
+  <clientkey>Perkins95</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>38.3618</latitude>
+  <longitude>-98.7785332653061</longitude>
+  <phone>620-792-4386</phone>
+  <postalcode>67530</postalcode>
+  <province></province>
+  <state>KS</state>
+  <uid>1394642208</uid>
+</poi>
+<poi>
+  <name>TAMPA (FOWLER)</name>
+  <_distance>930.19</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>5002 E. Fowler Avenue</address1>
+  <address2></address2>
+  <city>Tampa</city>
+  <clientkey>Perkins42</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>28.05451</latitude>
+  <longitude>-82.401742244898</longitude>
+  <phone>813-899-2266</phone>
+  <postalcode>33617</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642155</uid>
+</poi>
+<poi>
+  <name>PALM HARBOR (DUNEDIN)</name>
+  <_distance>931.60</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>2375 Curlew Road</address1>
+  <address2></address2>
+  <city>Dunedin</city>
+  <clientkey>Perkins35</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>28.0488052892974</latitude>
+  <longitude>-82.7401848336177</longitude>
+  <phone>727-789-3085</phone>
+  <postalcode>34698</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642148</uid>
+</poi>
+<poi>
+  <name>WINTER HAVEN</name>
+  <_distance>933.83</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>6005 Cypress Gardens Blvd</address1>
+  <address2></address2>
+  <city>Winter Haven</city>
+  <clientkey>Perkins46</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>27.9892123657322</latitude>
+  <longitude>-81.6884395773445</longitude>
+  <phone>863-875-0620</phone>
+  <postalcode>33884</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642159</uid>
+</poi>
+<poi>
+  <name>CLEARWATER</name>
+  <_distance>937.64</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>2626 Gulf To Bay Blvd</address1>
+  <address2></address2>
+  <city>Clearwater</city>
+  <clientkey>Perkins9</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>27.9606168421053</latitude>
+  <longitude>-82.7287194736842</longitude>
+  <phone>727-799-2019</phone>
+  <postalcode>33759</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642122</uid>
+</poi>
+<poi>
+  <name>BARTOW</name>
+  <_distance>939.75</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>150 E. Van Fleet Drive</address1>
+  <address2></address2>
+  <city>Bartow</city>
+  <clientkey>Perkins3</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>27.904078292131</latitude>
+  <longitude>-81.8425859415048</longitude>
+  <phone>863-533-9688</phone>
+  <postalcode>33830</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642116</uid>
+</poi>
+<poi>
+  <name>LARGO / SEMINOLE</name>
+  <_distance>946.12</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>8841 Park Blvd</address1>
+  <address2></address2>
+  <city>Seminole</city>
+  <clientkey>Perkins21</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>27.8394200876865</latitude>
+  <longitude>-82.7613135074602</longitude>
+  <phone>727-393-3339</phone>
+  <postalcode>33777</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642134</uid>
+</poi>
+<poi>
+  <name>BRADENTON</name>
+  <_distance>973.45</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>6023 14th Street W</address1>
+  <address2></address2>
+  <city>Bradenton</city>
+  <clientkey>Perkins6</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>27.4344385185185</latitude>
+  <longitude>-82.5754240740741</longitude>
+  <phone>941-755-2658</phone>
+  <postalcode>34207</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642119</uid>
+</poi>
+<poi>
+  <name>SARASOTA</name>
+  <_distance>979.76</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>5921 Fruitville Rd.</address1>
+  <address2></address2>
+  <city>Sarasota</city>
+  <clientkey>Perkins39</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>27.3382520400922</latitude>
+  <longitude>-82.4521599676251</longitude>
+  <phone>941-342-6655</phone>
+  <postalcode>34232</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642152</uid>
+</poi>
+<poi>
+  <name>PORT ST. LUCIE</name>
+  <_distance>984.47</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>9202 S. Federal Highway</address1>
+  <address2></address2>
+  <city>Port St. Lucie</city>
+  <clientkey>Perkins38</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>27.3016749033791</latitude>
+  <longitude>-80.3061090939264</longitude>
+  <phone>772-337-0617</phone>
+  <postalcode>34953</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642151</uid>
+</poi>
+<poi>
+  <name>VENICE</name>
+  <_distance>997.41</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1331 South 41 Bypass</address1>
+  <address2></address2>
+  <city>Venice</city>
+  <clientkey>Perkins44</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>27.0816611877294</latitude>
+  <longitude>-82.4250549226009</longitude>
+  <phone>941-497-1154</phone>
+  <postalcode>34292</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642157</uid>
+</poi>
+<poi>
+  <name>NORTH PORT</name>
+  <_distance>1000.25</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>6001 S. Salford Blvd</address1>
+  <address2></address2>
+  <city>North Port</city>
+  <clientkey>Perkins29</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>27.03412</latitude>
+  <longitude>-82.20817</longitude>
+  <phone>941-257-2130</phone>
+  <postalcode>34287</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642142</uid>
+</poi>
+<poi>
+  <name>PORT CHARLOTTE</name>
+  <_distance>1001.89</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1700 Tamiami Trail</address1>
+  <address2></address2>
+  <city>Port Charlotte</city>
+  <clientkey>Perkins36</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>27.0088426004239</latitude>
+  <longitude>-82.137182715194</longitude>
+  <phone>941-255-1155</phone>
+  <postalcode>33948</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642149</uid>
+</poi>
+<poi>
+  <name>FORT MYERS NORTH</name>
+  <_distance>1025.45</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>13620 N Cleveland Avenue</address1>
+  <address2></address2>
+  <city>North Fort Myers</city>
+  <clientkey>Perkins13</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>26.6641227135678</latitude>
+  <longitude>-81.8868601507538</longitude>
+  <phone>239-656-1999</phone>
+  <postalcode>33903</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642126</uid>
+</poi>
+<poi>
+  <name>CAPE CORAL (DEL PRADO)</name>
+  <_distance>1028.30</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1551 Del Prado Boulevard S.</address1>
+  <address2></address2>
+  <city>Cape Coral</city>
+  <clientkey>Perkins7</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>26.6234125</latitude>
+  <longitude>-81.9407734090909</longitude>
+  <phone>239-772-9000</phone>
+  <postalcode>33990</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642120</uid>
+</poi>
+<poi>
+  <name>LEHIGH ACRES</name>
+  <_distance>1028.62</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>2700 Lee Blvd</address1>
+  <address2></address2>
+  <city>Lehigh Acres</city>
+  <clientkey>Perkins24</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>26.61735</latitude>
+  <longitude>-81.66759</longitude>
+  <phone>239-369-1118</phone>
+  <postalcode>33971</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642137</uid>
+</poi>
+<poi>
+  <name>LAKE WORTH</name>
+  <_distance>1032.23</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>7859 Lake Worth Road</address1>
+  <address2></address2>
+  <city>Lake Worth</city>
+  <clientkey>Perkins20</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>26.6175441414141</latitude>
+  <longitude>-80.1706748484849</longitude>
+  <phone>561-964-3933</phone>
+  <postalcode>33467</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642133</uid>
+</poi>
+<poi>
+  <name>FT. MYERS SOUTH</name>
+  <_distance>1032.41</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>12300 Cleveland Avenue</address1>
+  <address2></address2>
+  <city>Ft Myers</city>
+  <clientkey>Perkins14</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>26.5632635294118</latitude>
+  <longitude>-81.8719905882353</longitude>
+  <phone>239-936-1150</phone>
+  <postalcode>33907</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642127</uid>
+</poi>
+<poi>
+  <name>CAPE CORAL II</name>
+  <_distance>1032.51</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1502 Cape Coral Pkwy</address1>
+  <address2></address2>
+  <city>Cape Coral</city>
+  <clientkey>Perkins8</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>26.5625397959184</latitude>
+  <longitude>-81.9455173469388</longitude>
+  <phone>239-540-8181</phone>
+  <postalcode>33904</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642121</uid>
+</poi>
+<poi>
+  <name>SIX MILE CYPRESS</name>
+  <_distance>1034.89</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>14801 S. Tamiami Trail</address1>
+  <address2></address2>
+  <city>Ft. Myers</city>
+  <clientkey>Perkins40</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>26.5273</latitude>
+  <longitude>-81.87114</longitude>
+  <phone>239-590-9744</phone>
+  <postalcode>33912</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642153</uid>
+</poi>
+<poi>
+  <name>FORT MYERS BEACH</name>
+  <_distance>1037.29</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>11410 Summerlin Square</address1>
+  <address2></address2>
+  <city>Ft Myers Beach</city>
+  <clientkey>Perkins12</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>26.493307</latitude>
+  <longitude>-81.942643</longitude>
+  <phone>239-466-2800</phone>
+  <postalcode>33931</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642125</uid>
+</poi>
+<poi>
+  <name>ESTERO</name>
+  <_distance>1041.04</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>20320 Grande Oak Shoppes Blvd</address1>
+  <address2></address2>
+  <city>Estero</city>
+  <clientkey>Perkins11</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>26.4377242398327</latitude>
+  <longitude>-81.7700242655264</longitude>
+  <phone>239-498-8773</phone>
+  <postalcode>33928</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642124</uid>
+</poi>
+<poi>
+  <name>BONITA SPRINGS</name>
+  <_distance>1048.40</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>27941 Crown Lake Blvd</address1>
+  <address2></address2>
+  <city>Bonita Springs</city>
+  <clientkey>Perkins5</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>26.3313627586207</latitude>
+  <longitude>-81.8039334482759</longitude>
+  <phone>239-498-0300</phone>
+  <postalcode>34135</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642118</uid>
+</poi>
+<poi>
+  <name>NAPLES III</name>
+  <_distance>1056.66</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>3585 Pine Ridge Road</address1>
+  <address2></address2>
+  <city>Naples</city>
+  <clientkey>Perkins28</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>26.21159</latitude>
+  <longitude>-81.7456389738444</longitude>
+  <phone>239-596-0700</phone>
+  <postalcode>34109</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642141</uid>
+</poi>
+<poi>
+  <name>NAPLES I</name>
+  <_distance>1057.53</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>4255 Tamiami Trail N</address1>
+  <address2></address2>
+  <city>Naples</city>
+  <clientkey>Perkins26</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>26.19919</latitude>
+  <longitude>-81.80031</longitude>
+  <phone>239-261-8009</phone>
+  <postalcode>34103</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642139</uid>
+</poi>
+<poi>
+  <name>NAPLES II</name>
+  <_distance>1063.41</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>4335 Tamiami Trail E</address1>
+  <address2></address2>
+  <city>Naples</city>
+  <clientkey>Perkins27</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>26.1138937879072</latitude>
+  <longitude>-81.7539139270679</longitude>
+  <phone>239-775-8200</phone>
+  <postalcode>34112</postalcode>
+  <province></province>
+  <state>FL</state>
+  <uid>1394642140</uid>
+</poi>
+<poi>
+  <name>GREELEY</name>
+  <_distance>1200.46</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>2297 Greeley Mall</address1>
+  <address2></address2>
+  <city>Greeley</city>
+  <clientkey>Perkins54</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>40.3907623565633</latitude>
+  <longitude>-104.714851766023</longitude>
+  <phone>970-352-9251</phone>
+  <postalcode>80631</postalcode>
+  <province></province>
+  <state>CO</state>
+  <uid>1394642167</uid>
+</poi>
+<poi>
+  <name>LOVELAND (CROSSROADS BLVD @ CLYDESDALE PKWY)</name>
+  <_distance>1213.95</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>Crossroads Blvd &amp; Clydesdale Pkwy</address1>
+  <address2></address2>
+  <city>Loveland</city>
+  <clientkey>Perkins57</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>40.43607</latitude>
+  <longitude>-104.98795</longitude>
+  <phone>970-685-4082</phone>
+  <postalcode>80538</postalcode>
+  <province></province>
+  <state>CO</state>
+  <uid>1394642170</uid>
+</poi>
+<poi>
+  <name>FORT COLLINS II</name>
+  <_distance>1216.61</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>310 S College Ave</address1>
+  <address2></address2>
+  <city>Fort Collins</city>
+  <clientkey>Perkins52</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>40.5841020408163</latitude>
+  <longitude>-105.07698</longitude>
+  <phone>970-484-5981</phone>
+  <postalcode>80524</postalcode>
+  <province></province>
+  <state>CO</state>
+  <uid>1394642165</uid>
+</poi>
+<poi>
+  <name>LOVELAND</name>
+  <_distance>1220.55</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>2222 West Eisenhower</address1>
+  <address2></address2>
+  <city>Loveland</city>
+  <clientkey>Perkins56</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>40.4072944444444</latitude>
+  <longitude>-105.108312222222</longitude>
+  <phone>970-663-1944</phone>
+  <postalcode>80537</postalcode>
+  <province></province>
+  <state>CO</state>
+  <uid>1394642169</uid>
+</poi>
+<poi>
+  <name>WESTMINSTER</name>
+  <_distance>1221.75</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>12015 Melody Drive</address1>
+  <address2></address2>
+  <city>Westminster</city>
+  <clientkey>Perkins58</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>39.9143328571429</latitude>
+  <longitude>-104.994678571429</longitude>
+  <phone>303-452-6200</phone>
+  <postalcode>80234</postalcode>
+  <province></province>
+  <state>CO</state>
+  <uid>1394642171</uid>
+</poi>
+<poi>
+  <name>DENVER</name>
+  <_distance>1222.63</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1995 S Colorado Blvd</address1>
+  <address2></address2>
+  <city>Denver</city>
+  <clientkey>Perkins51</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>39.6801770763232</latitude>
+  <longitude>-104.940766957021</longitude>
+  <phone>303-757-7155</phone>
+  <postalcode>80222</postalcode>
+  <province></province>
+  <state>CO</state>
+  <uid>1394642164</uid>
+</poi>
+<poi>
+  <name>LONGMONT</name>
+  <_distance>1223.18</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>2051 N. Main</address1>
+  <address2></address2>
+  <city>Longmont</city>
+  <clientkey>Perkins55</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>40.1948553061224</latitude>
+  <longitude>-105.102370408163</longitude>
+  <phone>303-772-1410</phone>
+  <postalcode>80501</postalcode>
+  <province></province>
+  <state>CO</state>
+  <uid>1394642168</uid>
+</poi>
+<poi>
+  <name>ARVADA</name>
+  <_distance>1225.69</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>8691 Sheridan Blvd.</address1>
+  <address2></address2>
+  <city>Arvada</city>
+  <clientkey>Perkins50</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>39.8531095559404</latitude>
+  <longitude>-105.052768410301</longitude>
+  <phone>303-427-5740</phone>
+  <postalcode>80003</postalcode>
+  <province></province>
+  <state>CO</state>
+  <uid>1394642163</uid>
+</poi>
+<poi>
+  <name>GOLDEN</name>
+  <_distance>1231.37</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1495 Simms St.</address1>
+  <address2></address2>
+  <city>Golden</city>
+  <clientkey>Perkins53</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>39.7400158333333</latitude>
+  <longitude>-105.128275833333</longitude>
+  <phone>303-237-1339</phone>
+  <postalcode>80401</postalcode>
+  <province></province>
+  <state>CO</state>
+  <uid>1394642166</uid>
+</poi>
+<poi>
+  <name>IDAHO FALLS</name>
+  <_distance>1541.19</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>2000 Channing Way</address1>
+  <address2></address2>
+  <city>Idaho Falls</city>
+  <clientkey>Perkins62</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>43.48023</latitude>
+  <longitude>-111.99126</longitude>
+  <phone>208-529-9955</phone>
+  <postalcode>83404</postalcode>
+  <province></province>
+  <state>ID</state>
+  <uid>1394642175</uid>
+</poi>
+<poi>
+  <name>POCATELLO</name>
+  <_distance>1567.60</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1600 Pocatello Creek</address1>
+  <address2></address2>
+  <city>Pocatello</city>
+  <clientkey>Perkins63</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>42.8987663636364</latitude>
+  <longitude>-112.431448181818</longitude>
+  <phone>208-233-0006</phone>
+  <postalcode>83201</postalcode>
+  <province></province>
+  <state>ID</state>
+  <uid>1394642176</uid>
+</poi>
+<poi>
+  <name>BURLEY</name>
+  <_distance>1639.09</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>800 N Overland Avenue</address1>
+  <address2></address2>
+  <city>Burley</city>
+  <clientkey>Perkins61</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>42.5644713773242</latitude>
+  <longitude>-113.791130700076</longitude>
+  <phone>208-678-1304</phone>
+  <postalcode>83318</postalcode>
+  <province></province>
+  <state>ID</state>
+  <uid>1394642174</uid>
+</poi>
+<poi>
+  <name>TWIN FALLS</name>
+  <_distance>1672.49</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>1564 Blue Lake Blvd</address1>
+  <address2></address2>
+  <city>Twin Falls</city>
+  <clientkey>Perkins64</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>42.5895166233766</latitude>
+  <longitude>-114.460129220779</longitude>
+  <phone>208-736-8417</phone>
+  <postalcode>83301</postalcode>
+  <province></province>
+  <state>ID</state>
+  <uid>1394642177</uid>
+</poi>
+<poi>
+  <name>BULLHEAD CITY</name>
+  <_distance>1826.25</_distance>
+  <_distanceuom>mile</_distanceuom>
+  <address1>2250 Highway 95</address1>
+  <address2></address2>
+  <city>Bullhead City</city>
+  <clientkey>Perkins47</clientkey>
+  <country>US</country>
+  <fax></fax>
+  <icon>default</icon>
+  <latitude>35.10557</latitude>
+  <longitude>-114.59804</longitude>
+  <phone>928-763-1960</phone>
+  <postalcode>86442</postalcode>
+  <province></province>
+  <state>AZ</state>
+  <uid>1394642160</uid>
+</poi>
+</collection></response>

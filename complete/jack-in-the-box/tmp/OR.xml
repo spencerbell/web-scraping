@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<location_resultset>
+<locations count="54">
+<location hrs='7' >
+<address><![CDATA[1825 Pacific Blvd Se]]></address>
+<city><![CDATA[Albany]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97321]]></zip>
+<phone><![CDATA[(541) 967-6107]]></phone>
+<location_id><![CDATA[7158]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[9450 Sw Beaverton Hillsdale Hw]]></address>
+<city><![CDATA[Beaverton]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97005]]></zip>
+<phone><![CDATA[(503) 297-7044]]></phone>
+<location_id><![CDATA[7114]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2920 Sw Cedar Hills Blvd]]></address>
+<city><![CDATA[Beaverton]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97005]]></zip>
+<phone><![CDATA[(503) 627-0205]]></phone>
+<location_id><![CDATA[7118]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2145 Nw Town Center Dr]]></address>
+<city><![CDATA[Beaverton]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97006]]></zip>
+<phone><![CDATA[(503) 439-6431]]></phone>
+<location_id><![CDATA[7131]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[805 Ne Third St]]></address>
+<city><![CDATA[Bend]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97701]]></zip>
+<phone><![CDATA[(541) 330-1300]]></phone>
+<location_id><![CDATA[7172]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[550 Ne Circle Blvd]]></address>
+<city><![CDATA[Corvallis]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97330]]></zip>
+<phone><![CDATA[(541) 757-3399]]></phone>
+<location_id><![CDATA[7147]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1525 Gateway Blvd]]></address>
+<city><![CDATA[Cottage Grove]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97424]]></zip>
+<phone><![CDATA[(541) 942-7010]]></phone>
+<location_id><![CDATA[7174]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4384 Commerce St]]></address>
+<city><![CDATA[Eugene]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97402]]></zip>
+<phone><![CDATA[(541) 343-4114]]></phone>
+<location_id><![CDATA[7159]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1788 W 6th Ave]]></address>
+<city><![CDATA[Eugene]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97402]]></zip>
+<phone><![CDATA[(541) 343-1435]]></phone>
+<location_id><![CDATA[7153]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3206 Pacific Ave]]></address>
+<city><![CDATA[Forest Grove]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97116]]></zip>
+<phone><![CDATA[(503) 359-5346]]></phone>
+<location_id><![CDATA[7170]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[120 Hillcrest Dr]]></address>
+<city><![CDATA[Grants Pass]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97526]]></zip>
+<phone><![CDATA[(541) 474-7167]]></phone>
+<location_id><![CDATA[7167]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[25678 Se Stark St]]></address>
+<city><![CDATA[Gresham]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97030]]></zip>
+<phone><![CDATA[(503) 674-8107]]></phone>
+<location_id><![CDATA[7116]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2196 Ne Burnside Rd]]></address>
+<city><![CDATA[Gresham]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97030]]></zip>
+<phone><![CDATA[(503) 492-4791]]></phone>
+<location_id><![CDATA[7168]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1305 N 1st St]]></address>
+<city><![CDATA[Hermiston]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97838]]></zip>
+<phone><![CDATA[(541) 567-3671]]></phone>
+<location_id><![CDATA[7140]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[21965 Nw Imbrie Dr]]></address>
+<city><![CDATA[Hillsboro]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97124]]></zip>
+<phone><![CDATA[(503) 693-8769]]></phone>
+<location_id><![CDATA[7150]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1525 Se 21st Ave]]></address>
+<city><![CDATA[Hillsboro]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97123]]></zip>
+<phone><![CDATA[(503) 615-0957]]></phone>
+<location_id><![CDATA[7120]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7563 Se Tualatin Valley Hwy]]></address>
+<city><![CDATA[Hillsboro]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97123]]></zip>
+<phone><![CDATA[(503) 356-1796]]></phone>
+<location_id><![CDATA[7129]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3040 Washburn Wy]]></address>
+<city><![CDATA[Klamath Falls]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97603]]></zip>
+<phone><![CDATA[(541) 885-7171]]></phone>
+<location_id><![CDATA[7171]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2020 S Santiam Hwy]]></address>
+<city><![CDATA[Lebanon]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97355]]></zip>
+<phone><![CDATA[(541) 258-7178]]></phone>
+<location_id><![CDATA[7178]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2565 Ne Highway 99w]]></address>
+<city><![CDATA[Mcminnville]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97128]]></zip>
+<phone><![CDATA[(503) 474-9717]]></phone>
+<location_id><![CDATA[7119]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[309 E Barnett Rd]]></address>
+<city><![CDATA[Medford]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97501]]></zip>
+<phone><![CDATA[(541) 779-0506]]></phone>
+<location_id><![CDATA[7103]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2002 N Pacific Hwy]]></address>
+<city><![CDATA[Medford]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97501]]></zip>
+<phone><![CDATA[(541) 779-3208]]></phone>
+<location_id><![CDATA[7102]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[4150 S Pacific Hwy]]></address>
+<city><![CDATA[Medford]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97501]]></zip>
+<phone><![CDATA[(541) 535-7822]]></phone>
+<location_id><![CDATA[7166]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[14811 Se Mcloughlin Blvd]]></address>
+<city><![CDATA[Milwaukie]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97267]]></zip>
+<phone><![CDATA[(503) 353-9435]]></phone>
+<location_id><![CDATA[7123]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1407 Sw 4th Ave]]></address>
+<city><![CDATA[Ontario]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97914]]></zip>
+<phone><![CDATA[(541) 889-8646]]></phone>
+<location_id><![CDATA[7107]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[19009 S Beavercreek Rd]]></address>
+<city><![CDATA[Oregon City]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97045]]></zip>
+<phone><![CDATA[(503) 657-9868]]></phone>
+<location_id><![CDATA[7132]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1904 Sw Court Pl]]></address>
+<city><![CDATA[Pendleton]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97801]]></zip>
+<phone><![CDATA[(541) 278-7877]]></phone>
+<location_id><![CDATA[7149]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[19110 Se Stark St]]></address>
+<city><![CDATA[Portland]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97233]]></zip>
+<phone><![CDATA[(503) 667-5393]]></phone>
+<location_id><![CDATA[7112]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2260 Nw Wilson St]]></address>
+<city><![CDATA[Portland]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97210]]></zip>
+<phone><![CDATA[(503) 224-2267]]></phone>
+<location_id><![CDATA[7160]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[12444 Ne Airport Way]]></address>
+<city><![CDATA[Portland]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97230]]></zip>
+<phone><![CDATA[(503) 253-1437]]></phone>
+<location_id><![CDATA[7157]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2714 Ne 57th Ave]]></address>
+<city><![CDATA[Portland]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97213]]></zip>
+<phone><![CDATA[(503) 282-8449]]></phone>
+<location_id><![CDATA[7126]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[921 S E Powell Blvd]]></address>
+<city><![CDATA[Portland]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97202]]></zip>
+<phone><![CDATA[(503) 230-8930]]></phone>
+<location_id><![CDATA[7105]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[4242 Se 82nd Ave]]></address>
+<city><![CDATA[Portland]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97266]]></zip>
+<phone><![CDATA[(503) 772-1341]]></phone>
+<location_id><![CDATA[7121]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7921 Martin Luther King Blvd]]></address>
+<city><![CDATA[Portland]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97211]]></zip>
+<phone><![CDATA[(503) 285-7430]]></phone>
+<location_id><![CDATA[7124]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[500 Se 105th Ave]]></address>
+<city><![CDATA[Portland]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97216]]></zip>
+<phone><![CDATA[(503) 408-1519]]></phone>
+<location_id><![CDATA[7122]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[10500 Se 82nd Ave]]></address>
+<city><![CDATA[Portland]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97086]]></zip>
+<phone><![CDATA[(503) 775-6062]]></phone>
+<location_id><![CDATA[7143]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1830 N Highway 97]]></address>
+<city><![CDATA[Redmond]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97756]]></zip>
+<phone><![CDATA[(541) 504-4475]]></phone>
+<location_id><![CDATA[7175]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1400 Ne Stephens St]]></address>
+<city><![CDATA[Roseburg]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97470]]></zip>
+<phone><![CDATA[(541) 464-8025]]></phone>
+<location_id><![CDATA[7135]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4195 Portland Rd Ne]]></address>
+<city><![CDATA[Salem]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97301]]></zip>
+<phone><![CDATA[(503) 363-3749]]></phone>
+<location_id><![CDATA[7136]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1940 Lancaster Dr Ne]]></address>
+<city><![CDATA[Salem]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97305]]></zip>
+<phone><![CDATA[(503) 362-8850]]></phone>
+<location_id><![CDATA[7115]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2801 Broadway St Ne]]></address>
+<city><![CDATA[Salem]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97303]]></zip>
+<phone><![CDATA[(503) 585-4830]]></phone>
+<location_id><![CDATA[7117]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4770 Commercial St Se]]></address>
+<city><![CDATA[Salem]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97302]]></zip>
+<phone><![CDATA[(503) 566-7240]]></phone>
+<location_id><![CDATA[7152]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2480 Mission St Se]]></address>
+<city><![CDATA[Salem]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97302]]></zip>
+<phone><![CDATA[(503) 763-0393]]></phone>
+<location_id><![CDATA[7144]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[37151 Highway 26]]></address>
+<city><![CDATA[Sandy]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97055]]></zip>
+<phone><![CDATA[(503) 668-0724]]></phone>
+<location_id><![CDATA[7169]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3491 Hutton St]]></address>
+<city><![CDATA[Springfield]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97477]]></zip>
+<phone><![CDATA[(541) 736-8168]]></phone>
+<location_id><![CDATA[7145]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4175 Main St]]></address>
+<city><![CDATA[Springfield]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97478]]></zip>
+<phone><![CDATA[(541) 736-3861]]></phone>
+<location_id><![CDATA[7133]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1805 Pioneer Pkwy E]]></address>
+<city><![CDATA[Springfield]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97477]]></zip>
+<phone><![CDATA[(541) 736-4934]]></phone>
+<location_id><![CDATA[7139]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1407 W 6th St]]></address>
+<city><![CDATA[The Dalles]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97058]]></zip>
+<phone><![CDATA[(541) 296-4526]]></phone>
+<location_id><![CDATA[7177]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[13090 Sw Pacific Hwy]]></address>
+<city><![CDATA[Tigard]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97223]]></zip>
+<phone><![CDATA[(503) 624-9594]]></phone>
+<location_id><![CDATA[7127]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7700 Sw Nyberg St]]></address>
+<city><![CDATA[Tualatin]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97062]]></zip>
+<phone><![CDATA[(503) 885-1389]]></phone>
+<location_id><![CDATA[7155]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1865 Blankenship Rd]]></address>
+<city><![CDATA[West Linn]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97068]]></zip>
+<phone><![CDATA[(503) 657-1961]]></phone>
+<location_id><![CDATA[7111]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2401 Ave A]]></address>
+<city><![CDATA[White City]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97503]]></zip>
+<phone><![CDATA[(541) 826-2010]]></phone>
+<location_id><![CDATA[7182]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2602 Ne 238th Dr]]></address>
+<city><![CDATA[Wood Village]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97060]]></zip>
+<phone><![CDATA[(503) 666-1282]]></phone>
+<location_id><![CDATA[7154]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[110 Arney Rd]]></address>
+<city><![CDATA[Woodburn]]></city>
+<state><![CDATA[OR]]></state>
+<zip><![CDATA[97071]]></zip>
+<phone><![CDATA[(503) 981-3338]]></phone>
+<location_id><![CDATA[7128]]></location_id>
+</location>
+</locations></location_resultset>
+						

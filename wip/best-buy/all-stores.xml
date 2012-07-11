@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/v1/xsl/xml_pretty_printer.xsl" type="text/xsl"?>
+<stores currentPage="1" totalPages="141" from="1" to="10" total="1406" queryTime="0.007" totalTime="0.018" canonicalUrl="/v1/stores?apiKey=5aztppc7cu6ya7mua2aqrv8p" partial="false">
+                <store><storeId>1118</storeId>
+<name>Hato Rey</name>
+<longName>Best Buy - Hato Rey</longName>
+<address>230 Calle Federico Costa Hato Rey</address>
+<city>San Juan</city>
+<region>PR</region>
+<postalCode>00918</postalCode>
+<fullPostalCode>00918</fullPostalCode>
+<country>US</country>
+<lat>18.42684</lat>
+<lng>-66.07188</lng>
+<phone>787-764-4900</phone>
+<hours>Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-9; Sat: 10-9; Sun: 11-7</hours></store>
+<store><storeId>1090</storeId>
+<name>Rio Hondo</name>
+<longName>Best Buy - Rio Hondo</longName>
+<address>60 Ave Rio Hondo Ste 60</address>
+<city>Bayamon</city>
+<region>PR</region>
+<postalCode>00961</postalCode>
+<fullPostalCode>00961</fullPostalCode>
+<country>US</country>
+<lat>18.42217</lat>
+<lng>-66.16224</lng>
+<phone>787-522-0999</phone>
+<hours>Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-9; Sat: 10-9; Sun: 11-7</hours></store>
+<store><storeId>1496</storeId>
+<name>Plaza Carolina</name>
+<longName>Best Buy - Plaza Carolina</longName>
+<address>Villa Fontana Ave Fragoso</address>
+<city>Plaza Carolina</city>
+<region>PR</region>
+<postalCode>00983</postalCode>
+<fullPostalCode>00983</fullPostalCode>
+<country>US</country>
+<lat>18.3912915</lat>
+<lng>-65.9688829</lng>
+<phone>787-522-4549</phone>
+<hours>Mon: 9-9; Tue: 9-9; Wed: 9-9; Thurs: 9-9; Fri: 9-9; Sat: 9-9; Sun: 11-7</hours></store>
+<store><storeId>683</storeId>
+<name>Hadley</name>
+<longName>Best Buy - Hadley</longName>
+<address>367 Russell St</address>
+<city>Hadley</city>
+<region>MA</region>
+<postalCode>01035</postalCode>
+<fullPostalCode>01035</fullPostalCode>
+<country>US</country>
+<lat>42.357971</lat>
+<lng>-72.54847</lng>
+<phone>413-587-4011</phone>
+<hours>Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-9; Sat: 10-9; Sun: 11-7</hours></store>
+<store><storeId>418</storeId>
+<name>Holyoke</name>
+<longName>Best Buy - Holyoke</longName>
+<address>50 Holyoke St</address>
+<city>Holyoke</city>
+<region>MA</region>
+<postalCode>01040</postalCode>
+<fullPostalCode>01040</fullPostalCode>
+<country>US</country>
+<lat>42.169613</lat>
+<lng>-72.643005</lng>
+<phone>413-533-4443</phone>
+<hours>Mon: 10-9:30; Tue: 10-9:30; Wed: 10-9:30; Thurs: 10-9:30; Fri: 10-9:30; Sat: 10-9:30; Sun: 11-7</hours></store>
+<store><storeId>2843</storeId>
+<name>Best Buy Mobile - Holyoke Mall</name>
+<longName>Best Buy Mobile - Holyoke Mall</longName>
+<address>#B216, 50 Holyoke Street, ingleside mall</address>
+<city>Holyoke</city>
+<region>MA</region>
+<postalCode>01040</postalCode>
+<fullPostalCode>01040</fullPostalCode>
+<country>US</country>
+<lat>42.17108</lat>
+<lng>-72.640241</lng>
+<phone>413-535-2070</phone>
+<hours>Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-9; Sat: 10-9; Sun: 11-9:30</hours></store>
+<store><storeId>548</storeId>
+<name>Pittsfield</name>
+<longName>Best Buy - Pittsfield</longName>
+<address>655 Cheshire Rd</address>
+<city>Lanesboro</city>
+<region>MA</region>
+<postalCode>01237</postalCode>
+<fullPostalCode>01237</fullPostalCode>
+<country>US</country>
+<lat>42.493664</lat>
+<lng>-73.205688</lng>
+<phone>413-445-5812</phone>
+<hours>Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-9; Sat: 10-9; Sun: 11-7</hours></store>
+<store><storeId>1433</storeId>
+<name>Leominster</name>
+<longName>Best Buy - Leominster</longName>
+<address>33 Orchard Hill Park Dr</address>
+<city>Leominster</city>
+<region>MA</region>
+<postalCode>01453</postalCode>
+<fullPostalCode>01453</fullPostalCode>
+<country>US</country>
+<lat>42.527382</lat>
+<lng>-71.712425</lng>
+<phone>978-537-9042</phone>
+<hours>Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-9; Sat: 10-9; Sun: 11-7</hours></store>
+<store><storeId>2506</storeId>
+<name>Millbury</name>
+<longName>Best Buy - Millbury</longName>
+<address>70 Worcester Providence Turnpike</address>
+<city>Millbury</city>
+<region>MA</region>
+<postalCode>01527</postalCode>
+<fullPostalCode>01527</fullPostalCode>
+<country>US</country>
+<lat>42.19519</lat>
+<lng>-71.77605</lng>
+<phone>508-421-9149</phone>
+<hours>Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-9; Sat: 10-9; Sun: 11-7</hours></store>
+<store><storeId>567</storeId>
+<name>Worcester</name>
+<longName>Best Buy - Worcester</longName>
+<address>7 Neponset St</address>
+<city>Worcester</city>
+<region>MA</region>
+<postalCode>01606</postalCode>
+<fullPostalCode>01606</fullPostalCode>
+<country>US</country>
+<lat>42.295692</lat>
+<lng>-71.798485</lng>
+<phone>508-852-1800</phone>
+<hours>Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-9; Sat: 10-9; Sun: 11-7</hours></store>
+        </stores>
+      

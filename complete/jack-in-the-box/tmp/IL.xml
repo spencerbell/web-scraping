@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<location_resultset>
+<locations count="13">
+<location hrs='7' >
+<address><![CDATA[1649 Washington Ave]]></address>
+<city><![CDATA[Alton]]></city>
+<state><![CDATA[IL]]></state>
+<zip><![CDATA[62002]]></zip>
+<phone><![CDATA[(618) 465-0093]]></phone>
+<location_id><![CDATA[1405]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[101 Homer M Adams Pkwy]]></address>
+<city><![CDATA[Alton]]></city>
+<state><![CDATA[IL]]></state>
+<zip><![CDATA[62002]]></zip>
+<phone><![CDATA[(618) 462-9905]]></phone>
+<location_id><![CDATA[1408]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[500 S Illinois St]]></address>
+<city><![CDATA[Belleville]]></city>
+<state><![CDATA[IL]]></state>
+<zip><![CDATA[62220]]></zip>
+<phone><![CDATA[(618) 235-9008]]></phone>
+<location_id><![CDATA[1415]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[9502 Collinsville Rd]]></address>
+<city><![CDATA[Collinsville]]></city>
+<state><![CDATA[IL]]></state>
+<zip><![CDATA[62234]]></zip>
+<phone><![CDATA[(618) 344-7848]]></phone>
+<location_id><![CDATA[1411]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[300 S Buchanan St]]></address>
+<city><![CDATA[Edwardsville]]></city>
+<state><![CDATA[IL]]></state>
+<zip><![CDATA[62025]]></zip>
+<phone><![CDATA[(618) 692-1414]]></phone>
+<location_id><![CDATA[1414]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[31 Junction Dr]]></address>
+<city><![CDATA[Glen Carbon]]></city>
+<state><![CDATA[IL]]></state>
+<zip><![CDATA[62034]]></zip>
+<phone><![CDATA[(618) 655-0570]]></phone>
+<location_id><![CDATA[1418]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[3330 Nameoki Rd]]></address>
+<city><![CDATA[Granite City]]></city>
+<state><![CDATA[IL]]></state>
+<zip><![CDATA[62040]]></zip>
+<phone><![CDATA[(618) 877-8884]]></phone>
+<location_id><![CDATA[1402]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2163 Madison Ave]]></address>
+<city><![CDATA[Granite City]]></city>
+<state><![CDATA[IL]]></state>
+<zip><![CDATA[62040]]></zip>
+<phone><![CDATA[(618) 452-5847]]></phone>
+<location_id><![CDATA[1416]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[1 Corvette Dr]]></address>
+<city><![CDATA[Litchfield]]></city>
+<state><![CDATA[IL]]></state>
+<zip><![CDATA[62056]]></zip>
+<phone><![CDATA[(217) 324-3300]]></phone>
+<location_id><![CDATA[1421]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1360 W Us Highway 50]]></address>
+<city><![CDATA[O Fallon]]></city>
+<state><![CDATA[IL]]></state>
+<zip><![CDATA[62269]]></zip>
+<phone><![CDATA[(618) 632-1460]]></phone>
+<location_id><![CDATA[1412]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1800 N Illinois St]]></address>
+<city><![CDATA[Swansea]]></city>
+<state><![CDATA[IL]]></state>
+<zip><![CDATA[62226]]></zip>
+<phone><![CDATA[(618) 277-1822]]></phone>
+<location_id><![CDATA[1410]]></location_id>
+</location>
+<location hrs='0' >
+<address><![CDATA[830 Edwardsville Rd]]></address>
+<city><![CDATA[Troy]]></city>
+<state><![CDATA[IL]]></state>
+<zip><![CDATA[62294]]></zip>
+<phone><![CDATA[(618) 667-3000]]></phone>
+<location_id><![CDATA[1413]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[41 E Edwardsville Rd]]></address>
+<city><![CDATA[Wood River]]></city>
+<state><![CDATA[IL]]></state>
+<zip><![CDATA[62095]]></zip>
+<phone><![CDATA[(618) 254-2098]]></phone>
+<location_id><![CDATA[1403]]></location_id>
+</location>
+</locations></location_resultset>
+						

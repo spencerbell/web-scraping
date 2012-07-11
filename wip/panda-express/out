@@ -1,0 +1,629 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    
+<title>Panda Express |
+    Find a Location Near You, Fast-Casual Chinese Food</title>
+<meta name="description" content="Find the nearest Panda Express and hurry in to try our delicious Asian-inspired cuisine. Use Meal Builder to check nutrition facts and plan ahead with friends! " />
+
+<script type="text/javascript">
+    //this sets the base image url for all images, do not remove this code
+    ImageUrl = 'http://s3.amazonaws.com/PandaExpressWebsite/files';
+</script>
+<link rel="stylesheet" type="text/css" href="/css/Panda.css" />
+<link rel="stylesheet" type="text/css" href="/css/jquery-ui-1.8.18.custom.css" />
+<script type="text/javascript" src="/Scripts/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="/Scripts/jquery-ui-1.8.18.custom.min.js"></script>
+<script type="text/javascript" src="/Scripts/jquery.util.js"></script>
+<script type="text/javascript" src="/Scripts/jquery.dTselect.js"></script>
+<script type="text/javascript" src="/Scripts/jquery.dTvideo.js"></script>
+<script type="text/javascript" src="/Scripts/jquery.dTcarousel.js"></script>
+<script type="text/javascript" src="/Scripts/jquery.dThoverbar.js"></script>
+<script type="text/javascript" src="/Scripts/panda.js"></script>
+<script type="text/javascript" src="/Scripts/modernizr.js"></script>
+<script type="text/javascript" src="/Scripts/jquery.scrollto.js"></script>
+<script type="text/javascript" src="/Scripts/jquery.scroll-parallax.js"></script>
+<script type="text/javascript" src="/Scripts/jquery.validate.min.js"></script>
+<script type="text/javascript" src="/Scripts/jquery.validate.unobtrusive.min.js"></script>
+<script type="text/javascript" src="/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+<script type="text/javascript" src="/Scripts/panda.features.js"></script>
+<script type="text/javascript" src="/Scripts/panda.pawplate.js"></script>
+<script type="text/javascript" src="/Scripts/panda.emailsignup.js"></script>
+<script type="text/javascript">
+    ie9 = false;
+    ie8 = false;
+</script>
+<!--[if IE 9]>
+		<script type="text/javascript">
+			ie9 = true;
+		</script>
+	<![endif]-->
+<!--[if lt IE 9]>
+		<link rel="stylesheet" type="text/css" href="/css/panda.ie.css" />
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<script type="text/javascript">
+			ie8 = true;
+		</script>
+		<script type="text/javascript" src="/Scripts/panda.ie.js"></script>
+	<![endif]-->
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-17557903-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+
+    
+    <script type="text/javascript">
+        $(document).ready(function () {
+            
+        });
+    </script>
+</head>
+<body id="">
+    <div id="information-dialogs" style="display: none;">
+        <label id="site-info-message" >
+            </label>
+        <label id="site-error-message" >
+            </label>
+    </div>
+    </div>
+    
+<header id="panda-header">
+	<div class="contain">
+		<nav id="mainnav">
+      
+		<ul>
+			<li class="food-menu-drop-down"><a href="/menu/" id="nav_food"  title="Food">Food</a></li>
+			<li><a href="/locations/" id="nav_loca" title="Locations"  class="active" >Locations</a></li>
+			<li class="company-drop-down"><a href="/company/" id="nav_comp" title="Company"  >Company</a></li>
+			<li><a href="/connect/" id="nav_cont" title="Connect"  >Contact</a></li>
+		</ul>
+		</nav>
+		<h1 id="logo">
+            <img src="/img/header-logo.png" usemap="#home-logo" height="141" width="230"/>
+            <map name="home-logo">
+                <area shape="circle" coords="114,64,68" href="/"/>
+            </map>
+        </h1>
+		<div id="search">
+			<form method="post" action="/locations">
+				<label for="search-box">Find a Panda</label>
+                <input type="text" name="zipCode" id="search-box" value="Enter a City, State, or Zip" title="Enter a City, State, or Zip" />
+                <input type="submit" class="btn btn_searchgo" id="search-go" value="Go" />
+				<a href="#" class="btn btn_searchnear"><span class="btn btn_searchflag">Panda Express Near You</span></a>
+			</form>
+		</div>
+	</div>
+</header>
+<div id="drop-down">
+    <div class="contain">
+        <!-- FOOD DROP DOWN -->
+        <div id="menu-drop" class="mmmdrop">
+            <ul class="menu">
+                <li>
+                    <a href="/Menu">Menu &amp; Nutrition</a>
+                    <ul class="categories">
+                        
+                        <li>
+                            <a href="/Menu/Category/chicken-entrees">Chicken Entrees</a></li>
+                        
+                        <li>
+                            <a href="/Menu/Category/beef-entrees">Beef Entrees</a></li>
+                        
+                        <li>
+                            <a href="/Menu/Category/shrimp-entrees">Shrimp Entrees</a></li>
+                        
+                        <li>
+                            <a href="/Menu/Category/other-entrees">Other Entrees</a></li>
+                        
+                        <li>
+                            <a href="/Menu/Category/sides">Sides</a></li>
+                        
+                        <li>
+                            <a href="/Menu/Category/appetizers">Appetizers</a></li>
+                        
+                        <li>
+                            <a href="/Menu/Category/desserts">Desserts</a></li>
+                        
+                        <li>
+                            <a href="/Menu/Category/drinks">Drinks</a></li>
+                        </ul>
+                </li>
+            </ul>
+            <ul class="others">
+                <li>
+                    <a href="/MealBuilder">Build &amp; Share a Meal</a></li>
+                <li><a href="#" title="Gift Cards" class="gift-card-link">Gift Cards</a></li>
+                <li>
+                    <a href="/Catering">Catering</a></li>
+                <li>
+                    <a href="/Home/ShanghaiAngusSteak">Chef&#39;s Creations</a></li>
+            </ul>
+            <div class="featured">
+				<a href="/Menu/Category/beef-entrees#!/shanghai-angus-steak">
+                    <img src="http://s3.amazonaws.com/PandaExpressWebsite/files/features/shanghai-angus-steak/menu-drop-down-image.png" alt="Featured Item" />
+                </a>
+                <h6>
+                    <a href="/Menu/Category/beef-entrees#!/shanghai-angus-steak">Shanghai Angus Steak</a> 
+                </h6>
+                
+            </div>
+        </div>
+        <!-- /FOOD -->
+        <!-- COMPANY DROP DOWN -->
+        <div id="company-drop" class="mmmdrop">
+            <ul>
+                <li><a href="/company/#story">The Panda Story</a></li>
+                <li><a href="/company/#careers">Panda Careers</a></li>
+                <li><a href="/company/#press">News &amp; Press</a></li>
+                <li><a href="/company/#faq">Frequently Asked Questions</a></li>
+                <li><a href="/company/#community">Community Programs</a></li>
+                <li><a href="/company/#venues">Panda Venues</a></li>
+            </ul>
+        </div>
+        <!-- /COMPANY -->
+        <!-- LOCATION DROP DOWN -->
+        <div id="location-drop" class="mmmdrop">
+        </div>
+        <!-- /LOCATION -->
+    </div>
+</div>
+
+    <div id="main-content-placeholder">
+        
+    
+    
+    <div id="map-outer" style="position: fixed; top: 0px; left: 0px; width: 100%; height: 100%;">
+        <div id="map">
+        </div>
+    </div>
+    <div class="clouds" id="clouds1">
+    </div>
+    <div class="clouds" id="clouds2">
+    </div>
+    <section id="locations">
+
+	<div id="findpanda">
+		<form method="post" action="/locations">
+        <input id="Latitude" name="Latitude" type="hidden" value="" />
+        <input id="Longitude" name="Longitude" type="hidden" value="" />
+        
+        
+        <div id="search-area">
+            <div id="findform">
+			    
+				    <input PlaceHolder="Enter a City and State, or Zip" id="zipCode" name="zipCode" type="text" value="%" />
+                    <input type="submit" class="btn btn_fullgo" />
+			    
+		    </div>
+		    <ul id="findtabs">
+			    <li id="current-locations"><a href="#">Locations</a></li>
+			    <li id="future-locations"><a href="#">Opening Soon</a></li>
+		    </ul>
+        </div>
+        
+		<ul id="findresults">
+            
+            
+	            <li id="location100" class="current-locations">
+		            <span class="distance ">
+                    </span>
+                       <h4>GLENDALE GALLERIA I PANDA EXPRESS</h4>
+		            <address>3214 Glendale Galleria<br />Glendale, CA 91210     </address>
+	            </li>
+            
+	            <li id="location101" class="current-locations">
+		            <span class="distance ">
+                    </span>
+                       <h4>WESTSIDE MALL  PANDA EXPRESS</h4>
+		            <address>10800 West Pico Blvd. #310<br />Los Angeles, CA 90064     </address>
+	            </li>
+            
+	            <li id="location102" class="current-locations">
+		            <span class="distance ">
+                    </span>
+                       <h4>SOUTH BAY GALLERIA PANDA EXPRESS</h4>
+		            <address>1815 Hawthrone Bl. #312<br />Redondo Beach, CA 90278     </address>
+	            </li>
+            
+	            <li id="location103" class="current-locations">
+		            <span class="distance ">
+                    </span>
+                       <h4>NORTH COUNTY FAIR PANDA EXPRESS</h4>
+		            <address>200 E. Via Rancho Pkwy<br />Escondido, CA 92025     </address>
+	            </li>
+            
+	            <li id="location106" class="current-locations">
+		            <span class="distance ">
+                    </span>
+                       <h4>ALA MOANA MALL PANDA EXPRESS</h4>
+		            <address>1450 Ala Moana Bl. #fc 1160-n<br />Honolulu, HI 96814     </address>
+	            </li>
+            
+	            <li id="location108" class="current-locations">
+		            <span class="distance ">
+                    </span>
+                       <h4>SANTA ANA MALL PANDA EXPRESS</h4>
+		            <address>2800 N. Main St. #912<br />Santa Ana, CA 92701     </address>
+	            </li>
+            
+	            <li id="location109" class="current-locations">
+		            <span class="distance ">
+                    </span>
+                       <h4>VICTORVALLEY MALL PANDA EXPRESS</h4>
+		            <address>14400 Bear Valley Road, #713<br />Victorville, CA 92392     </address>
+	            </li>
+            
+	            <li id="location110" class="current-locations">
+		            <span class="distance ">
+                    </span>
+                       <h4>NEWPORT CENTER PANDA EXPRESS</h4>
+		            <address>30-303 Mall Drive W.<br />Jersey City, NJ 07310     </address>
+	            </li>
+            
+	            <li id="location112" class="current-locations">
+		            <span class="distance ">
+                    </span>
+                       <h4>STONESTOWN MALL  PANDA EXPRESS</h4>
+		            <address>3251 20th Ave. #250h<br />San Francisco, CA 94132     </address>
+	            </li>
+            
+	            <li id="location113" class="current-locations">
+		            <span class="distance ">
+                    </span>
+                       <h4>VALLEY PLAZA PANDA EXPRESS</h4>
+		            <address>2701 Ming Ave. Space # F-3<br />Bakersfield, CA 93304     </address>
+	            </li>
+            
+            
+
+            
+		    <li class="current-locations future-locations pagation">
+            
+                <div style="clear:both;"></div>
+            </li>
+        </ul>
+        </form>
+	</div>
+    
+</section>
+    <script type="text/javascript">
+
+    // create data points on the map
+    $(document).bind('Panda.Locations.loaded', function () {
+        // extra logic is for pagination
+        
+        Panda.Locations.addMarker('location100', 34.143191, -118.258986, {
+            id: 'location100',
+            lat: 34.143191,
+            lng: -118.258986,
+            title: 'GLENDALE GALLERIA I PANDA EXPRESS',
+            address: '3214 Glendale Galleria',
+            city: 'Glendale',
+            state: 'CA',
+            zip: '91210     ',
+            country: 'USA',
+            crossstreet: '',
+            drivethru: false,
+            phone: '818-507-4740',
+            fax: '818-507-0681',
+            openingSoon: false,
+            
+                hours: {
+                    sunday: { open: '11:00 AM', close: '7:00 PM' },
+                    monday: { open: '10:00 AM', close: '9:00 PM' },
+                    tuesday: { open: '10:00 AM', close: '9:00 PM' },
+                    wednesday: { open: '10:00 AM', close: '9:00 PM' },
+                    thursday: { open: '10:00 AM', close: '9:00 PM' },
+                    friday: { open: '10:00 AM', close: '9:00 PM' },
+                    saturday: { open: '10:00 AM', close: '9:00 PM' }
+                }
+            
+        });
+        
+        Panda.Locations.addMarker('location101', 34.036088, -118.427199, {
+            id: 'location101',
+            lat: 34.036088,
+            lng: -118.427199,
+            title: 'WESTSIDE MALL  PANDA EXPRESS',
+            address: '10800 West Pico Blvd. #310',
+            city: 'Los Angeles',
+            state: 'CA',
+            zip: '90064     ',
+            country: 'USA',
+            crossstreet: 'Westwood &amp; Pico ',
+            drivethru: false,
+            phone: '310-470-7789',
+            fax: '310-474-3419',
+            openingSoon: false,
+            
+                hours: {
+                    sunday: { open: '11:00 AM', close: '7:00 PM' },
+                    monday: { open: '10:00 AM', close: '9:00 PM' },
+                    tuesday: { open: '10:00 AM', close: '9:00 PM' },
+                    wednesday: { open: '10:00 AM', close: '9:00 PM' },
+                    thursday: { open: '10:00 AM', close: '9:00 PM' },
+                    friday: { open: '10:00 AM', close: '9:00 PM' },
+                    saturday: { open: '10:00 AM', close: '8:00 PM' }
+                }
+            
+        });
+        
+        Panda.Locations.addMarker('location102', 33.84445, -118.387944, {
+            id: 'location102',
+            lat: 33.84445,
+            lng: -118.387944,
+            title: 'SOUTH BAY GALLERIA PANDA EXPRESS',
+            address: '1815 Hawthrone Bl. #312',
+            city: 'Redondo Beach',
+            state: 'CA',
+            zip: '90278     ',
+            country: 'USA',
+            crossstreet: '3RD FLOOR - FOOD COURT BY Kohl&#39;s',
+            drivethru: false,
+            phone: '310-542-3466',
+            fax: '310-371-5743',
+            openingSoon: false,
+            
+                hours: {
+                    sunday: { open: '11:00 AM', close: '7:00 PM' },
+                    monday: { open: '10:00 AM', close: '9:00 PM' },
+                    tuesday: { open: '10:00 AM', close: '9:00 PM' },
+                    wednesday: { open: '10:00 AM', close: '9:00 PM' },
+                    thursday: { open: '10:00 AM', close: '9:00 PM' },
+                    friday: { open: '10:00 AM', close: '9:00 PM' },
+                    saturday: { open: '10:00 AM', close: '8:00 PM' }
+                }
+            
+        });
+        
+        Panda.Locations.addMarker('location103', 33.069159, -117.068678, {
+            id: 'location103',
+            lat: 33.069159,
+            lng: -117.068678,
+            title: 'NORTH COUNTY FAIR PANDA EXPRESS',
+            address: '200 E. Via Rancho Pkwy',
+            city: 'Escondido',
+            state: 'CA',
+            zip: '92025     ',
+            country: 'USA',
+            crossstreet: '1st Floor in Foodcourt',
+            drivethru: false,
+            phone: '760-480-8221',
+            fax: '760-480-6386',
+            openingSoon: false,
+            
+                hours: {
+                    sunday: { open: '11:00 AM', close: '6:00 PM' },
+                    monday: { open: '11:00 AM', close: '9:00 PM' },
+                    tuesday: { open: '11:00 AM', close: '9:00 PM' },
+                    wednesday: { open: '11:00 AM', close: '9:00 PM' },
+                    thursday: { open: '11:00 AM', close: '9:00 PM' },
+                    friday: { open: '11:00 AM', close: '9:00 PM' },
+                    saturday: { open: '11:00 AM', close: '8:00 PM' }
+                }
+            
+        });
+        
+        Panda.Locations.addMarker('location106', 21.289631, -157.842799, {
+            id: 'location106',
+            lat: 21.289631,
+            lng: -157.842799,
+            title: 'ALA MOANA MALL PANDA EXPRESS',
+            address: '1450 Ala Moana Bl. #fc 1160-n',
+            city: 'Honolulu',
+            state: 'HI',
+            zip: '96814     ',
+            country: 'USA',
+            crossstreet: '1ST FLOOR - FOODCOURT BY SEARS',
+            drivethru: false,
+            phone: '808-941-8686',
+            fax: '808-943-6972',
+            openingSoon: false,
+            
+                hours: {
+                    sunday: { open: '9:30 AM', close: '7:00 PM' },
+                    monday: { open: '9:30 AM', close: '9:00 PM' },
+                    tuesday: { open: '9:30 AM', close: '9:00 PM' },
+                    wednesday: { open: '9:30 AM', close: '9:00 PM' },
+                    thursday: { open: '9:30 AM', close: '9:00 PM' },
+                    friday: { open: '9:30 AM', close: '9:00 PM' },
+                    saturday: { open: '9:30 AM', close: '9:00 PM' }
+                }
+            
+        });
+        
+        Panda.Locations.addMarker('location108', 33.776664, -117.867517, {
+            id: 'location108',
+            lat: 33.776664,
+            lng: -117.867517,
+            title: 'SANTA ANA MALL PANDA EXPRESS',
+            address: '2800 N. Main St. #912',
+            city: 'Santa Ana',
+            state: 'CA',
+            zip: '92701     ',
+            country: 'USA',
+            crossstreet: 'SECOND FLOOR FOODCOURT NEAR MACYS',
+            drivethru: false,
+            phone: '714-550-1116',
+            fax: '714-550-0406',
+            openingSoon: false,
+            
+                hours: {
+                    sunday: { open: '11:00 AM', close: '7:00 PM' },
+                    monday: { open: '10:00 AM', close: '9:00 PM' },
+                    tuesday: { open: '10:00 AM', close: '9:00 PM' },
+                    wednesday: { open: '10:00 AM', close: '9:00 PM' },
+                    thursday: { open: '10:00 AM', close: '9:00 PM' },
+                    friday: { open: '10:00 AM', close: '9:00 PM' },
+                    saturday: { open: '10:00 AM', close: '8:00 PM' }
+                }
+            
+        });
+        
+        Panda.Locations.addMarker('location109', 34.470637, -117.349147, {
+            id: 'location109',
+            lat: 34.470637,
+            lng: -117.349147,
+            title: 'VICTORVALLEY MALL PANDA EXPRESS',
+            address: '14400 Bear Valley Road, #713',
+            city: 'Victorville',
+            state: 'CA',
+            zip: '92392     ',
+            country: 'USA',
+            crossstreet: 'GROUND FLOOR FOODCOURT BY JC PENNYS',
+            drivethru: false,
+            phone: '760-241-8821',
+            fax: '760-241-1241',
+            openingSoon: false,
+            
+                hours: {
+                    sunday: { open: '11:00 AM', close: '7:00 PM' },
+                    monday: { open: '10:00 AM', close: '9:00 PM' },
+                    tuesday: { open: '10:00 AM', close: '9:00 PM' },
+                    wednesday: { open: '10:00 AM', close: '9:00 PM' },
+                    thursday: { open: '10:00 AM', close: '9:00 PM' },
+                    friday: { open: '10:00 AM', close: '9:00 PM' },
+                    saturday: { open: '10:00 AM', close: '8:00 PM' }
+                }
+            
+        });
+        
+        Panda.Locations.addMarker('location110', 40.726299, -74.038692, {
+            id: 'location110',
+            lat: 40.726299,
+            lng: -74.038692,
+            title: 'NEWPORT CENTER PANDA EXPRESS',
+            address: '30-303 Mall Drive W.',
+            city: 'Jersey City',
+            state: 'NJ',
+            zip: '07310     ',
+            country: 'USA',
+            crossstreet: '3RD FLOOR - FOODCOURT BY THEATRES',
+            drivethru: false,
+            phone: '201-420-0802',
+            fax: '201-420-0904',
+            openingSoon: false,
+            
+                hours: {
+                    sunday: { open: '11:00 AM', close: '6:30 PM' },
+                    monday: { open: '10:30 AM', close: '9:30 PM' },
+                    tuesday: { open: '10:30 AM', close: '9:30 PM' },
+                    wednesday: { open: '10:30 AM', close: '9:30 PM' },
+                    thursday: { open: '10:30 AM', close: '9:30 PM' },
+                    friday: { open: '10:30 AM', close: '9:30 PM' },
+                    saturday: { open: '10:30 AM', close: '9:30 PM' }
+                }
+            
+        });
+        
+        Panda.Locations.addMarker('location112', 37.728458, -122.475603, {
+            id: 'location112',
+            lat: 37.728458,
+            lng: -122.475603,
+            title: 'STONESTOWN MALL  PANDA EXPRESS',
+            address: '3251 20th Ave. #250h',
+            city: 'San Francisco',
+            state: 'CA',
+            zip: '94132     ',
+            country: 'USA',
+            crossstreet: '2ND FLOOR - FOODCOURT BY MACYS',
+            drivethru: false,
+            phone: '415-665-9770',
+            fax: '415-665-2707',
+            openingSoon: false,
+            
+                hours: {
+                    sunday: { open: '11:00 AM', close: '6:00 PM' },
+                    monday: { open: '10:00 AM', close: '9:00 PM' },
+                    tuesday: { open: '10:00 AM', close: '9:00 PM' },
+                    wednesday: { open: '10:00 AM', close: '9:00 PM' },
+                    thursday: { open: '10:00 AM', close: '9:00 PM' },
+                    friday: { open: '10:00 AM', close: '9:00 PM' },
+                    saturday: { open: '10:00 AM', close: '9:00 PM' }
+                }
+            
+        });
+        
+        Panda.Locations.addMarker('location113', 35.339263, -119.032994, {
+            id: 'location113',
+            lat: 35.339263,
+            lng: -119.032994,
+            title: 'VALLEY PLAZA PANDA EXPRESS',
+            address: '2701 Ming Ave. Space # F-3',
+            city: 'Bakersfield',
+            state: 'CA',
+            zip: '93304     ',
+            country: 'USA',
+            crossstreet: 'LOCATED IN THE FOODCOURT BY MACYS',
+            drivethru: false,
+            phone: '661-832-8860',
+            fax: '661-832-2074',
+            openingSoon: false,
+            
+                hours: {
+                    sunday: { open: '10:30 AM', close: '6:00 PM' },
+                    monday: { open: '10:00 AM', close: '9:00 PM' },
+                    tuesday: { open: '10:00 AM', close: '9:00 PM' },
+                    wednesday: { open: '10:00 AM', close: '9:00 PM' },
+                    thursday: { open: '10:00 AM', close: '9:00 PM' },
+                    friday: { open: '10:00 AM', close: '9:00 PM' },
+                    saturday: { open: '10:00 AM', close: '9:00 PM' }
+                }
+            
+        });
+        
+
+        // center the map on the current first result
+        
+        Panda.Locations.centerMap(34.143191,-118.258986);
+        
+
+        Panda.Locations.toggleMarkers('current-locations');
+
+        // Panda.Locations.SummerBear();
+    });
+
+    </script>
+
+    </div>
+    
+<footer id="panda-footer">
+
+	<div class="contain">
+		<nav id="auxnav">
+			<a href="#" title="Email Sign Up" class="email-signup-link">Email Sign Up</a>
+			<a href="#" title="Quick Contact" class="quick-contact-link">Quick Contact</a>
+			<a href="#" title="Gift Cards" class="gift-card-link">Gift Cards</a>
+		</nav>
+		<div class="copy">&copy; 2012 Panda Restaurant Group, Inc. All rights reserved. 
+        <br />
+        <a href="/Home/PrivacyPolicy">Privacy Policy</a> - <a href="/Home/LegalStatement">Legal Statement</a>  - <a href="/Home/CASupplyChainAct">CA Supply Chain Act</a></div>
+		<div id="social">
+			<a target="_blank" href="http://www.facebook.com/PandaExpress" class="btn btn_facebook">Facebook</a>
+			<a target="_blank" href="http://www.youtube.com/user/PandaExpressTV/videos" class="btn btn_youtube">YouTube</a>
+		</div>
+		
+        <div Id="bear" class="summer-hours-bear"></div>
+        <div id="action-bear">
+            
+		</div>
+	</div>
+</footer>
+
+    <div id="dToverlay">
+        <div class="overlay-container">
+        </div>
+    </div>
+</body>
+</html>

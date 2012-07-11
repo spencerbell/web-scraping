@@ -1,0 +1,5 @@
+from hosted.where2getit.com
+
+http://hosted.where2getit.com/safeway/ajax?&xml_request=%3Crequest%3E%3Cappkey%3E5D7395E2-BFE9-11DE-B770-BEE374652C6E%3C%2Fappkey%3E%3Cformdata%20id%3D%22locatorsearch%22%3E%3Cdataview%3Estore_default%3C%2Fdataview%3E%3Cgeolocs%3E%3Cgeoloc%3E%3Caddressline%3E78701%3C%2Faddressline%3E%3Clongitude%3E%3C%2Flongitude%3E%3Clatitude%3E%3C%2Flatitude%3E%3C%2Fgeoloc%3E%3C%2Fgeolocs%3E%3Csearchradius%3E3000%3C%2Fsearchradius%3E%3C%2Fformdata%3E%3C%2Frequest%3E
+
+curl xslt done. make sure it is only randalls and not safeways.

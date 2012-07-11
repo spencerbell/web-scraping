@@ -1,0 +1,9 @@
+HTTP POST:
+
+https://mobile.dominos.com/mobile/wap_servlet
+
+
+street=&zip=77095&city=&state=&COMMAND_FINDSTORE=
+
+curl -d 'street=&zip=77095&city=&state=&COMMAND_FINDSTORE=' "https://mobile.dominos.com/mobile/wap_servlet"
+

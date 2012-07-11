@@ -1,0 +1,5 @@
+use the mobile site: http://mobile.walmart.com/m/?wicket:bookmarkablePage=:com.wm.mobile.web.finder.SearchStoreFinderResults&lat=0.0&lon=0.0&zip=78701&city=&state=AL
+
+- use the zipcodes to poll the first page of results. 
+- use 10 second delay on getting results
+

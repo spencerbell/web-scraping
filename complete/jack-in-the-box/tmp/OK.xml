@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<location_resultset>
+<locations count="14">
+<location hrs='0' >
+<address><![CDATA[1501 N Country Club Dr]]></address>
+<city><![CDATA[Ada]]></city>
+<state><![CDATA[OK]]></state>
+<zip><![CDATA[74820]]></zip>
+<phone><![CDATA[(580) 421-9695]]></phone>
+<location_id><![CDATA[6100]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[1036 W Broadway St]]></address>
+<city><![CDATA[Ardmore]]></city>
+<state><![CDATA[OK]]></state>
+<zip><![CDATA[73401]]></zip>
+<phone><![CDATA[(580) 223-1886]]></phone>
+<location_id><![CDATA[6138]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2221 W Kenosha St]]></address>
+<city><![CDATA[Broken Arrow]]></city>
+<state><![CDATA[OK]]></state>
+<zip><![CDATA[74012]]></zip>
+<phone><![CDATA[(918) 258-0245]]></phone>
+<location_id><![CDATA[6139]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2117 W Main St]]></address>
+<city><![CDATA[Durant]]></city>
+<state><![CDATA[OK]]></state>
+<zip><![CDATA[74701]]></zip>
+<phone><![CDATA[(580) 931-3502]]></phone>
+<location_id><![CDATA[6137]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[2108 W Danforth Rd Coe]]></address>
+<city><![CDATA[Edmond]]></city>
+<state><![CDATA[OK]]></state>
+<zip><![CDATA[73003]]></zip>
+<phone><![CDATA[(405) 359-4929]]></phone>
+<location_id><![CDATA[6149]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7085 Se 29th St]]></address>
+<city><![CDATA[Midwest City]]></city>
+<state><![CDATA[OK]]></state>
+<zip><![CDATA[73110]]></zip>
+<phone><![CDATA[(405) 741-0101]]></phone>
+<location_id><![CDATA[6140]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[690 Sw 19th St]]></address>
+<city><![CDATA[Moore]]></city>
+<state><![CDATA[OK]]></state>
+<zip><![CDATA[73160]]></zip>
+<phone><![CDATA[(405) 793-0546]]></phone>
+<location_id><![CDATA[6144]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[615 12th Ave Ne]]></address>
+<city><![CDATA[Norman]]></city>
+<state><![CDATA[OK]]></state>
+<zip><![CDATA[73070]]></zip>
+<phone><![CDATA[(405) 329-2981]]></phone>
+<location_id><![CDATA[6141]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[540 S Macarthur Blvd]]></address>
+<city><![CDATA[Oklahoma City]]></city>
+<state><![CDATA[OK]]></state>
+<zip><![CDATA[73128]]></zip>
+<phone><![CDATA[(405) 948-3174]]></phone>
+<location_id><![CDATA[6143]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[7100 S May Ave]]></address>
+<city><![CDATA[Oklahoma City]]></city>
+<state><![CDATA[OK]]></state>
+<zip><![CDATA[73159]]></zip>
+<phone><![CDATA[(405) 684-2376]]></phone>
+<location_id><![CDATA[6150]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[5301 N May Ave]]></address>
+<city><![CDATA[Oklahoma City]]></city>
+<state><![CDATA[OK]]></state>
+<zip><![CDATA[73112]]></zip>
+<phone><![CDATA[(405) 917-7715]]></phone>
+<location_id><![CDATA[6152]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[10861 E 41st St]]></address>
+<city><![CDATA[Tulsa]]></city>
+<state><![CDATA[OK]]></state>
+<zip><![CDATA[74146]]></zip>
+<phone><![CDATA[(918) 660-7880]]></phone>
+<location_id><![CDATA[6145]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[4840 S Yale Ave]]></address>
+<city><![CDATA[Tulsa]]></city>
+<state><![CDATA[OK]]></state>
+<zip><![CDATA[74135]]></zip>
+<phone><![CDATA[(918) 493-6537]]></phone>
+<location_id><![CDATA[6146]]></location_id>
+</location>
+<location hrs='7' >
+<address><![CDATA[10014 S Memorial Dr E]]></address>
+<city><![CDATA[Tulsa]]></city>
+<state><![CDATA[OK]]></state>
+<zip><![CDATA[74133]]></zip>
+<phone><![CDATA[(918) 298-4501]]></phone>
+<location_id><![CDATA[6151]]></location_id>
+</location>
+</locations></location_resultset>
+						

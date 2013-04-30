@@ -12,8 +12,8 @@ curl_setopt($ch,CURLOPT_RETURNTRANSFER,true);
 
 $xml = new DOMDocument();
 
-@unlink(__DIR__. '/output/locations.csv');
-$outfile = fopen(__DIR__ . '/output/locations.csv','w');
+@unlink(__DIR__. '/locations.csv');
+$outfile = fopen(__DIR__ . '/locations.csv','w');
 
 $header = array(
 	'storeid',

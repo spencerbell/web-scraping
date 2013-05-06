@@ -1,6 +1,5 @@
 # Define your item pipelines here
 import sys
-import MySQLdb
 import hashlib
 from scrapy import signals
 from scrapy.exceptions import DropItem

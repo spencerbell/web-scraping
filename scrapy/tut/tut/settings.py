@@ -15,6 +15,6 @@ NEWSPIDER_MODULE = 'tut.spiders'
 USER_AGENT = 'tut (+http://www.yourdomain.com)'
 
 ITEM_PIPELINES = [
-#  'tut.pipeline.PostgreSQLStorePipeline',
-  
+#   'tut.pipeline.PostgreSQLStorePipeline',
+    'tut.pipelines.DuplicateItemPipeline',
 ]
